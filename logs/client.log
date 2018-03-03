@@ -1,0 +1,372 @@
+2018-03-02 15:59:06,400 client[4708] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-02 16:36:12,661 client[2816] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-02 16:36:29,672 client[2816] ERROR Traceback (most recent call last):
+  File "E:\github\webot\source\wxproxy\client.py", line 35, in main
+    __wechat.running()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 257, in running
+    [retcode, selector] = self.sync_check()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 303, in sync_check
+    '/cgi-bin/mmwebwx-bin/synccheck?' + urllib.urlencode(params)
+AttributeError: module 'urllib' has no attribute 'urlencode'
+
+2018-03-02 16:36:29,682 client[2816] WARNING 异常退出程序
+2018-03-02 16:38:20,359 client[13700] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-02 16:38:31,632 client[13700] ERROR Traceback (most recent call last):
+  File "E:\github\webot\source\wxproxy\client.py", line 35, in main
+    __wechat.running()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 257, in running
+    [retcode, selector] = self.sync_check()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 308, in sync_check
+    pm = re.search(r'window.synccheck={retcode:"(\d+)",selector:"(\d+)"}', data)
+  File "E:\github\webot\venv\lib\re.py", line 182, in search
+    return _compile(pattern, flags).search(string)
+TypeError: cannot use a string pattern on a bytes-like object
+
+2018-03-02 16:38:31,662 client[13700] WARNING 异常退出程序
+2018-03-02 16:40:49,265 client[7436] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-02 16:41:02,750 client[7436] ERROR Traceback (most recent call last):
+  File "E:\github\webot\source\wxproxy\client.py", line 35, in main
+    __wechat.running()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 257, in running
+    [retcode, selector] = self.sync_check()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 304, in sync_check
+    data = get(url).encode('utf-8')
+AttributeError: 'bytes' object has no attribute 'encode'
+
+2018-03-02 16:41:02,750 client[7436] WARNING 异常退出程序
+2018-03-02 16:41:23,323 client[4620] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-02 17:30:01,808 client[4620] WARNING 强制退出程序
+2018-03-02 17:30:04,568 client[8040] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-02 17:30:42,142 client[8040] ERROR Traceback (most recent call last):
+  File "E:\github\webot\source\wxproxy\client.py", line 35, in main
+    __wechat.running()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 250, in running
+    handle_msg(self.cookies, self.tai_id, r)
+  File "E:\github\webot\source\wxproxy\handler\msg_handler.py", line 20, in handle_msg
+    cookie = requests.utils.cookiejar_from_dict(cookies)
+  File "E:\github\webot\venv\lib\site-packages\requests\cookies.py", line 518, in cookiejar_from_dict
+    cookiejar.set_cookie(create_cookie(name, cookie_dict[name]))
+TypeError: 'CookieJar' object is not subscriptable
+
+2018-03-02 17:30:42,152 client[8040] WARNING 异常退出程序
+2018-03-02 17:34:58,614 client[10776] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-02 17:35:31,210 client[10776] ERROR Traceback (most recent call last):
+  File "E:\github\webot\source\wxproxy\client.py", line 35, in main
+    __wechat.running()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 251, in running
+    handle_msg(json.loads(self.cookies), self.tai_id, r)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\Lib\json\__init__.py", line 348, in loads
+    'not {!r}'.format(s.__class__.__name__))
+TypeError: the JSON object must be str, bytes or bytearray, not 'CookieJar'
+
+2018-03-02 17:35:31,230 client[10776] WARNING 异常退出程序
+2018-03-02 17:36:28,148 client[10212] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-02 17:37:27,290 client[10212] ERROR Traceback (most recent call last):
+  File "E:\github\webot\source\wxproxy\client.py", line 35, in main
+    __wechat.running()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 251, in running
+    logger.debug(json.loads(self.cookies))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\Lib\json\__init__.py", line 348, in loads
+    'not {!r}'.format(s.__class__.__name__))
+TypeError: the JSON object must be str, bytes or bytearray, not 'CookieJar'
+
+2018-03-02 17:37:27,290 client[10212] WARNING 异常退出程序
+2018-03-02 17:40:15,949 client[1324] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-02 17:40:53,128 client[1324] ERROR Traceback (most recent call last):
+  File "E:\github\webot\source\wxproxy\client.py", line 35, in main
+    __wechat.running()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 251, in running
+    handle_msg(json.loads(self.cookies, object_hook=decode_dict), self.tai_id, r)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\Lib\json\__init__.py", line 348, in loads
+    'not {!r}'.format(s.__class__.__name__))
+TypeError: the JSON object must be str, bytes or bytearray, not 'CookieJar'
+
+2018-03-02 17:40:53,128 client[1324] WARNING 异常退出程序
+2018-03-02 17:41:43,417 client[6116] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-02 17:41:53,857 client[6116] ERROR Traceback (most recent call last):
+  File "E:\github\webot\source\wxproxy\client.py", line 35, in main
+    __wechat.running()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 251, in running
+    logger.debug(json.loads(self.cookies, object_hook=decode_dict))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\Lib\json\__init__.py", line 348, in loads
+    'not {!r}'.format(s.__class__.__name__))
+TypeError: the JSON object must be str, bytes or bytearray, not 'CookieJar'
+
+2018-03-02 17:41:53,867 client[6116] WARNING 异常退出程序
+2018-03-02 17:43:06,240 client[6320] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-02 17:43:13,520 client[6320] ERROR Traceback (most recent call last):
+  File "E:\github\webot\source\wxproxy\client.py", line 35, in main
+    __wechat.running()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 251, in running
+    logger.debug(json.loads(self.cookies))
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\Lib\json\__init__.py", line 348, in loads
+    'not {!r}'.format(s.__class__.__name__))
+TypeError: the JSON object must be str, bytes or bytearray, not 'CookieJar'
+
+2018-03-02 17:43:13,530 client[6320] WARNING 异常退出程序
+2018-03-02 17:44:01,640 client[9720] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-02 17:44:09,387 client[9720] ERROR Traceback (most recent call last):
+  File "E:\github\webot\source\wxproxy\client.py", line 35, in main
+    __wechat.running()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 252, in running
+    handle_msg(json.loads(self.cookies, object_hook=decode_dict), self.tai_id, r)
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python36-32\Lib\json\__init__.py", line 348, in loads
+    'not {!r}'.format(s.__class__.__name__))
+TypeError: the JSON object must be str, bytes or bytearray, not 'CookieJar'
+
+2018-03-02 17:44:09,387 client[9720] WARNING 异常退出程序
+2018-03-02 17:45:04,224 client[13416] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-02 17:45:14,263 client[13416] ERROR Traceback (most recent call last):
+  File "E:\github\webot\source\wxproxy\client.py", line 35, in main
+    __wechat.running()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 252, in running
+    handle_msg(str(self.cookies), self.tai_id, r)
+  File "E:\github\webot\source\wxproxy\handler\msg_handler.py", line 20, in handle_msg
+    cookie = requests.utils.cookiejar_from_dict(cookies)
+  File "E:\github\webot\venv\lib\site-packages\requests\cookies.py", line 518, in cookiejar_from_dict
+    cookiejar.set_cookie(create_cookie(name, cookie_dict[name]))
+TypeError: string indices must be integers
+
+2018-03-02 17:45:14,273 client[13416] WARNING 异常退出程序
+2018-03-02 18:06:31,908 client[9160] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-02 18:07:03,080 client[9160] ERROR Traceback (most recent call last):
+  File "E:\github\webot\source\wxproxy\client.py", line 35, in main
+    __wechat.running()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 233, in running
+    [retcode, selector] = self.sync_check()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 285, in sync_check
+    retcode = pm.group(1)
+AttributeError: 'NoneType' object has no attribute 'group'
+
+2018-03-02 18:07:03,110 client[9160] WARNING 异常退出程序
+2018-03-02 18:18:56,469 client[1336] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-02 18:19:26,139 client[1336] ERROR Traceback (most recent call last):
+  File "E:\github\webot\source\wxproxy\client.py", line 35, in main
+    __wechat.running()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 233, in running
+    [retcode, selector] = self.sync_check()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 284, in sync_check
+    retcode = pm.group(1)
+AttributeError: 'NoneType' object has no attribute 'group'
+
+2018-03-02 18:19:26,149 client[1336] WARNING 异常退出程序
+2018-03-02 18:31:24,608 client[8584] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-02 18:31:43,860 client[8584] ERROR Traceback (most recent call last):
+  File "E:\github\webot\source\wxproxy\client.py", line 29, in main
+    __wechat.login()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 68, in login
+    self.build_qr_code()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 132, in build_qr_code
+    os.startfile(file)
+OSError: [WinError 1726] 远程过程调用失败。: '/tmp\\4efml3YEqQ==-1519986698.1411972.jpg'
+
+2018-03-02 18:31:43,880 client[8584] WARNING 异常退出程序
+2018-03-02 18:31:49,482 client[1424] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-02 18:32:17,502 client[1424] ERROR Traceback (most recent call last):
+  File "E:\github\webot\source\wxproxy\client.py", line 29, in main
+    __wechat.login()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 69, in login
+    redirect_uri = self.waiting_to_login()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 143, in waiting_to_login
+    code = pm.group(1)
+AttributeError: 'NoneType' object has no attribute 'group'
+
+2018-03-02 18:32:17,502 client[1424] WARNING 异常退出程序
+2018-03-02 18:32:57,490 client[3796] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-02 18:32:58,929 client[3796] ERROR Traceback (most recent call last):
+  File "E:\github\webot\source\wxproxy\client.py", line 29, in main
+    __wechat.login()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 67, in login
+    self.uuid = self.get_uuid()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 115, in get_uuid
+    pm = re.search(regx, data)
+  File "E:\github\webot\venv\lib\re.py", line 182, in search
+    return _compile(pattern, flags).search(string)
+TypeError: cannot use a string pattern on a bytes-like object
+
+2018-03-02 18:32:58,929 client[3796] WARNING 异常退出程序
+2018-03-02 18:35:18,401 client[5296] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-02 18:35:18,639 client[5296] ERROR login failed... msg: get uuid failed ...
+2018-03-02 18:35:33,660 client[5296] INFO 强制退出程序
+2018-03-02 18:35:40,159 client[13384] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-02 18:35:41,539 client[13384] ERROR login failed... msg: get uuid failed ...
+2018-03-02 18:35:52,820 client[13384] WARNING 强制退出程序
+2018-03-02 18:36:32,959 client[4684] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-02 18:36:33,221 client[4684] ERROR login failed... msg: get uuid failed ...
+2018-03-02 18:36:37,511 client[4684] WARNING 强制退出程序
+2018-03-02 18:36:39,521 client[4736] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-02 18:36:39,738 client[4736] ERROR login failed... msg: get uuid failed ...
+2018-03-02 18:36:53,760 client[4736] WARNING 强制退出程序
+2018-03-02 18:38:46,381 client[6668] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-02 18:38:46,651 client[6668] ERROR login failed... msg: get uuid failed ...
+2018-03-02 18:38:51,150 client[6668] WARNING 强制退出程序
+2018-03-02 18:39:08,440 client[7292] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-02 18:39:08,730 client[7292] ERROR login failed... msg: get uuid failed ...
+2018-03-02 18:40:22,069 client[14048] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-02 18:40:22,339 client[14048] ERROR Traceback (most recent call last):
+  File "E:\github\webot\source\wxproxy\client.py", line 29, in main
+    __wechat.login()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 67, in login
+    self.uuid = self.get_uuid()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 115, in get_uuid
+    pm = re.search(regx, data)
+  File "E:\github\webot\venv\lib\re.py", line 182, in search
+    return _compile(pattern, flags).search(string)
+TypeError: cannot use a string pattern on a bytes-like object
+
+2018-03-02 18:40:22,349 client[14048] WARNING 异常退出程序
+2018-03-02 18:41:18,430 client[1664] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-02 18:41:19,754 client[1664] ERROR Traceback (most recent call last):
+  File "E:\github\webot\source\wxproxy\client.py", line 29, in main
+    __wechat.login()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 67, in login
+    self.uuid = self.get_uuid()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 111, in get_uuid
+    data = post(url, params, False).encode()
+AttributeError: 'bytes' object has no attribute 'encode'
+
+2018-03-02 18:41:19,764 client[1664] WARNING 异常退出程序
+2018-03-02 18:41:33,081 client[6464] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-02 18:41:45,541 client[6464] ERROR Traceback (most recent call last):
+  File "E:\github\webot\source\wxproxy\client.py", line 29, in main
+    __wechat.login()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 69, in login
+    redirect_uri = self.waiting_to_login()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 143, in waiting_to_login
+    code = pm.group(1)
+AttributeError: 'NoneType' object has no attribute 'group'
+
+2018-03-02 18:41:45,541 client[6464] WARNING 异常退出程序
+2018-03-02 18:42:31,189 client[900] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-02 18:42:36,970 client[900] ERROR Traceback (most recent call last):
+  File "E:\github\webot\source\wxproxy\client.py", line 29, in main
+    __wechat.login()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 69, in login
+    redirect_uri = self.waiting_to_login()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 141, in waiting_to_login
+    data = get(url).decode()
+AttributeError: 'str' object has no attribute 'decode'
+
+2018-03-02 18:42:36,970 client[900] WARNING 异常退出程序
+2018-03-02 18:42:54,141 client[12072] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-02 18:42:58,260 client[12072] ERROR Traceback (most recent call last):
+  File "E:\github\webot\source\wxproxy\client.py", line 29, in main
+    __wechat.login()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 69, in login
+    redirect_uri = self.waiting_to_login()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 143, in waiting_to_login
+    code = pm.group(1)
+AttributeError: 'NoneType' object has no attribute 'group'
+
+2018-03-02 18:42:58,270 client[12072] WARNING 异常退出程序
+2018-03-02 18:43:43,629 client[5444] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-02 18:43:47,969 client[5444] ERROR Traceback (most recent call last):
+  File "E:\github\webot\source\wxproxy\client.py", line 29, in main
+    __wechat.login()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 69, in login
+    redirect_uri = self.waiting_to_login()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 144, in waiting_to_login
+    code = pm.group(1)
+AttributeError: 'NoneType' object has no attribute 'group'
+
+2018-03-02 18:43:47,969 client[5444] WARNING 异常退出程序
+2018-03-02 18:45:16,899 client[5824] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-02 18:45:20,632 client[5824] ERROR Traceback (most recent call last):
+  File "E:\github\webot\source\wxproxy\client.py", line 29, in main
+    __wechat.login()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 69, in login
+    redirect_uri = self.waiting_to_login()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 144, in waiting_to_login
+    code = pm.group(1)
+AttributeError: 'NoneType' object has no attribute 'group'
+
+2018-03-02 18:45:20,632 client[5824] WARNING 异常退出程序
+2018-03-02 18:46:34,790 client[7624] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-02 18:48:01,929 client[9960] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-02 18:48:30,569 client[9960] ERROR Traceback (most recent call last):
+  File "E:\github\webot\source\wxproxy\client.py", line 31, in main
+    __wechat.running()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 234, in running
+    [retcode, selector] = self.sync_check()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 285, in sync_check
+    retcode = pm.group(1)
+AttributeError: 'NoneType' object has no attribute 'group'
+
+2018-03-02 18:48:30,579 client[9960] WARNING 异常退出程序
+2018-03-02 18:50:40,002 client[7040] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-02 19:13:32,794 client[7040] ERROR Traceback (most recent call last):
+  File "E:\github\webot\source\wxproxy\handler\msg_handler.py", line 135, in parse_msg
+    logger.warning('Assuming phone entering chat UI')
+  File "E:\github\webot\venv\lib\site-packages\xmltodict.py", line 330, in parse
+    parser.Parse(xml_input, True)
+xml.parsers.expat.ExpatError: no element found: line 1, column 0
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\github\webot\source\wxproxy\client.py", line 31, in main
+    __wechat.running()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 251, in running
+    # 使用队列，异步
+  File "E:\github\webot\source\wxproxy\handler\msg_handler.py", line 44, in handle_msg
+  File "E:\github\webot\source\wxproxy\handler\msg_handler.py", line 139, in parse_msg
+    content = '[*] 当前聊天界面有新的消息'
+AttributeError: 'ExpatError' object has no attribute 'message'
+
+2018-03-02 19:13:32,814 client[7040] WARNING 异常退出程序
+2018-03-02 19:19:35,787 client[1036] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-02 20:10:15,700 client[1036] WARNING 强制退出程序
+2018-03-02 20:10:19,990 client[11616] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-02 20:45:43,115 client[11616] WARNING 强制退出程序
+2018-03-02 20:45:48,485 client[7308] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-02 20:46:40,722 client[7308] ERROR Traceback (most recent call last):
+  File "E:\github\webot\source\wxproxy\handler\msg_handler.py", line 129, in parse_msg
+    d = xmltodict.parse(content)
+  File "E:\github\webot\venv\lib\site-packages\xmltodict.py", line 330, in parse
+    parser.Parse(xml_input, True)
+xml.parsers.expat.ExpatError: no element found: line 1, column 0
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\github\webot\source\wxproxy\client.py", line 31, in main
+    __wechat.running()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 252, in running
+    handle_msg(self.account, self.tai_id, r)
+  File "E:\github\webot\source\wxproxy\handler\msg_handler.py", line 39, in handle_msg
+    parse_msg(account, msg)
+  File "E:\github\webot\source\wxproxy\handler\msg_handler.py", line 133, in parse_msg
+    logger.warning('Caught error {e.__class__}: {e.message}'.format(e=e))
+AttributeError: 'ExpatError' object has no attribute 'message'
+
+2018-03-02 20:46:40,732 client[7308] WARNING 异常退出程序
+2018-03-02 20:49:00,140 client[6208] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-02 20:50:36,725 client[6208] WARNING 强制退出程序
+2018-03-02 20:50:39,738 client[11792] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-02 20:54:03,491 client[11792] WARNING 强制退出程序
+2018-03-02 20:54:20,000 client[14316] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-02 20:57:12,265 client[14316] WARNING 强制退出程序
+2018-03-02 20:57:15,081 client[5204] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-02 20:57:33,430 client[5204] WARNING 强制退出程序
+2018-03-02 20:57:36,101 client[880] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-02 20:58:55,412 client[880] ERROR Traceback (most recent call last):
+  File "E:\github\webot\source\wxproxy\handler\msg_handler.py", line 130, in parse_msg
+    d = xmltodict.parse(content)
+  File "E:\github\webot\venv\lib\site-packages\xmltodict.py", line 330, in parse
+    parser.Parse(xml_input, True)
+xml.parsers.expat.ExpatError: no element found: line 1, column 0
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\github\webot\source\wxproxy\client.py", line 31, in main
+    __wechat.running()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 253, in running
+    handle_msg(self.account, self.tai_id, r)
+  File "E:\github\webot\source\wxproxy\handler\msg_handler.py", line 39, in handle_msg
+    parse_msg(account, msg)
+  File "E:\github\webot\source\wxproxy\handler\msg_handler.py", line 134, in parse_msg
+    logger.warning('Caught error {e.__class__}: {e.message}'.format(e=e))
+AttributeError: 'ExpatError' object has no attribute 'message'
+
+2018-03-02 20:58:55,412 client[880] WARNING 异常退出程序
