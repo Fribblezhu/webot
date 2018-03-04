@@ -370,3 +370,117 @@ Traceback (most recent call last):
 AttributeError: 'ExpatError' object has no attribute 'message'
 
 2018-03-02 20:58:55,412 client[880] WARNING 异常退出程序
+2018-03-03 21:24:38,705 client[12992] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-03 21:49:57,620 client[12992] ERROR Traceback (most recent call last):
+  File "E:\github\webot\source\wxproxy\handler\msg_handler.py", line 130, in parse_msg
+    d = xmltodict.parse(content)
+  File "E:\github\webot\venv\lib\site-packages\xmltodict.py", line 330, in parse
+    parser.Parse(xml_input, True)
+xml.parsers.expat.ExpatError: no element found: line 1, column 0
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\github\webot\source\wxproxy\client.py", line 31, in main
+    __wechat.running()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 253, in running
+    handle_msg(self.account, self.tai_id, r)
+  File "E:\github\webot\source\wxproxy\handler\msg_handler.py", line 40, in handle_msg
+    parse_msg(account, msg)
+  File "E:\github\webot\source\wxproxy\handler\msg_handler.py", line 134, in parse_msg
+    logger.warning('Caught error {e.__class__}: {e.message}'.format(e=e))
+AttributeError: 'ExpatError' object has no attribute 'message'
+
+2018-03-03 21:49:57,620 client[12992] WARNING 异常退出程序
+2018-03-03 21:55:13,487 client[4972] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-03 21:55:42,920 client[4972] ERROR Traceback (most recent call last):
+  File "E:\github\webot\source\wxproxy\client.py", line 31, in main
+    __wechat.running()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 253, in running
+    handle_msg(self.account, self.tai_id, r)
+  File "E:\github\webot\source\wxproxy\handler\msg_handler.py", line 40, in handle_msg
+    parse_msg(account, msg)
+  File "E:\github\webot\source\wxproxy\handler\msg_handler.py", line 163, in parse_msg
+    logger.debug([nick_name for nick_name in contact_info['NickName']])
+TypeError: list indices must be integers or slices, not str
+
+2018-03-03 21:55:42,920 client[4972] WARNING 异常退出程序
+2018-03-03 21:58:30,368 client[7144] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-03 21:59:26,431 client[7144] ERROR Traceback (most recent call last):
+  File "E:\github\webot\source\wxproxy\handler\msg_handler.py", line 130, in parse_msg
+    d = xmltodict.parse(content)
+  File "E:\github\webot\venv\lib\site-packages\xmltodict.py", line 330, in parse
+    parser.Parse(xml_input, True)
+xml.parsers.expat.ExpatError: no element found: line 1, column 0
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\github\webot\source\wxproxy\client.py", line 31, in main
+    __wechat.running()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 253, in running
+    handle_msg(self.account, self.tai_id, r)
+  File "E:\github\webot\source\wxproxy\handler\msg_handler.py", line 40, in handle_msg
+    parse_msg(account, msg)
+  File "E:\github\webot\source\wxproxy\handler\msg_handler.py", line 134, in parse_msg
+    logger.warning('Caught error {e.__class__}: {e.message}'.format(e=e))
+AttributeError: 'ExpatError' object has no attribute 'message'
+
+2018-03-03 21:59:26,461 client[7144] WARNING 异常退出程序
+2018-03-03 22:06:46,747 client[8360] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-03 22:07:02,410 client[8360] ERROR Traceback (most recent call last):
+  File "E:\github\webot\source\wxproxy\handler\msg_handler.py", line 130, in parse_msg
+    d = xmltodict.parse(content)
+  File "E:\github\webot\venv\lib\site-packages\xmltodict.py", line 330, in parse
+    parser.Parse(xml_input, True)
+xml.parsers.expat.ExpatError: no element found: line 1, column 0
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\github\webot\source\wxproxy\client.py", line 31, in main
+    __wechat.running()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 253, in running
+    handle_msg(self.account, self.tai_id, r)
+  File "E:\github\webot\source\wxproxy\handler\msg_handler.py", line 40, in handle_msg
+    parse_msg(account, msg)
+  File "E:\github\webot\source\wxproxy\handler\msg_handler.py", line 134, in parse_msg
+    logger.warning('Caught error {e.__class__}: {e.message}'.format(e=e))
+AttributeError: 'ExpatError' object has no attribute 'message'
+
+2018-03-03 22:07:02,410 client[8360] WARNING 异常退出程序
+2018-03-03 22:07:33,293 client[824] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-03 22:08:10,480 client[824] ERROR Traceback (most recent call last):
+  File "E:\github\webot\source\wxproxy\client.py", line 31, in main
+    __wechat.running()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 253, in running
+    handle_msg(self.account, self.tai_id, r)
+  File "E:\github\webot\source\wxproxy\handler\msg_handler.py", line 40, in handle_msg
+    parse_msg(account, msg)
+  File "E:\github\webot\source\wxproxy\handler\msg_handler.py", line 163, in parse_msg
+    logger.info('个人消息-->: 好友名称:%s 类型:%s: 内容:%s' % (contact_info[2]['NickName'], message, content))
+IndexError: list index out of range
+
+2018-03-03 22:08:10,480 client[824] WARNING 异常退出程序
+2018-03-03 22:17:20,550 client[11768] DEBUG Namespace(kwargs='{}', name='', qname='default', uin=None)
+2018-03-03 22:17:36,602 client[11768] ERROR Traceback (most recent call last):
+  File "E:\github\webot\source\wxproxy\handler\msg_handler.py", line 130, in parse_msg
+    d = xmltodict.parse(content)
+  File "E:\github\webot\venv\lib\site-packages\xmltodict.py", line 330, in parse
+    parser.Parse(xml_input, True)
+xml.parsers.expat.ExpatError: no element found: line 1, column 0
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\github\webot\source\wxproxy\client.py", line 31, in main
+    __wechat.running()
+  File "E:\github\webot\source\wxproxy\wechat.py", line 253, in running
+    handle_msg(self.account, self.tai_id, r)
+  File "E:\github\webot\source\wxproxy\handler\msg_handler.py", line 40, in handle_msg
+    parse_msg(account, msg)
+  File "E:\github\webot\source\wxproxy\handler\msg_handler.py", line 134, in parse_msg
+    logger.warning('Caught error {e.__class__}: {e.message}'.format(e=e))
+AttributeError: 'ExpatError' object has no attribute 'message'
+
+2018-03-03 22:17:36,602 client[11768] WARNING 异常退出程序

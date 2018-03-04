@@ -3564,3 +3564,2264 @@
 2018-03-02 20:58:38,469 WeChat[880] INFO retcode: 0, selector: 2
 2018-03-02 20:58:55,242 WeChat[880] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"2"}':
 2018-03-02 20:58:55,252 WeChat[880] INFO retcode: 0, selector: 2
+2018-03-03 21:24:43,786 WeChat[12992] INFO waiting for WeChat to scan two dimensional code login...
+2018-03-03 21:24:50,757 WeChat[12992] DEBUG b'window.code=201;'
+2018-03-03 21:24:50,757 WeChat[12992] INFO waiting for WeChat to scan two dimensional code login...
+2018-03-03 21:24:52,027 WeChat[12992] DEBUG b'window.code=200;\nwindow.redirect_uri="https://wx.qq.com/cgi-bin/mmwebwx-bin/webwxnewloginpage?ticket=AfkNat___nxo_GEjbbwDr27p@qrticket_0&uuid=gYwBKu7Atg==&lang=zh_CN&scan=1520083490";'
+2018-03-03 21:24:52,717 WeChat[12992] DEBUG user: {'Uin': 2037322676, 'UserName': '@47f97b91daa23574b8b2a48aaccf11666992a84e003c3cdfe6a22120b0e6400f', 'NickName': '朱文坚', 'HeadImgUrl': '/cgi-bin/mmwebwx-bin/webwxgeticon?seq=2055786210&username=@47f97b91daa23574b8b2a48aaccf11666992a84e003c3cdfe6a22120b0e6400f&skey=@crypt_bb4d37a3_aa14bc38ffa8ecc01eb9db19b18eab21', 'RemarkName': '', 'PYInitial': '', 'PYQuanPin': '', 'RemarkPYInitial': '', 'RemarkPYQuanPin': '', 'HideInputBarFlag': 0, 'StarFriend': 0, 'Sex': 1, 'Signature': '', 'AppAccountFlag': 0, 'VerifyFlag': 0, 'ContactFlag': 0, 'WebWxPluginSwitch': 0, 'HeadImgFlag': 1, 'SnsFlag': 1}
+2018-03-03 21:24:54,897 WeChat[12992] INFO [*] all of 158 contacts，get 158 
+2018-03-03 21:24:54,897 WeChat[12992] INFO [*] all of 13 group | 119 contact | 1 special_user ｜ 25 public_user
+2018-03-03 21:24:54,897 WeChat[12992] INFO pull a member named: 文件传输助手 
+2018-03-03 21:24:54,897 WeChat[12992] INFO pull a member named: 魔方乐队 
+2018-03-03 21:24:54,897 WeChat[12992] INFO pull a member named: Youth 
+2018-03-03 21:24:54,897 WeChat[12992] INFO pull a member named: 易战军 
+2018-03-03 21:24:54,907 WeChat[12992] INFO pull a member named: 柳明 
+2018-03-03 21:24:54,907 WeChat[12992] INFO pull a member named: 黄凯的妈妈 
+2018-03-03 21:24:54,907 WeChat[12992] INFO pull a member named: Zzx 
+2018-03-03 21:24:54,907 WeChat[12992] INFO pull a member named: 晴天 
+2018-03-03 21:24:54,907 WeChat[12992] INFO pull a member named: 北大荒纯粮酒，西凤白酒经销 
+2018-03-03 21:24:54,907 WeChat[12992] INFO pull a member named: 对你爱不完 
+2018-03-03 21:24:54,907 WeChat[12992] INFO pull a member named: 墨 
+2018-03-03 21:24:54,907 WeChat[12992] INFO pull a member named: 、尓蕞紾貴 
+2018-03-03 21:24:54,907 WeChat[12992] INFO pull a member named: Silver age 
+2018-03-03 21:24:54,907 WeChat[12992] INFO pull a member named: 【不奢望】 
+2018-03-03 21:24:54,907 WeChat[12992] INFO pull a member named: 江西瑞金~朱海凤 
+2018-03-03 21:24:54,907 WeChat[12992] INFO pull a member named: MNM 
+2018-03-03 21:24:54,987 WeChat[12992] INFO pull a member named: 钟超 
+2018-03-03 21:24:54,997 WeChat[12992] INFO pull a member named: 一生健康 
+2018-03-03 21:24:54,997 WeChat[12992] INFO pull a member named: 梦昼初 
+2018-03-03 21:24:54,997 WeChat[12992] INFO pull a member named: Amaranth 
+2018-03-03 21:24:54,997 WeChat[12992] INFO pull a member named: 启航致远王少浪 
+2018-03-03 21:24:54,997 WeChat[12992] INFO pull a member named: 李 
+2018-03-03 21:24:55,007 WeChat[12992] INFO pull a member named: 爱夏 
+2018-03-03 21:24:55,007 WeChat[12992] INFO pull a member named: 偏分少年 
+2018-03-03 21:24:55,007 WeChat[12992] INFO pull a member named: 张渠江 
+2018-03-03 21:24:55,007 WeChat[12992] INFO pull a member named: 燕凯涛 
+2018-03-03 21:24:55,017 WeChat[12992] INFO pull a member named: wind 
+2018-03-03 21:24:55,017 WeChat[12992] INFO pull a member named: 　　　　　　　　 
+2018-03-03 21:24:55,017 WeChat[12992] INFO pull a member named: 肖菁 
+2018-03-03 21:24:55,017 WeChat[12992] INFO pull a member named: A百度熊勤13699500434 
+2018-03-03 21:24:55,017 WeChat[12992] INFO pull a member named: 难以忘记 
+2018-03-03 21:24:55,017 WeChat[12992] INFO pull a member named: 相濡以沫 
+2018-03-03 21:24:55,047 WeChat[12992] INFO pull a member named: 韵冰 
+2018-03-03 21:24:55,057 WeChat[12992] INFO pull a member named: 茴香 
+2018-03-03 21:24:55,057 WeChat[12992] INFO pull a member named: 肖云 
+2018-03-03 21:24:55,057 WeChat[12992] INFO pull a member named: Samuel 
+2018-03-03 21:24:55,057 WeChat[12992] INFO pull a member named: 耶子 
+2018-03-03 21:24:55,057 WeChat[12992] INFO pull a member named: 喜羊羊 
+2018-03-03 21:24:55,067 WeChat[12992] INFO pull a member named: 郭昊 
+2018-03-03 21:24:55,067 WeChat[12992] INFO pull a member named: 森林vp 
+2018-03-03 21:24:55,067 WeChat[12992] INFO pull a member named: 陈菱 
+2018-03-03 21:24:55,067 WeChat[12992] INFO pull a member named: Zjliii… 
+2018-03-03 21:24:55,067 WeChat[12992] INFO pull a member named: 可可西里 
+2018-03-03 21:24:55,077 WeChat[12992] INFO pull a member named: 上海八维冯老师1870192518 
+2018-03-03 21:24:55,077 WeChat[12992] INFO pull a member named: 油爆枇杷拌面 
+2018-03-03 21:24:55,077 WeChat[12992] INFO pull a member named: 夕阳下的歌 
+2018-03-03 21:24:55,077 WeChat[12992] INFO pull a member named: 冷姐 
+2018-03-03 21:24:55,077 WeChat[12992] INFO pull a member named: 你最珍贵 
+2018-03-03 21:24:55,077 WeChat[12992] INFO pull a member named: 皮卡秋 
+2018-03-03 21:24:55,077 WeChat[12992] INFO pull a member named: Coupe 
+2018-03-03 21:24:55,087 WeChat[12992] INFO pull a member named: 辉宏网络服务 
+2018-03-03 21:24:55,087 WeChat[12992] INFO pull a member named: 刘玉洁 
+2018-03-03 21:24:55,087 WeChat[12992] INFO pull a member named: 罗罗 
+2018-03-03 21:24:55,087 WeChat[12992] INFO pull a member named: 甘世云 
+2018-03-03 21:24:55,087 WeChat[12992] INFO pull a member named: Jan 
+2018-03-03 21:24:55,087 WeChat[12992] INFO pull a member named: 周明元 
+2018-03-03 21:24:55,087 WeChat[12992] INFO pull a member named: 七年 
+2018-03-03 21:24:55,107 WeChat[12992] INFO pull a member named: 项目 耿义鹤 Caesar 
+2018-03-03 21:24:55,107 WeChat[12992] INFO pull a member named: freedom 
+2018-03-03 21:24:55,107 WeChat[12992] INFO pull a member named: 王伟康 
+2018-03-03 21:24:55,117 WeChat[12992] INFO pull a member named: 买个太阳不下山 
+2018-03-03 21:24:55,117 WeChat[12992] INFO pull a member named: 石玉泉 
+2018-03-03 21:24:55,117 WeChat[12992] INFO pull a member named: 刘屹成 
+2018-03-03 21:24:55,117 WeChat[12992] INFO pull a member named: 阿杜 
+2018-03-03 21:24:55,117 WeChat[12992] INFO pull a member named: 。。。。。 
+2018-03-03 21:24:55,117 WeChat[12992] INFO pull a member named: 浅 
+2018-03-03 21:24:55,117 WeChat[12992] INFO pull a member named: A逆光飞翔 
+2018-03-03 21:24:55,117 WeChat[12992] INFO pull a member named: Joy 
+2018-03-03 21:24:55,117 WeChat[12992] INFO pull a member named: June 
+2018-03-03 21:24:55,117 WeChat[12992] INFO pull a member named: 朱志平zhuzhiping 
+2018-03-03 21:24:55,117 WeChat[12992] INFO pull a member named: 不忘初心 
+2018-03-03 21:24:55,117 WeChat[12992] INFO pull a member named: ltp丶 
+2018-03-03 21:24:55,127 WeChat[12992] INFO pull a member named: 小布点… 
+2018-03-03 21:24:55,127 WeChat[12992] INFO pull a member named: 健康如意 
+2018-03-03 21:24:55,127 WeChat[12992] INFO pull a member named: 鹭岛的陆 
+2018-03-03 21:24:55,147 WeChat[12992] INFO pull a member named: 朱发平陶瓷艺术 
+2018-03-03 21:24:55,147 WeChat[12992] INFO pull a member named: 年轻在于拼 
+2018-03-03 21:24:55,147 WeChat[12992] INFO pull a member named: 不精独乐 
+2018-03-03 21:24:55,147 WeChat[12992] INFO pull a member named: Young Niu 
+2018-03-03 21:24:55,147 WeChat[12992] INFO pull a member named: One Peace 
+2018-03-03 21:24:55,147 WeChat[12992] INFO pull a member named: 张刚 
+2018-03-03 21:24:55,147 WeChat[12992] INFO pull a member named: 梁慧敏 
+2018-03-03 21:24:55,147 WeChat[12992] INFO pull a member named: 许夜 
+2018-03-03 21:24:55,157 WeChat[12992] INFO pull a member named: 加鑫 
+2018-03-03 21:24:55,157 WeChat[12992] INFO pull a member named: 涛哥哥 
+2018-03-03 21:24:55,157 WeChat[12992] INFO pull a member named: Falo丶 
+2018-03-03 21:24:55,157 WeChat[12992] INFO pull a member named: 魏良智 
+2018-03-03 21:24:55,157 WeChat[12992] INFO pull a member named: 琦 
+2018-03-03 21:24:55,157 WeChat[12992] INFO pull a member named: 张毓 
+2018-03-03 21:24:55,157 WeChat[12992] INFO pull a member named: 染于苍则苍 
+2018-03-03 21:24:55,167 WeChat[12992] INFO pull a member named: 喻鑫 
+2018-03-03 21:24:55,167 WeChat[12992] INFO pull a member named: zyss123 
+2018-03-03 21:24:55,177 WeChat[12992] INFO pull a member named: 谢叔冬 
+2018-03-03 21:24:55,177 WeChat[12992] INFO pull a member named: 影子中的舞者 
+2018-03-03 21:24:55,177 WeChat[12992] INFO pull a member named: YSL 
+2018-03-03 21:24:55,177 WeChat[12992] INFO pull a member named: zy 
+2018-03-03 21:24:55,177 WeChat[12992] INFO pull a member named: 明月清 
+2018-03-03 21:24:55,177 WeChat[12992] INFO pull a member named: A ～（袁铭祥） 
+2018-03-03 21:24:55,177 WeChat[12992] INFO pull a member named: Superhero 
+2018-03-03 21:24:55,187 WeChat[12992] INFO pull a member named: 稀饭 
+2018-03-03 21:24:55,187 WeChat[12992] INFO pull a member named: synchronized 
+2018-03-03 21:24:55,187 WeChat[12992] INFO pull a member named: Ronnie.Shi 
+2018-03-03 21:24:55,187 WeChat[12992] INFO pull a member named: 晓晓@铺码新零售 
+2018-03-03 21:24:55,187 WeChat[12992] INFO pull a member named: 陈平 
+2018-03-03 21:24:55,187 WeChat[12992] INFO pull a member named: 追光者 
+2018-03-03 21:24:55,187 WeChat[12992] INFO pull a member named: 亮晶晶钢琴工作室 
+2018-03-03 21:24:55,187 WeChat[12992] INFO pull a member named: 朱 
+2018-03-03 21:24:55,187 WeChat[12992] INFO pull a member named: 七月生 
+2018-03-03 21:24:55,187 WeChat[12992] INFO pull a member named: 婉 
+2018-03-03 21:24:55,197 WeChat[12992] INFO pull a member named: WALL E(Cheryl) 
+2018-03-03 21:24:55,207 WeChat[12992] INFO pull a member named: 宜春移动 
+2018-03-03 21:24:55,207 WeChat[12992] INFO pull a member named: 宜春学院学生会 
+2018-03-03 21:24:55,217 WeChat[12992] INFO pull a member named: 宜春学院数学与计算机科学学院 
+2018-03-03 21:24:55,217 WeChat[12992] INFO pull a member named:  
+2018-03-03 21:24:55,217 WeChat[12992] INFO pull a member named: 电子发烧友网 
+2018-03-03 21:24:55,217 WeChat[12992] INFO pull a member named: java那些事 
+2018-03-03 21:24:55,217 WeChat[12992] INFO pull a member named: 程序员内参 
+2018-03-03 21:24:55,217 WeChat[12992] INFO pull a member named: 宜春学院 
+2018-03-03 21:24:55,227 WeChat[12992] INFO pull a member named: 良品铺子 
+2018-03-03 21:24:55,227 WeChat[12992] INFO pull a member named: Python技术博文 
+2018-03-03 21:24:55,227 WeChat[12992] INFO pull a member named: Fribble 
+2018-03-03 21:24:55,227 WeChat[12992] INFO pull a member named: Java小栈 
+2018-03-03 21:24:55,227 WeChat[12992] INFO pull a member named: 微信开发者 
+2018-03-03 21:24:55,227 WeChat[12992] INFO pull a member named: 阿里技术 
+2018-03-03 21:24:55,227 WeChat[12992] INFO pull a member named: 学涨 
+2018-03-03 21:24:55,227 WeChat[12992] INFO pull a member named: 微信团队 
+2018-03-03 21:24:55,247 WeChat[12992] INFO pull a member named: R语言中文社区 
+2018-03-03 21:24:55,247 WeChat[12992] INFO pull a member named: WPS会员 
+2018-03-03 21:24:55,247 WeChat[12992] INFO pull a member named: 微信游戏 
+2018-03-03 21:24:55,247 WeChat[12992] INFO pull a member named: 回收货郎 
+2018-03-03 21:24:55,247 WeChat[12992] INFO pull a member named: 公众平台安全助手 
+2018-03-03 21:24:55,247 WeChat[12992] INFO pull a member named: 微信支付 
+2018-03-03 21:24:55,247 WeChat[12992] INFO pull a member named: 京东支付 
+2018-03-03 21:24:55,247 WeChat[12992] INFO pull a member named: 58速运 
+2018-03-03 21:24:55,247 WeChat[12992] INFO pull a member named: 江西移动10086 
+2018-03-03 21:24:55,247 WeChat[12992] DEBUG group_ids: {'@@3c3abec23445daf012388d46e0e0b2bd2290559064ddb425204fb50ca7920eda', '@@1730894df4e0bb5161152a4dabac986dd15ea3ea76a5134c9fa70faf5f15cc81', '@@2d35a624512b556d67dfcaef8e1f98eba7c947c5e87027a682ae0913a1030d6b', '@@84eca074c53f52dce65cc2151985fad8eee875179d359acdda88966b0794f3cd', '@@93e1043a976b216fc071384bab5b01d26d05743eba8fb871f60837253856f014', '@@a62de9bc91830edbbba94a56f190e92584654bd83f9103252bb842336c44021c', '@@57c92f6c467106f30dc45690b435f96772817bfdf237b6b15df9fd097cc06391', '@@b4263faa114e7e0f41f475fd3c02fc5714368a47f632db2ea40f162fe3960d78', '@@0b7956c3fe852972d2904bf2ba3c130c223d45dcc56c086a26553856930cb0b9', '@@dcddb9e45df62712f29966d488315daf0803aa04014730b6ac0353706d69bb69', '@@dba5f25e9c5b9730b2f0e8b225717e7d56f2ca094f6bd94085ba0947fbdbad6c', '@@99d41d77d3e605592c060041bf5c4278869471c572451f60d863860369a555d0', '@@133aee59263004467856d46936f49c089b825dcb6f200960e86b0c1fc1593ed3'}
+2018-03-03 21:24:55,247 WeChat[12992] DEBUG readying for pull group's information...
+2018-03-03 21:24:56,097 WeChat[12992] INFO try to pull the group named: 8307
+2018-03-03 21:24:56,527 WeChat[12992] INFO pull a member named: Zzx 
+2018-03-03 21:24:56,527 WeChat[12992] INFO pull a member named: 朱文坚 
+2018-03-03 21:24:56,527 WeChat[12992] INFO pull a member named: 张毓 
+2018-03-03 21:24:56,537 WeChat[12992] INFO pull a member named: 失落的心 
+2018-03-03 21:24:56,537 WeChat[12992] INFO pull a member named: 余祎鸣  
+2018-03-03 21:24:56,537 WeChat[12992] INFO pull a member named: MNM 
+2018-03-03 21:24:56,537 WeChat[12992] INFO pull a member named: 夜影流年 
+2018-03-03 21:24:56,597 WeChat[12992] INFO try to pull the group named: 一家人
+2018-03-03 21:24:57,177 WeChat[12992] INFO pull a member named: 菊华 
+2018-03-03 21:24:57,177 WeChat[12992] INFO pull a member named: 、尓蕞紾貴 
+2018-03-03 21:24:57,177 WeChat[12992] INFO pull a member named: 朱发平陶瓷艺术 
+2018-03-03 21:24:57,177 WeChat[12992] INFO pull a member named: 朱志平zhuzhiping 
+2018-03-03 21:24:57,177 WeChat[12992] INFO pull a member named: 朱文坚 
+2018-03-03 21:24:57,187 WeChat[12992] INFO pull a member named: 冷姐 
+2018-03-03 21:24:57,187 WeChat[12992] INFO pull a member named: 相濡以沫 
+2018-03-03 21:24:57,187 WeChat[12992] INFO pull a member named: 罗罗 
+2018-03-03 21:24:57,187 WeChat[12992] INFO pull a member named: 小布点… 
+2018-03-03 21:24:57,187 WeChat[12992] INFO pull a member named: 运棚 
+2018-03-03 21:24:57,187 WeChat[12992] INFO pull a member named: 风雨无阻 
+2018-03-03 21:24:57,187 WeChat[12992] INFO pull a member named: 健康如意 
+2018-03-03 21:24:57,187 WeChat[12992] INFO pull a member named: 浅 
+2018-03-03 21:24:57,187 WeChat[12992] INFO pull a member named: 年轻在于拼 
+2018-03-03 21:24:57,187 WeChat[12992] INFO try to pull the group named: 新氪技术开发团队
+2018-03-03 21:24:57,618 WeChat[12992] INFO pull a member named: 许夜 
+2018-03-03 21:24:57,618 WeChat[12992] INFO pull a member named: 氤氲之息 
+2018-03-03 21:24:57,628 WeChat[12992] INFO pull a member named: 张刚 
+2018-03-03 21:24:57,628 WeChat[12992] INFO pull a member named: Young Niu 
+2018-03-03 21:24:57,628 WeChat[12992] INFO pull a member named: synchronized 
+2018-03-03 21:24:57,628 WeChat[12992] INFO pull a member named: 不精独乐 
+2018-03-03 21:24:57,628 WeChat[12992] INFO pull a member named: 朱文坚 
+2018-03-03 21:24:57,638 WeChat[12992] INFO pull a member named: 心语星空 
+2018-03-03 21:24:57,648 WeChat[12992] INFO pull a member named: 新氪HR 
+2018-03-03 21:24:57,708 WeChat[12992] INFO try to pull the group named: 新氪群喵社群事业部
+2018-03-03 21:24:58,068 WeChat[12992] INFO pull a member named: 从波 
+2018-03-03 21:24:58,068 WeChat[12992] INFO pull a member named: 许夜 
+2018-03-03 21:24:58,098 WeChat[12992] INFO pull a member named: Ronnie.Shi 
+2018-03-03 21:24:58,098 WeChat[12992] INFO pull a member named: 张刚 
+2018-03-03 21:24:58,098 WeChat[12992] INFO pull a member named: 朱文坚 
+2018-03-03 21:24:58,098 WeChat[12992] INFO pull a member named: synchronized 
+2018-03-03 21:24:58,098 WeChat[12992] INFO pull a member named: 心语星空 
+2018-03-03 21:24:58,098 WeChat[12992] INFO pull a member named: 新氪HR 
+2018-03-03 21:24:58,108 WeChat[12992] INFO try to pull the group named: 鑫唐佳苑6.5层的群居生活
+2018-03-03 21:24:58,568 WeChat[12992] INFO pull a member named: 朱文坚 
+2018-03-03 21:24:58,568 WeChat[12992] INFO pull a member named: 加鑫 
+2018-03-03 21:24:58,568 WeChat[12992] INFO pull a member named: WALL E(Cheryl) 
+2018-03-03 21:24:58,578 WeChat[12992] INFO try to pull the group named: 温馨的家
+2018-03-03 21:24:58,798 WeChat[12992] INFO pull a member named: 健康如意 
+2018-03-03 21:24:58,798 WeChat[12992] INFO pull a member named: 朱文坚 
+2018-03-03 21:24:58,798 WeChat[12992] INFO pull a member named: 朱志平zhuzhiping 
+2018-03-03 21:24:58,798 WeChat[12992] INFO try to pull the group named: 14计科Android实训
+2018-03-03 21:24:59,638 WeChat[12992] INFO pull a member named: 燕凯涛 
+2018-03-03 21:24:59,648 WeChat[12992] INFO pull a member named: 乐宝<span class="emoji emoji1f605"></span> 
+2018-03-03 21:24:59,648 WeChat[12992] INFO pull a member named: 张渠江 
+2018-03-03 21:24:59,648 WeChat[12992] INFO pull a member named: 张毓 
+2018-03-03 21:24:59,648 WeChat[12992] INFO pull a member named: 饶龙 
+2018-03-03 21:24:59,658 WeChat[12992] INFO pull a member named: 邂逅华尔兹 
+2018-03-03 21:24:59,658 WeChat[12992] INFO pull a member named: 夜影流年 
+2018-03-03 21:24:59,658 WeChat[12992] INFO pull a member named: 乱曲 
+2018-03-03 21:24:59,658 WeChat[12992] INFO pull a member named: 云无心以出岫 
+2018-03-03 21:24:59,658 WeChat[12992] INFO pull a member named: YSL 
+2018-03-03 21:24:59,658 WeChat[12992] INFO pull a member named: Boolean 
+2018-03-03 21:24:59,658 WeChat[12992] INFO pull a member named: 帅气的向阳 
+2018-03-03 21:24:59,668 WeChat[12992] INFO pull a member named: 初夏 
+2018-03-03 21:24:59,718 WeChat[12992] INFO pull a member named: 错了而已 
+2018-03-03 21:24:59,718 WeChat[12992] INFO pull a member named: 上丶善若水 
+2018-03-03 21:24:59,728 WeChat[12992] INFO pull a member named: 好名都被wuli取了 
+2018-03-03 21:24:59,728 WeChat[12992] INFO pull a member named: 封宇杰 
+2018-03-03 21:24:59,758 WeChat[12992] INFO pull a member named: 李宽 
+2018-03-03 21:24:59,758 WeChat[12992] INFO pull a member named: Ds 
+2018-03-03 21:24:59,758 WeChat[12992] INFO pull a member named: SonyUR 
+2018-03-03 21:24:59,758 WeChat[12992] INFO pull a member named: 木剌 
+2018-03-03 21:24:59,758 WeChat[12992] INFO pull a member named: NewSky 
+2018-03-03 21:24:59,768 WeChat[12992] INFO pull a member named: 酉&amp;星 
+2018-03-03 21:24:59,768 WeChat[12992] INFO pull a member named: 无聊 
+2018-03-03 21:24:59,768 WeChat[12992] INFO pull a member named: 七年 
+2018-03-03 21:24:59,768 WeChat[12992] INFO pull a member named: 树<span class="emoji emoji1f343"></span> 
+2018-03-03 21:24:59,768 WeChat[12992] INFO pull a member named: 微笑 
+2018-03-03 21:24:59,778 WeChat[12992] INFO pull a member named: 梦影 
+2018-03-03 21:24:59,778 WeChat[12992] INFO pull a member named: 梦昼初 
+2018-03-03 21:24:59,778 WeChat[12992] INFO pull a member named: 朱文坚 
+2018-03-03 21:24:59,778 WeChat[12992] INFO pull a member named: 小猪 
+2018-03-03 21:24:59,778 WeChat[12992] INFO pull a member named: 李 
+2018-03-03 21:24:59,778 WeChat[12992] INFO pull a member named: 冷月 
+2018-03-03 21:24:59,778 WeChat[12992] INFO pull a member named: 追逐梦 
+2018-03-03 21:24:59,798 WeChat[12992] INFO pull a member named: ltp丶 
+2018-03-03 21:24:59,818 WeChat[12992] INFO pull a member named: 寒冰雪 
+2018-03-03 21:24:59,818 WeChat[12992] INFO pull a member named: Rookie 
+2018-03-03 21:24:59,828 WeChat[12992] INFO pull a member named: 小浩先森 
+2018-03-03 21:24:59,858 WeChat[12992] INFO pull a member named: 告别老年机 
+2018-03-03 21:24:59,858 WeChat[12992] INFO pull a member named: 辉宏网络服务 
+2018-03-03 21:24:59,858 WeChat[12992] INFO pull a member named: 影子中的舞者 
+2018-03-03 21:24:59,858 WeChat[12992] INFO pull a member named: 10 
+2018-03-03 21:24:59,868 WeChat[12992] INFO pull a member named: 胡成长 
+2018-03-03 21:24:59,868 WeChat[12992] INFO pull a member named: 苘一夏（薛棣文） 
+2018-03-03 21:24:59,868 WeChat[12992] INFO pull a member named: spectre 
+2018-03-03 21:24:59,868 WeChat[12992] INFO pull a member named: k2278次4车85号 
+2018-03-03 21:24:59,868 WeChat[12992] INFO pull a member named: 咯哈 
+2018-03-03 21:24:59,868 WeChat[12992] INFO pull a member named: 阳光正好 
+2018-03-03 21:24:59,868 WeChat[12992] INFO try to pull the group named: 藏葎閣
+2018-03-03 21:25:00,538 WeChat[12992] INFO pull a member named: 辉宏网络服务 
+2018-03-03 21:25:00,538 WeChat[12992] INFO pull a member named: 皮卡秋 
+2018-03-03 21:25:00,568 WeChat[12992] INFO pull a member named: ltp丶 
+2018-03-03 21:25:00,578 WeChat[12992] INFO pull a member named: 燕凯涛 
+2018-03-03 21:25:00,578 WeChat[12992] INFO pull a member named: 买个太阳不下山 
+2018-03-03 21:25:00,578 WeChat[12992] INFO pull a member named: 朱文坚 
+2018-03-03 21:25:00,578 WeChat[12992] INFO pull a member named: 陈平 
+2018-03-03 21:25:00,588 WeChat[12992] INFO pull a member named: YSL 
+2018-03-03 21:25:00,588 WeChat[12992] INFO pull a member named: freedom 
+2018-03-03 21:25:00,598 WeChat[12992] INFO try to pull the group named: 新氪网络大团队
+2018-03-03 21:25:01,298 WeChat[12992] INFO pull a member named: 许夜 
+2018-03-03 21:25:01,308 WeChat[12992] INFO pull a member named: Ronnie.Shi 
+2018-03-03 21:25:01,308 WeChat[12992] INFO pull a member named: 张刚 
+2018-03-03 21:25:01,308 WeChat[12992] INFO pull a member named: 何勉 
+2018-03-03 21:25:01,308 WeChat[12992] INFO pull a member named: 氤氲之息 
+2018-03-03 21:25:01,318 WeChat[12992] INFO pull a member named: Young Niu 
+2018-03-03 21:25:01,318 WeChat[12992] INFO pull a member named: 老崔 
+2018-03-03 21:25:01,348 WeChat[12992] INFO pull a member named: 聂斌 
+2018-03-03 21:25:01,348 WeChat[12992] INFO pull a member named: 吕大杏 
+2018-03-03 21:25:01,358 WeChat[12992] INFO pull a member named: 王" 嘚瑟~ 
+2018-03-03 21:25:01,358 WeChat[12992] INFO pull a member named: 韩强强 
+2018-03-03 21:25:01,368 WeChat[12992] INFO pull a member named: 刘杨 
+2018-03-03 21:25:01,368 WeChat[12992] INFO pull a member named: synchronized 
+2018-03-03 21:25:01,368 WeChat[12992] INFO pull a member named: 小张 
+2018-03-03 21:25:01,368 WeChat[12992] INFO pull a member named: 不精独乐 
+2018-03-03 21:25:01,368 WeChat[12992] INFO pull a member named: 朱文坚 
+2018-03-03 21:25:01,458 WeChat[12992] INFO pull a member named: 心语星空 
+2018-03-03 21:25:01,458 WeChat[12992] INFO pull a member named: 新氪HR 
+2018-03-03 21:25:01,468 WeChat[12992] INFO try to pull the group named: 相识的缘分
+2018-03-03 21:25:01,728 WeChat[12992] INFO pull a member named: zyss123 
+2018-03-03 21:25:01,728 WeChat[12992] INFO pull a member named: 石玉泉 
+2018-03-03 21:25:01,728 WeChat[12992] INFO pull a member named: 朱文坚 
+2018-03-03 21:25:01,758 WeChat[12992] INFO pull a member named: 加鑫 
+2018-03-03 21:25:01,758 WeChat[12992] INFO pull a member named: 。。。。。 
+2018-03-03 21:25:01,768 WeChat[12992] INFO pull a member named: 质壁分离 
+2018-03-03 21:25:01,768 WeChat[12992] INFO try to pull the group named: 羽球.动起来
+2018-03-03 21:25:02,028 WeChat[12992] INFO pull a member named: 鹭岛的陆 
+2018-03-03 21:25:02,038 WeChat[12992] INFO pull a member named: 森林vp 
+2018-03-03 21:25:02,038 WeChat[12992] INFO pull a member named: 郑海亮 
+2018-03-03 21:25:02,038 WeChat[12992] INFO pull a member named: 郭昊 
+2018-03-03 21:25:02,048 WeChat[12992] INFO pull a member named: 陈菱 
+2018-03-03 21:25:02,058 WeChat[12992] INFO pull a member named: 朱文坚 
+2018-03-03 21:25:02,058 WeChat[12992] INFO try to pull the group named: 云谏周末足球群
+2018-03-03 21:25:02,728 WeChat[12992] INFO pull a member named: 啊泉 
+2018-03-03 21:25:02,738 WeChat[12992] INFO pull a member named: JoieFu 
+2018-03-03 21:25:02,758 WeChat[12992] INFO pull a member named: LQ 
+2018-03-03 21:25:02,758 WeChat[12992] INFO pull a member named: glory 
+2018-03-03 21:25:02,768 WeChat[12992] INFO pull a member named: 森林vp 
+2018-03-03 21:25:02,768 WeChat[12992] INFO pull a member named: 陈菱 
+2018-03-03 21:25:02,768 WeChat[12992] INFO pull a member named: 朱文坚 
+2018-03-03 21:25:02,778 WeChat[12992] INFO pull a member named: 郭昊 
+2018-03-03 21:25:02,778 WeChat[12992] INFO pull a member named: Joy 
+2018-03-03 21:25:02,778 WeChat[12992] INFO pull a member named: June 
+2018-03-03 21:25:02,778 WeChat[12992] INFO pull a member named: zyss123 
+2018-03-03 21:25:02,808 WeChat[12992] INFO pull a member named: 石玉泉 
+2018-03-03 21:25:02,808 WeChat[12992] INFO pull a member named: 刘玉洁 
+2018-03-03 21:25:02,818 WeChat[12992] INFO pull a member named: 王伟康 
+2018-03-03 21:25:02,818 WeChat[12992] INFO pull a member named: 加鑫 
+2018-03-03 21:25:02,818 WeChat[12992] INFO pull a member named: 阿杜 
+2018-03-03 21:25:02,818 WeChat[12992] INFO try to pull the group named: 14计科班群
+2018-03-03 21:25:03,504 WeChat[12992] INFO pull a member named: 10 
+2018-03-03 21:25:03,534 WeChat[12992] INFO pull a member named: Boolean 
+2018-03-03 21:25:03,534 WeChat[12992] INFO pull a member named: 乐宝<span class="emoji emoji1f605"></span> 
+2018-03-03 21:25:03,544 WeChat[12992] INFO pull a member named: 初夏 
+2018-03-03 21:25:03,544 WeChat[12992] INFO pull a member named: <span class="emoji emoji2757"></span> 
+2018-03-03 21:25:03,544 WeChat[12992] INFO pull a member named: 涂聪 
+2018-03-03 21:25:03,554 WeChat[12992] INFO pull a member named: ltp丶 
+2018-03-03 21:25:03,554 WeChat[12992] INFO pull a member named: 追逐梦 
+2018-03-03 21:25:03,554 WeChat[12992] INFO pull a member named: 无聊 
+2018-03-03 21:25:03,554 WeChat[12992] INFO pull a member named: 亮晶晶<span class="emoji emoji1f31f"></span> 
+2018-03-03 21:25:03,574 WeChat[12992] INFO pull a member named: 冷月 
+2018-03-03 21:25:03,584 WeChat[12992] INFO pull a member named: 好名都被wuli取了 
+2018-03-03 21:25:03,584 WeChat[12992] INFO pull a member named: 辉宏网络服务 
+2018-03-03 21:25:03,584 WeChat[12992] INFO pull a member named: 陈平 
+2018-03-03 21:25:03,584 WeChat[12992] INFO pull a member named: 点亮黑暗 
+2018-03-03 21:25:03,584 WeChat[12992] INFO pull a member named: 封宇杰 
+2018-03-03 21:25:03,594 WeChat[12992] INFO pull a member named: 错了而已 
+2018-03-03 21:25:03,594 WeChat[12992] INFO pull a member named: 王思 
+2018-03-03 21:25:03,594 WeChat[12992] INFO pull a member named: freedom 
+2018-03-03 21:25:03,594 WeChat[12992] INFO pull a member named: 微笑 
+2018-03-03 21:25:03,594 WeChat[12992] INFO pull a member named: 酉&amp;星 
+2018-03-03 21:25:03,594 WeChat[12992] INFO pull a member named: YSL 
+2018-03-03 21:25:03,614 WeChat[12992] INFO pull a member named: 买个太阳不下山 
+2018-03-03 21:25:03,614 WeChat[12992] INFO pull a member named: 梦影 
+2018-03-03 21:25:03,614 WeChat[12992] INFO pull a member named: 张渠江 
+2018-03-03 21:25:03,614 WeChat[12992] INFO pull a member named: 云无心以出岫 
+2018-03-03 21:25:03,614 WeChat[12992] INFO pull a member named: 苏打水 
+2018-03-03 21:25:03,614 WeChat[12992] INFO pull a member named: 苘一夏（薛棣文） 
+2018-03-03 21:25:03,614 WeChat[12992] INFO pull a member named: 影子中的舞者 
+2018-03-03 21:25:03,614 WeChat[12992] INFO pull a member named: 小猪 
+2018-03-03 21:25:03,614 WeChat[12992] INFO pull a member named: k2278次4车85号 
+2018-03-03 21:25:03,614 WeChat[12992] INFO pull a member named: 咯哈 
+2018-03-03 21:25:03,624 WeChat[12992] INFO pull a member named: 永 
+2018-03-03 21:25:03,624 WeChat[12992] INFO pull a member named: 梦昼初 
+2018-03-03 21:25:03,624 WeChat[12992] INFO pull a member named: <span class="emoji emoji1f199"></span> 
+2018-03-03 21:25:03,624 WeChat[12992] INFO pull a member named: 饶龙 
+2018-03-03 21:25:03,624 WeChat[12992] INFO pull a member named: 胡成长 
+2018-03-03 21:25:03,624 WeChat[12992] INFO pull a member named: 小浩先森 
+2018-03-03 21:25:03,624 WeChat[12992] INFO pull a member named: 邂逅华尔兹 
+2018-03-03 21:25:03,624 WeChat[12992] INFO pull a member named: 李 
+2018-03-03 21:25:03,624 WeChat[12992] INFO pull a member named: 淡如墨雪 
+2018-03-03 21:25:03,634 WeChat[12992] INFO pull a member named: 凤尾鱼 
+2018-03-03 21:25:03,634 WeChat[12992] INFO pull a member named: 小刚 
+2018-03-03 21:25:03,634 WeChat[12992] INFO pull a member named: 淡然如水水 
+2018-03-03 21:25:03,634 WeChat[12992] INFO pull a member named: Ds 
+2018-03-03 21:25:03,634 WeChat[12992] INFO pull a member named: 帅气的向阳 
+2018-03-03 21:25:03,634 WeChat[12992] INFO pull a member named: Rookie 
+2018-03-03 21:25:03,744 WeChat[12992] INFO pull a member named: T丶ab 
+2018-03-03 21:25:03,854 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"7"}':
+2018-03-03 21:25:03,854 WeChat[12992] INFO retcode: 0, selector: 7
+2018-03-03 21:25:30,288 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"2"}':
+2018-03-03 21:25:30,298 WeChat[12992] INFO retcode: 0, selector: 2
+2018-03-03 21:25:32,949 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"2"}':
+2018-03-03 21:25:32,949 WeChat[12992] INFO retcode: 0, selector: 2
+2018-03-03 21:26:00,141 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:26:25,326 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:26:50,399 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:27:15,497 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:27:40,568 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:27:40,628 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"2"}':
+2018-03-03 21:27:40,628 WeChat[12992] INFO retcode: 0, selector: 2
+2018-03-03 21:27:43,118 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"2"}':
+2018-03-03 21:27:43,128 WeChat[12992] INFO retcode: 0, selector: 2
+2018-03-03 21:28:10,571 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:28:35,662 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:29:00,806 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:29:25,900 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:29:50,973 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:30:16,054 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:30:19,146 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"2"}':
+2018-03-03 21:30:19,146 WeChat[12992] INFO retcode: 0, selector: 2
+2018-03-03 21:30:21,944 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"2"}':
+2018-03-03 21:30:21,949 WeChat[12992] INFO retcode: 0, selector: 2
+2018-03-03 21:30:43,266 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"2"}':
+2018-03-03 21:30:43,276 WeChat[12992] INFO retcode: 0, selector: 2
+2018-03-03 21:30:45,873 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"2"}':
+2018-03-03 21:30:45,883 WeChat[12992] INFO retcode: 0, selector: 2
+2018-03-03 21:31:13,075 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:31:38,160 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:31:44,919 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"2"}':
+2018-03-03 21:31:44,919 WeChat[12992] INFO retcode: 0, selector: 2
+2018-03-03 21:31:47,487 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"2"}':
+2018-03-03 21:31:47,497 WeChat[12992] INFO retcode: 0, selector: 2
+2018-03-03 21:31:56,723 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"2"}':
+2018-03-03 21:31:56,723 WeChat[12992] INFO retcode: 0, selector: 2
+2018-03-03 21:31:59,346 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"2"}':
+2018-03-03 21:31:59,350 WeChat[12992] INFO retcode: 0, selector: 2
+2018-03-03 21:32:01,923 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"2"}':
+2018-03-03 21:32:01,925 WeChat[12992] INFO retcode: 0, selector: 2
+2018-03-03 21:32:29,130 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:32:36,006 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"2"}':
+2018-03-03 21:32:36,010 WeChat[12992] INFO retcode: 0, selector: 2
+2018-03-03 21:32:38,501 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"2"}':
+2018-03-03 21:32:38,504 WeChat[12992] INFO retcode: 0, selector: 2
+2018-03-03 21:33:05,671 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:33:30,772 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:33:55,909 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:34:20,974 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:34:23,268 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"2"}':
+2018-03-03 21:34:23,278 WeChat[12992] INFO retcode: 0, selector: 2
+2018-03-03 21:34:25,788 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"2"}':
+2018-03-03 21:34:25,788 WeChat[12992] INFO retcode: 0, selector: 2
+2018-03-03 21:34:34,644 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"2"}':
+2018-03-03 21:34:34,644 WeChat[12992] INFO retcode: 0, selector: 2
+2018-03-03 21:34:37,301 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"2"}':
+2018-03-03 21:34:37,301 WeChat[12992] INFO retcode: 0, selector: 2
+2018-03-03 21:34:44,278 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"2"}':
+2018-03-03 21:34:44,278 WeChat[12992] INFO retcode: 0, selector: 2
+2018-03-03 21:34:46,762 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"2"}':
+2018-03-03 21:34:46,782 WeChat[12992] INFO retcode: 0, selector: 2
+2018-03-03 21:35:13,975 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:35:39,043 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:36:04,139 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:36:29,291 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:36:54,406 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:37:19,490 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:37:44,559 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:38:09,642 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:38:34,741 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:38:59,820 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:39:24,888 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:39:49,974 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:40:15,068 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:40:40,143 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:40:40,543 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"2"}':
+2018-03-03 21:40:40,553 WeChat[12992] INFO retcode: 0, selector: 2
+2018-03-03 21:40:43,135 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"2"}':
+2018-03-03 21:40:43,145 WeChat[12992] INFO retcode: 0, selector: 2
+2018-03-03 21:40:48,268 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"2"}':
+2018-03-03 21:40:48,278 WeChat[12992] INFO retcode: 0, selector: 2
+2018-03-03 21:40:50,801 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"2"}':
+2018-03-03 21:40:50,811 WeChat[12992] INFO retcode: 0, selector: 2
+2018-03-03 21:40:56,398 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"2"}':
+2018-03-03 21:40:56,398 WeChat[12992] INFO retcode: 0, selector: 2
+2018-03-03 21:40:58,946 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"2"}':
+2018-03-03 21:40:58,946 WeChat[12992] INFO retcode: 0, selector: 2
+2018-03-03 21:41:26,149 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:41:34,576 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"2"}':
+2018-03-03 21:41:34,576 WeChat[12992] INFO retcode: 0, selector: 2
+2018-03-03 21:41:37,144 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"2"}':
+2018-03-03 21:41:37,154 WeChat[12992] INFO retcode: 0, selector: 2
+2018-03-03 21:41:44,139 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"2"}':
+2018-03-03 21:41:44,139 WeChat[12992] INFO retcode: 0, selector: 2
+2018-03-03 21:41:46,714 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"2"}':
+2018-03-03 21:41:46,724 WeChat[12992] INFO retcode: 0, selector: 2
+2018-03-03 21:41:50,878 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"2"}':
+2018-03-03 21:41:50,908 WeChat[12992] INFO retcode: 0, selector: 2
+2018-03-03 21:41:53,490 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"2"}':
+2018-03-03 21:41:53,500 WeChat[12992] INFO retcode: 0, selector: 2
+2018-03-03 21:42:15,442 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"2"}':
+2018-03-03 21:42:15,442 WeChat[12992] INFO retcode: 0, selector: 2
+2018-03-03 21:42:18,021 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"2"}':
+2018-03-03 21:42:18,021 WeChat[12992] INFO retcode: 0, selector: 2
+2018-03-03 21:42:45,304 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:43:10,369 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:43:35,470 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:44:00,554 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:44:25,642 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:44:50,723 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:45:15,824 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:45:40,898 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:46:05,969 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:46:31,064 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:46:56,149 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:47:21,284 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:47:46,354 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:48:11,446 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:48:36,507 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:49:01,588 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:49:26,668 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:49:51,769 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"0"}':
+2018-03-03 21:49:57,400 WeChat[12992] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"2"}':
+2018-03-03 21:49:57,410 WeChat[12992] INFO retcode: 0, selector: 2
+2018-03-03 21:55:16,148 WeChat[4972] INFO waiting for WeChat to scan two dimensional code login...
+2018-03-03 21:55:17,488 WeChat[4972] DEBUG b'window.code=201;'
+2018-03-03 21:55:17,498 WeChat[4972] INFO waiting for WeChat to scan two dimensional code login...
+2018-03-03 21:55:18,848 WeChat[4972] DEBUG b'window.code=200;\nwindow.redirect_uri="https://wx.qq.com/cgi-bin/mmwebwx-bin/webwxnewloginpage?ticket=AT8CjbnXNzhgTWnW48XmI_pZ@qrticket_0&uuid=IfDSL6TK7w==&lang=zh_CN&scan=1520085317";'
+2018-03-03 21:55:19,538 WeChat[4972] DEBUG user: {'Uin': 2037322676, 'UserName': '@a6f0729cc3950df64a2c02324803b4dbea9847121f7efd6bedf310b0e329740d', 'NickName': '朱文坚', 'HeadImgUrl': '/cgi-bin/mmwebwx-bin/webwxgeticon?seq=1181036163&username=@a6f0729cc3950df64a2c02324803b4dbea9847121f7efd6bedf310b0e329740d&skey=@crypt_bb4d37a3_773c87669c5c47e6f6821e658dd2a046', 'RemarkName': '', 'PYInitial': '', 'PYQuanPin': '', 'RemarkPYInitial': '', 'RemarkPYQuanPin': '', 'HideInputBarFlag': 0, 'StarFriend': 0, 'Sex': 1, 'Signature': '', 'AppAccountFlag': 0, 'VerifyFlag': 0, 'ContactFlag': 0, 'WebWxPluginSwitch': 0, 'HeadImgFlag': 1, 'SnsFlag': 1}
+2018-03-03 21:55:21,068 WeChat[4972] INFO [*] all of 158 contacts，get 158 
+2018-03-03 21:55:21,068 WeChat[4972] INFO [*] all of 13 group | 119 contact | 1 special_user ｜ 25 public_user
+2018-03-03 21:55:21,068 WeChat[4972] INFO pull a member named: 文件传输助手 
+2018-03-03 21:55:21,068 WeChat[4972] INFO pull a member named: 魔方乐队 
+2018-03-03 21:55:21,088 WeChat[4972] INFO pull a member named: Youth 
+2018-03-03 21:55:21,088 WeChat[4972] INFO pull a member named: 易战军 
+2018-03-03 21:55:21,088 WeChat[4972] INFO pull a member named: 柳明 
+2018-03-03 21:55:21,088 WeChat[4972] INFO pull a member named: 黄凯的妈妈 
+2018-03-03 21:55:21,088 WeChat[4972] INFO pull a member named: Zzx 
+2018-03-03 21:55:21,098 WeChat[4972] INFO pull a member named: 晴天 
+2018-03-03 21:55:21,098 WeChat[4972] INFO pull a member named: 北大荒纯粮酒，西凤白酒经销 
+2018-03-03 21:55:21,098 WeChat[4972] INFO pull a member named: 对你爱不完 
+2018-03-03 21:55:21,098 WeChat[4972] INFO pull a member named: 墨 
+2018-03-03 21:55:21,098 WeChat[4972] INFO pull a member named: 、尓蕞紾貴 
+2018-03-03 21:55:21,098 WeChat[4972] INFO pull a member named: Silver age 
+2018-03-03 21:55:21,098 WeChat[4972] INFO pull a member named: 【不奢望】 
+2018-03-03 21:55:21,098 WeChat[4972] INFO pull a member named: 江西瑞金~朱海凤 
+2018-03-03 21:55:21,098 WeChat[4972] INFO pull a member named: MNM 
+2018-03-03 21:55:21,098 WeChat[4972] INFO pull a member named: 钟超 
+2018-03-03 21:55:21,098 WeChat[4972] INFO pull a member named: 一生健康 
+2018-03-03 21:55:21,098 WeChat[4972] INFO pull a member named: 梦昼初 
+2018-03-03 21:55:21,098 WeChat[4972] INFO pull a member named: Amaranth 
+2018-03-03 21:55:21,098 WeChat[4972] INFO pull a member named: 启航致远王少浪 
+2018-03-03 21:55:21,098 WeChat[4972] INFO pull a member named: 李 
+2018-03-03 21:55:21,108 WeChat[4972] INFO pull a member named: 爱夏 
+2018-03-03 21:55:21,108 WeChat[4972] INFO pull a member named: 偏分少年 
+2018-03-03 21:55:21,108 WeChat[4972] INFO pull a member named: 张渠江 
+2018-03-03 21:55:21,108 WeChat[4972] INFO pull a member named: 燕凯涛 
+2018-03-03 21:55:21,108 WeChat[4972] INFO pull a member named: wind 
+2018-03-03 21:55:21,108 WeChat[4972] INFO pull a member named: 　　　　　　　　 
+2018-03-03 21:55:21,108 WeChat[4972] INFO pull a member named: 肖菁 
+2018-03-03 21:55:21,118 WeChat[4972] INFO pull a member named: A百度熊勤13699500434 
+2018-03-03 21:55:21,118 WeChat[4972] INFO pull a member named: 难以忘记 
+2018-03-03 21:55:21,118 WeChat[4972] INFO pull a member named: 相濡以沫 
+2018-03-03 21:55:21,118 WeChat[4972] INFO pull a member named: 韵冰 
+2018-03-03 21:55:21,118 WeChat[4972] INFO pull a member named: 茴香 
+2018-03-03 21:55:21,128 WeChat[4972] INFO pull a member named: 肖云 
+2018-03-03 21:55:21,128 WeChat[4972] INFO pull a member named: Samuel 
+2018-03-03 21:55:21,128 WeChat[4972] INFO pull a member named: 耶子 
+2018-03-03 21:55:21,128 WeChat[4972] INFO pull a member named: 喜羊羊 
+2018-03-03 21:55:21,128 WeChat[4972] INFO pull a member named: 郭昊 
+2018-03-03 21:55:21,128 WeChat[4972] INFO pull a member named: 森林vp 
+2018-03-03 21:55:21,128 WeChat[4972] INFO pull a member named: 陈菱 
+2018-03-03 21:55:21,138 WeChat[4972] INFO pull a member named: Zjliii… 
+2018-03-03 21:55:21,138 WeChat[4972] INFO pull a member named: 可可西里 
+2018-03-03 21:55:21,138 WeChat[4972] INFO pull a member named: 上海八维冯老师1870192518 
+2018-03-03 21:55:21,138 WeChat[4972] INFO pull a member named: 油爆枇杷拌面 
+2018-03-03 21:55:21,148 WeChat[4972] INFO pull a member named: 夕阳下的歌 
+2018-03-03 21:55:21,148 WeChat[4972] INFO pull a member named: 冷姐 
+2018-03-03 21:55:21,148 WeChat[4972] INFO pull a member named: 你最珍贵 
+2018-03-03 21:55:21,148 WeChat[4972] INFO pull a member named: 皮卡秋 
+2018-03-03 21:55:21,148 WeChat[4972] INFO pull a member named: Coupe 
+2018-03-03 21:55:21,158 WeChat[4972] INFO pull a member named: 辉宏网络服务 
+2018-03-03 21:55:21,158 WeChat[4972] INFO pull a member named: 刘玉洁 
+2018-03-03 21:55:21,158 WeChat[4972] INFO pull a member named: 罗罗 
+2018-03-03 21:55:21,158 WeChat[4972] INFO pull a member named: 甘世云 
+2018-03-03 21:55:21,158 WeChat[4972] INFO pull a member named: Jan 
+2018-03-03 21:55:21,158 WeChat[4972] INFO pull a member named: 周明元 
+2018-03-03 21:55:21,158 WeChat[4972] INFO pull a member named: 七年 
+2018-03-03 21:55:21,168 WeChat[4972] INFO pull a member named: 项目 耿义鹤 Caesar 
+2018-03-03 21:55:21,168 WeChat[4972] INFO pull a member named: freedom 
+2018-03-03 21:55:21,168 WeChat[4972] INFO pull a member named: 王伟康 
+2018-03-03 21:55:21,168 WeChat[4972] INFO pull a member named: 买个太阳不下山 
+2018-03-03 21:55:21,168 WeChat[4972] INFO pull a member named: 石玉泉 
+2018-03-03 21:55:21,168 WeChat[4972] INFO pull a member named: 刘屹成 
+2018-03-03 21:55:21,168 WeChat[4972] INFO pull a member named: 阿杜 
+2018-03-03 21:55:21,168 WeChat[4972] INFO pull a member named: 。。。。。 
+2018-03-03 21:55:21,168 WeChat[4972] INFO pull a member named: 浅 
+2018-03-03 21:55:21,168 WeChat[4972] INFO pull a member named: A逆光飞翔 
+2018-03-03 21:55:21,168 WeChat[4972] INFO pull a member named: Joy 
+2018-03-03 21:55:21,168 WeChat[4972] INFO pull a member named: June 
+2018-03-03 21:55:21,168 WeChat[4972] INFO pull a member named: 朱志平zhuzhiping 
+2018-03-03 21:55:21,168 WeChat[4972] INFO pull a member named: 不忘初心 
+2018-03-03 21:55:21,178 WeChat[4972] INFO pull a member named: ltp丶 
+2018-03-03 21:55:21,178 WeChat[4972] INFO pull a member named: 小布点… 
+2018-03-03 21:55:21,178 WeChat[4972] INFO pull a member named: 健康如意 
+2018-03-03 21:55:21,188 WeChat[4972] INFO pull a member named: 鹭岛的陆 
+2018-03-03 21:55:21,188 WeChat[4972] INFO pull a member named: 朱发平陶瓷艺术 
+2018-03-03 21:55:21,188 WeChat[4972] INFO pull a member named: 年轻在于拼 
+2018-03-03 21:55:21,188 WeChat[4972] INFO pull a member named: 不精独乐 
+2018-03-03 21:55:21,188 WeChat[4972] INFO pull a member named: Young Niu 
+2018-03-03 21:55:21,188 WeChat[4972] INFO pull a member named: One Peace 
+2018-03-03 21:55:21,188 WeChat[4972] INFO pull a member named: 张刚 
+2018-03-03 21:55:21,198 WeChat[4972] INFO pull a member named: 梁慧敏 
+2018-03-03 21:55:21,198 WeChat[4972] INFO pull a member named: 许夜 
+2018-03-03 21:55:21,198 WeChat[4972] INFO pull a member named: 加鑫 
+2018-03-03 21:55:21,198 WeChat[4972] INFO pull a member named: 涛哥哥 
+2018-03-03 21:55:21,198 WeChat[4972] INFO pull a member named: Falo丶 
+2018-03-03 21:55:21,198 WeChat[4972] INFO pull a member named: 魏良智 
+2018-03-03 21:55:21,198 WeChat[4972] INFO pull a member named: 琦 
+2018-03-03 21:55:21,198 WeChat[4972] INFO pull a member named: 张毓 
+2018-03-03 21:55:21,198 WeChat[4972] INFO pull a member named: 染于苍则苍 
+2018-03-03 21:55:21,198 WeChat[4972] INFO pull a member named: 喻鑫 
+2018-03-03 21:55:21,198 WeChat[4972] INFO pull a member named: zyss123 
+2018-03-03 21:55:21,208 WeChat[4972] INFO pull a member named: 谢叔冬 
+2018-03-03 21:55:21,208 WeChat[4972] INFO pull a member named: 影子中的舞者 
+2018-03-03 21:55:21,208 WeChat[4972] INFO pull a member named: YSL 
+2018-03-03 21:55:21,208 WeChat[4972] INFO pull a member named: zy 
+2018-03-03 21:55:21,218 WeChat[4972] INFO pull a member named: 明月清 
+2018-03-03 21:55:21,218 WeChat[4972] INFO pull a member named: A ～（袁铭祥） 
+2018-03-03 21:55:21,218 WeChat[4972] INFO pull a member named: Superhero 
+2018-03-03 21:55:21,218 WeChat[4972] INFO pull a member named: 稀饭 
+2018-03-03 21:55:21,218 WeChat[4972] INFO pull a member named: synchronized 
+2018-03-03 21:55:21,218 WeChat[4972] INFO pull a member named: Ronnie.Shi 
+2018-03-03 21:55:21,218 WeChat[4972] INFO pull a member named: 晓晓@铺码新零售 
+2018-03-03 21:55:21,218 WeChat[4972] INFO pull a member named: 陈平 
+2018-03-03 21:55:21,218 WeChat[4972] INFO pull a member named: 追光者 
+2018-03-03 21:55:21,218 WeChat[4972] INFO pull a member named: 亮晶晶钢琴工作室 
+2018-03-03 21:55:21,218 WeChat[4972] INFO pull a member named: 朱 
+2018-03-03 21:55:21,228 WeChat[4972] INFO pull a member named: 七月生 
+2018-03-03 21:55:21,228 WeChat[4972] INFO pull a member named: 婉 
+2018-03-03 21:55:21,228 WeChat[4972] INFO pull a member named: WALL E(Cheryl) 
+2018-03-03 21:55:21,228 WeChat[4972] INFO pull a member named: 宜春移动 
+2018-03-03 21:55:21,228 WeChat[4972] INFO pull a member named: 宜春学院学生会 
+2018-03-03 21:55:21,228 WeChat[4972] INFO pull a member named: 宜春学院数学与计算机科学学院 
+2018-03-03 21:55:21,228 WeChat[4972] INFO pull a member named:  
+2018-03-03 21:55:21,228 WeChat[4972] INFO pull a member named: 电子发烧友网 
+2018-03-03 21:55:21,228 WeChat[4972] INFO pull a member named: java那些事 
+2018-03-03 21:55:21,228 WeChat[4972] INFO pull a member named: 程序员内参 
+2018-03-03 21:55:21,228 WeChat[4972] INFO pull a member named: 宜春学院 
+2018-03-03 21:55:21,228 WeChat[4972] INFO pull a member named: 良品铺子 
+2018-03-03 21:55:21,228 WeChat[4972] INFO pull a member named: Python技术博文 
+2018-03-03 21:55:21,238 WeChat[4972] INFO pull a member named: Fribble 
+2018-03-03 21:55:21,238 WeChat[4972] INFO pull a member named: Java小栈 
+2018-03-03 21:55:21,238 WeChat[4972] INFO pull a member named: 微信开发者 
+2018-03-03 21:55:21,238 WeChat[4972] INFO pull a member named: 阿里技术 
+2018-03-03 21:55:21,238 WeChat[4972] INFO pull a member named: 学涨 
+2018-03-03 21:55:21,238 WeChat[4972] INFO pull a member named: 微信团队 
+2018-03-03 21:55:21,248 WeChat[4972] INFO pull a member named: R语言中文社区 
+2018-03-03 21:55:21,248 WeChat[4972] INFO pull a member named: WPS会员 
+2018-03-03 21:55:21,248 WeChat[4972] INFO pull a member named: 微信游戏 
+2018-03-03 21:55:21,248 WeChat[4972] INFO pull a member named: 回收货郎 
+2018-03-03 21:55:21,248 WeChat[4972] INFO pull a member named: 公众平台安全助手 
+2018-03-03 21:55:21,248 WeChat[4972] INFO pull a member named: 微信支付 
+2018-03-03 21:55:21,248 WeChat[4972] INFO pull a member named: 京东支付 
+2018-03-03 21:55:21,248 WeChat[4972] INFO pull a member named: 58速运 
+2018-03-03 21:55:21,248 WeChat[4972] INFO pull a member named: 江西移动10086 
+2018-03-03 21:55:21,248 WeChat[4972] DEBUG group_ids: {'@@15fa8b7e88eb88ede4d7e4305ddc82f5a3f2fef518fd4547c85233391d795577', '@@c0ef7fceedcba54f8ac912a1b4e16912736cf5328ea746028aca9eb2740b2cc8', '@@783664b9c4b409e288f2c97d7b435525abe7587c79e7dcad2506e9c9d910e082', '@@f953b37c77f366110f31bc42e9d1227f96c0f9453198c6d28c1017747ac84fb4', '@@9aab4d4e5b928e0c8c5f1d674b2b41adc206a2efde6f5484e706890b800be706', '@@958cf15dfbb35d534de2ef19dfed8122608153d978ecefc18ad582ed1d4961d9', '@@600a7908187568a4f714939f317ce7731b8d1bbc567abe58a4528bfc6057f4f2', '@@319a863fdb15d569e3aa500f0a30ce896b6d39c840318bb7ef1e86beb8536d8d', '@@4fbc5661a1af006a8a1a11b9cf4669b1278fb6edace0b1e32c1efb5acb40b3f4', '@@3c5c034135010fa46bc910d10f5b5d33d050617f25fcbf54dd77d6adb3842d08', '@@e7c4c7ffce95b349445fe9000db2ab6a9f0c7020b5219f50ad229ffe7c6d54ef', '@@b0aeb8cd165523254082cae26ad38eb8a0cfcf196683abe9f2a20e9b6edbe890', '@@b972111f4e63c6e2063339a52d471ebae7732c9b08809e5c6f78521ce690f600'}
+2018-03-03 21:55:21,248 WeChat[4972] DEBUG readying for pull group's information...
+2018-03-03 21:55:21,998 WeChat[4972] INFO try to pull the group named: 羽球.动起来
+2018-03-03 21:55:22,248 WeChat[4972] INFO pull a member named: 鹭岛的陆 
+2018-03-03 21:55:22,248 WeChat[4972] INFO pull a member named: 森林vp 
+2018-03-03 21:55:22,248 WeChat[4972] INFO pull a member named: 郑海亮 
+2018-03-03 21:55:22,248 WeChat[4972] INFO pull a member named: 郭昊 
+2018-03-03 21:55:22,248 WeChat[4972] INFO pull a member named: 陈菱 
+2018-03-03 21:55:22,248 WeChat[4972] INFO pull a member named: 朱文坚 
+2018-03-03 21:55:22,248 WeChat[4972] INFO try to pull the group named: 新氪技术开发团队
+2018-03-03 21:55:22,558 WeChat[4972] INFO pull a member named: 许夜 
+2018-03-03 21:55:22,558 WeChat[4972] INFO pull a member named: 氤氲之息 
+2018-03-03 21:55:22,558 WeChat[4972] INFO pull a member named: 张刚 
+2018-03-03 21:55:22,558 WeChat[4972] INFO pull a member named: Young Niu 
+2018-03-03 21:55:22,568 WeChat[4972] INFO pull a member named: synchronized 
+2018-03-03 21:55:22,568 WeChat[4972] INFO pull a member named: 不精独乐 
+2018-03-03 21:55:22,568 WeChat[4972] INFO pull a member named: 朱文坚 
+2018-03-03 21:55:22,568 WeChat[4972] INFO pull a member named: 心语星空 
+2018-03-03 21:55:22,598 WeChat[4972] INFO pull a member named: 新氪HR 
+2018-03-03 21:55:22,598 WeChat[4972] INFO try to pull the group named: 14计科Android实训
+2018-03-03 21:55:23,268 WeChat[4972] INFO pull a member named: 燕凯涛 
+2018-03-03 21:55:23,278 WeChat[4972] INFO pull a member named: 乐宝<span class="emoji emoji1f605"></span> 
+2018-03-03 21:55:23,278 WeChat[4972] INFO pull a member named: 张渠江 
+2018-03-03 21:55:23,278 WeChat[4972] INFO pull a member named: 张毓 
+2018-03-03 21:55:23,278 WeChat[4972] INFO pull a member named: 饶龙 
+2018-03-03 21:55:23,278 WeChat[4972] INFO pull a member named: 邂逅华尔兹 
+2018-03-03 21:55:23,278 WeChat[4972] INFO pull a member named: 夜影流年 
+2018-03-03 21:55:23,278 WeChat[4972] INFO pull a member named: 乱曲 
+2018-03-03 21:55:23,278 WeChat[4972] INFO pull a member named: 云无心以出岫 
+2018-03-03 21:55:23,288 WeChat[4972] INFO pull a member named: YSL 
+2018-03-03 21:55:23,298 WeChat[4972] INFO pull a member named: Boolean 
+2018-03-03 21:55:23,298 WeChat[4972] INFO pull a member named: 帅气的向阳 
+2018-03-03 21:55:23,298 WeChat[4972] INFO pull a member named: 初夏 
+2018-03-03 21:55:23,298 WeChat[4972] INFO pull a member named: 错了而已 
+2018-03-03 21:55:23,298 WeChat[4972] INFO pull a member named: 上丶善若水 
+2018-03-03 21:55:23,298 WeChat[4972] INFO pull a member named: 好名都被wuli取了 
+2018-03-03 21:55:23,308 WeChat[4972] INFO pull a member named: 封宇杰 
+2018-03-03 21:55:23,308 WeChat[4972] INFO pull a member named: 李宽 
+2018-03-03 21:55:23,308 WeChat[4972] INFO pull a member named: Ds 
+2018-03-03 21:55:23,308 WeChat[4972] INFO pull a member named: SonyUR 
+2018-03-03 21:55:23,308 WeChat[4972] INFO pull a member named: 木剌 
+2018-03-03 21:55:23,308 WeChat[4972] INFO pull a member named: NewSky 
+2018-03-03 21:55:23,308 WeChat[4972] INFO pull a member named: 酉&amp;星 
+2018-03-03 21:55:23,308 WeChat[4972] INFO pull a member named: 无聊 
+2018-03-03 21:55:23,308 WeChat[4972] INFO pull a member named: 七年 
+2018-03-03 21:55:23,308 WeChat[4972] INFO pull a member named: 树<span class="emoji emoji1f343"></span> 
+2018-03-03 21:55:23,308 WeChat[4972] INFO pull a member named: 微笑 
+2018-03-03 21:55:23,308 WeChat[4972] INFO pull a member named: 梦影 
+2018-03-03 21:55:23,308 WeChat[4972] INFO pull a member named: 梦昼初 
+2018-03-03 21:55:23,308 WeChat[4972] INFO pull a member named: 朱文坚 
+2018-03-03 21:55:23,318 WeChat[4972] INFO pull a member named: 小猪 
+2018-03-03 21:55:23,318 WeChat[4972] INFO pull a member named: 李 
+2018-03-03 21:55:23,318 WeChat[4972] INFO pull a member named: 冷月 
+2018-03-03 21:55:23,328 WeChat[4972] INFO pull a member named: 追逐梦 
+2018-03-03 21:55:23,328 WeChat[4972] INFO pull a member named: ltp丶 
+2018-03-03 21:55:23,328 WeChat[4972] INFO pull a member named: 寒冰雪 
+2018-03-03 21:55:23,328 WeChat[4972] INFO pull a member named: Rookie 
+2018-03-03 21:55:23,328 WeChat[4972] INFO pull a member named: 小浩先森 
+2018-03-03 21:55:23,328 WeChat[4972] INFO pull a member named: 告别老年机 
+2018-03-03 21:55:23,328 WeChat[4972] INFO pull a member named: 辉宏网络服务 
+2018-03-03 21:55:23,328 WeChat[4972] INFO pull a member named: 影子中的舞者 
+2018-03-03 21:55:23,328 WeChat[4972] INFO pull a member named: 10 
+2018-03-03 21:55:23,328 WeChat[4972] INFO pull a member named: 胡成长 
+2018-03-03 21:55:23,338 WeChat[4972] INFO pull a member named: 苘一夏（薛棣文） 
+2018-03-03 21:55:23,338 WeChat[4972] INFO pull a member named: spectre 
+2018-03-03 21:55:23,338 WeChat[4972] INFO pull a member named: k2278次4车85号 
+2018-03-03 21:55:23,338 WeChat[4972] INFO pull a member named: 咯哈 
+2018-03-03 21:55:23,338 WeChat[4972] INFO pull a member named: 阳光正好 
+2018-03-03 21:55:23,338 WeChat[4972] INFO try to pull the group named: 新氪网络大团队
+2018-03-03 21:55:23,828 WeChat[4972] INFO pull a member named: 许夜 
+2018-03-03 21:55:23,828 WeChat[4972] INFO pull a member named: Ronnie.Shi 
+2018-03-03 21:55:23,828 WeChat[4972] INFO pull a member named: 张刚 
+2018-03-03 21:55:23,838 WeChat[4972] INFO pull a member named: 何勉 
+2018-03-03 21:55:23,838 WeChat[4972] INFO pull a member named: 氤氲之息 
+2018-03-03 21:55:23,838 WeChat[4972] INFO pull a member named: Young Niu 
+2018-03-03 21:55:23,838 WeChat[4972] INFO pull a member named: 老崔 
+2018-03-03 21:55:23,838 WeChat[4972] INFO pull a member named: 聂斌 
+2018-03-03 21:55:23,868 WeChat[4972] INFO pull a member named: 吕大杏 
+2018-03-03 21:55:23,868 WeChat[4972] INFO pull a member named: 王" 嘚瑟~ 
+2018-03-03 21:55:23,878 WeChat[4972] INFO pull a member named: 韩强强 
+2018-03-03 21:55:23,878 WeChat[4972] INFO pull a member named: 刘杨 
+2018-03-03 21:55:23,878 WeChat[4972] INFO pull a member named: synchronized 
+2018-03-03 21:55:23,878 WeChat[4972] INFO pull a member named: 小张 
+2018-03-03 21:55:23,878 WeChat[4972] INFO pull a member named: 不精独乐 
+2018-03-03 21:55:23,888 WeChat[4972] INFO pull a member named: 朱文坚 
+2018-03-03 21:55:23,888 WeChat[4972] INFO pull a member named: 心语星空 
+2018-03-03 21:55:23,888 WeChat[4972] INFO pull a member named: 新氪HR 
+2018-03-03 21:55:23,888 WeChat[4972] INFO try to pull the group named: 温馨的家
+2018-03-03 21:55:24,078 WeChat[4972] INFO pull a member named: 健康如意 
+2018-03-03 21:55:24,078 WeChat[4972] INFO pull a member named: 朱文坚 
+2018-03-03 21:55:24,078 WeChat[4972] INFO pull a member named: 朱志平zhuzhiping 
+2018-03-03 21:55:24,078 WeChat[4972] INFO try to pull the group named: 藏葎閣
+2018-03-03 21:55:24,418 WeChat[4972] INFO pull a member named: 辉宏网络服务 
+2018-03-03 21:55:24,418 WeChat[4972] INFO pull a member named: 皮卡秋 
+2018-03-03 21:55:24,428 WeChat[4972] INFO pull a member named: ltp丶 
+2018-03-03 21:55:24,428 WeChat[4972] INFO pull a member named: 燕凯涛 
+2018-03-03 21:55:24,428 WeChat[4972] INFO pull a member named: 买个太阳不下山 
+2018-03-03 21:55:24,428 WeChat[4972] INFO pull a member named: 朱文坚 
+2018-03-03 21:55:24,458 WeChat[4972] INFO pull a member named: 陈平 
+2018-03-03 21:55:24,458 WeChat[4972] INFO pull a member named: YSL 
+2018-03-03 21:55:24,458 WeChat[4972] INFO pull a member named: freedom 
+2018-03-03 21:55:24,468 WeChat[4972] INFO try to pull the group named: 新氪群喵社群事业部
+2018-03-03 21:55:24,778 WeChat[4972] INFO pull a member named: 从波 
+2018-03-03 21:55:24,788 WeChat[4972] INFO pull a member named: 许夜 
+2018-03-03 21:55:24,788 WeChat[4972] INFO pull a member named: Ronnie.Shi 
+2018-03-03 21:55:24,788 WeChat[4972] INFO pull a member named: 张刚 
+2018-03-03 21:55:24,788 WeChat[4972] INFO pull a member named: 朱文坚 
+2018-03-03 21:55:24,798 WeChat[4972] INFO pull a member named: synchronized 
+2018-03-03 21:55:24,818 WeChat[4972] INFO pull a member named: 心语星空 
+2018-03-03 21:55:24,828 WeChat[4972] INFO pull a member named: 新氪HR 
+2018-03-03 21:55:24,828 WeChat[4972] INFO try to pull the group named: 14计科班群
+2018-03-03 21:55:25,488 WeChat[4972] INFO pull a member named: 10 
+2018-03-03 21:55:25,498 WeChat[4972] INFO pull a member named: Boolean 
+2018-03-03 21:55:25,498 WeChat[4972] INFO pull a member named: 乐宝<span class="emoji emoji1f605"></span> 
+2018-03-03 21:55:25,498 WeChat[4972] INFO pull a member named: 初夏 
+2018-03-03 21:55:25,498 WeChat[4972] INFO pull a member named: <span class="emoji emoji2757"></span> 
+2018-03-03 21:55:25,508 WeChat[4972] INFO pull a member named: 涂聪 
+2018-03-03 21:55:25,508 WeChat[4972] INFO pull a member named: ltp丶 
+2018-03-03 21:55:25,508 WeChat[4972] INFO pull a member named: 追逐梦 
+2018-03-03 21:55:25,518 WeChat[4972] INFO pull a member named: 无聊 
+2018-03-03 21:55:25,528 WeChat[4972] INFO pull a member named: 亮晶晶<span class="emoji emoji1f31f"></span> 
+2018-03-03 21:55:25,528 WeChat[4972] INFO pull a member named: 冷月 
+2018-03-03 21:55:25,528 WeChat[4972] INFO pull a member named: 好名都被wuli取了 
+2018-03-03 21:55:25,528 WeChat[4972] INFO pull a member named: 辉宏网络服务 
+2018-03-03 21:55:25,528 WeChat[4972] INFO pull a member named: 陈平 
+2018-03-03 21:55:25,538 WeChat[4972] INFO pull a member named: 点亮黑暗 
+2018-03-03 21:55:25,538 WeChat[4972] INFO pull a member named: 封宇杰 
+2018-03-03 21:55:25,538 WeChat[4972] INFO pull a member named: 错了而已 
+2018-03-03 21:55:25,538 WeChat[4972] INFO pull a member named: 王思 
+2018-03-03 21:55:25,538 WeChat[4972] INFO pull a member named: freedom 
+2018-03-03 21:55:25,538 WeChat[4972] INFO pull a member named: 微笑 
+2018-03-03 21:55:25,538 WeChat[4972] INFO pull a member named: 酉&amp;星 
+2018-03-03 21:55:25,558 WeChat[4972] INFO pull a member named: YSL 
+2018-03-03 21:55:25,558 WeChat[4972] INFO pull a member named: 买个太阳不下山 
+2018-03-03 21:55:25,558 WeChat[4972] INFO pull a member named: 梦影 
+2018-03-03 21:55:25,558 WeChat[4972] INFO pull a member named: 张渠江 
+2018-03-03 21:55:25,558 WeChat[4972] INFO pull a member named: 云无心以出岫 
+2018-03-03 21:55:25,558 WeChat[4972] INFO pull a member named: 苏打水 
+2018-03-03 21:55:25,568 WeChat[4972] INFO pull a member named: 苘一夏（薛棣文） 
+2018-03-03 21:55:25,568 WeChat[4972] INFO pull a member named: 影子中的舞者 
+2018-03-03 21:55:25,568 WeChat[4972] INFO pull a member named: 小猪 
+2018-03-03 21:55:25,568 WeChat[4972] INFO pull a member named: k2278次4车85号 
+2018-03-03 21:55:25,568 WeChat[4972] INFO pull a member named: 咯哈 
+2018-03-03 21:55:25,568 WeChat[4972] INFO pull a member named: 永 
+2018-03-03 21:55:25,568 WeChat[4972] INFO pull a member named: 梦昼初 
+2018-03-03 21:55:25,588 WeChat[4972] INFO pull a member named: <span class="emoji emoji1f199"></span> 
+2018-03-03 21:55:25,598 WeChat[4972] INFO pull a member named: 饶龙 
+2018-03-03 21:55:25,598 WeChat[4972] INFO pull a member named: 胡成长 
+2018-03-03 21:55:25,598 WeChat[4972] INFO pull a member named: 小浩先森 
+2018-03-03 21:55:25,598 WeChat[4972] INFO pull a member named: 邂逅华尔兹 
+2018-03-03 21:55:25,598 WeChat[4972] INFO pull a member named: 李 
+2018-03-03 21:55:25,598 WeChat[4972] INFO pull a member named: 淡如墨雪 
+2018-03-03 21:55:25,608 WeChat[4972] INFO pull a member named: 凤尾鱼 
+2018-03-03 21:55:25,608 WeChat[4972] INFO pull a member named: 小刚 
+2018-03-03 21:55:25,608 WeChat[4972] INFO pull a member named: 淡然如水水 
+2018-03-03 21:55:25,608 WeChat[4972] INFO pull a member named: Ds 
+2018-03-03 21:55:25,608 WeChat[4972] INFO pull a member named: 帅气的向阳 
+2018-03-03 21:55:25,608 WeChat[4972] INFO pull a member named: Rookie 
+2018-03-03 21:55:25,698 WeChat[4972] INFO pull a member named: T丶ab 
+2018-03-03 21:55:25,698 WeChat[4972] INFO try to pull the group named: 鑫唐佳苑6.5层的群居生活
+2018-03-03 21:55:25,878 WeChat[4972] INFO pull a member named: 朱文坚 
+2018-03-03 21:55:25,878 WeChat[4972] INFO pull a member named: 加鑫 
+2018-03-03 21:55:25,888 WeChat[4972] INFO pull a member named: WALL E(Cheryl) 
+2018-03-03 21:55:25,888 WeChat[4972] INFO try to pull the group named: 一家人
+2018-03-03 21:55:26,368 WeChat[4972] INFO pull a member named: 菊华 
+2018-03-03 21:55:26,378 WeChat[4972] INFO pull a member named: 、尓蕞紾貴 
+2018-03-03 21:55:26,398 WeChat[4972] INFO pull a member named: 朱发平陶瓷艺术 
+2018-03-03 21:55:26,398 WeChat[4972] INFO pull a member named: 朱志平zhuzhiping 
+2018-03-03 21:55:26,408 WeChat[4972] INFO pull a member named: 朱文坚 
+2018-03-03 21:55:26,408 WeChat[4972] INFO pull a member named: 冷姐 
+2018-03-03 21:55:26,408 WeChat[4972] INFO pull a member named: 相濡以沫 
+2018-03-03 21:55:26,418 WeChat[4972] INFO pull a member named: 罗罗 
+2018-03-03 21:55:26,418 WeChat[4972] INFO pull a member named: 小布点… 
+2018-03-03 21:55:26,418 WeChat[4972] INFO pull a member named: 运棚 
+2018-03-03 21:55:26,418 WeChat[4972] INFO pull a member named: 风雨无阻 
+2018-03-03 21:55:26,418 WeChat[4972] INFO pull a member named: 健康如意 
+2018-03-03 21:55:26,418 WeChat[4972] INFO pull a member named: 浅 
+2018-03-03 21:55:26,418 WeChat[4972] INFO pull a member named: 年轻在于拼 
+2018-03-03 21:55:26,418 WeChat[4972] INFO try to pull the group named: 8307
+2018-03-03 21:55:26,688 WeChat[4972] INFO pull a member named: Zzx 
+2018-03-03 21:55:26,698 WeChat[4972] INFO pull a member named: 朱文坚 
+2018-03-03 21:55:26,698 WeChat[4972] INFO pull a member named: 张毓 
+2018-03-03 21:55:26,698 WeChat[4972] INFO pull a member named: 失落的心 
+2018-03-03 21:55:26,698 WeChat[4972] INFO pull a member named: 余祎鸣  
+2018-03-03 21:55:26,708 WeChat[4972] INFO pull a member named: MNM 
+2018-03-03 21:55:26,708 WeChat[4972] INFO pull a member named: 夜影流年 
+2018-03-03 21:55:26,708 WeChat[4972] INFO try to pull the group named: 相识的缘分
+2018-03-03 21:55:26,948 WeChat[4972] INFO pull a member named: zyss123 
+2018-03-03 21:55:26,958 WeChat[4972] INFO pull a member named: 石玉泉 
+2018-03-03 21:55:26,958 WeChat[4972] INFO pull a member named: 朱文坚 
+2018-03-03 21:55:26,958 WeChat[4972] INFO pull a member named: 加鑫 
+2018-03-03 21:55:26,958 WeChat[4972] INFO pull a member named: 。。。。。 
+2018-03-03 21:55:26,988 WeChat[4972] INFO pull a member named: 质壁分离 
+2018-03-03 21:55:26,988 WeChat[4972] INFO try to pull the group named: 云谏周末足球群
+2018-03-03 21:55:27,518 WeChat[4972] INFO pull a member named: 啊泉 
+2018-03-03 21:55:27,528 WeChat[4972] INFO pull a member named: JoieFu 
+2018-03-03 21:55:27,528 WeChat[4972] INFO pull a member named: LQ 
+2018-03-03 21:55:27,538 WeChat[4972] INFO pull a member named: glory 
+2018-03-03 21:55:27,538 WeChat[4972] INFO pull a member named: 森林vp 
+2018-03-03 21:55:27,538 WeChat[4972] INFO pull a member named: 陈菱 
+2018-03-03 21:55:27,538 WeChat[4972] INFO pull a member named: 朱文坚 
+2018-03-03 21:55:27,548 WeChat[4972] INFO pull a member named: 郭昊 
+2018-03-03 21:55:27,548 WeChat[4972] INFO pull a member named: Joy 
+2018-03-03 21:55:27,548 WeChat[4972] INFO pull a member named: June 
+2018-03-03 21:55:27,548 WeChat[4972] INFO pull a member named: zyss123 
+2018-03-03 21:55:27,558 WeChat[4972] INFO pull a member named: 石玉泉 
+2018-03-03 21:55:27,558 WeChat[4972] INFO pull a member named: 刘玉洁 
+2018-03-03 21:55:27,558 WeChat[4972] INFO pull a member named: 王伟康 
+2018-03-03 21:55:27,558 WeChat[4972] INFO pull a member named: 加鑫 
+2018-03-03 21:55:27,558 WeChat[4972] INFO pull a member named: 阿杜 
+2018-03-03 21:55:27,608 WeChat[4972] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"7"}':
+2018-03-03 21:55:27,608 WeChat[4972] INFO retcode: 0, selector: 7
+2018-03-03 21:55:42,630 WeChat[4972] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"2"}':
+2018-03-03 21:55:42,630 WeChat[4972] INFO retcode: 0, selector: 2
+2018-03-03 21:58:31,398 WeChat[7144] INFO waiting for WeChat to scan two dimensional code login...
+2018-03-03 21:58:47,239 WeChat[7144] DEBUG b'window.code=201;'
+2018-03-03 21:58:47,249 WeChat[7144] INFO waiting for WeChat to scan two dimensional code login...
+2018-03-03 21:58:48,499 WeChat[7144] DEBUG b'window.code=200;\nwindow.redirect_uri="https://wx.qq.com/cgi-bin/mmwebwx-bin/webwxnewloginpage?ticket=AXOlrlbJ8OUeylIOGINhSzLg@qrticket_0&uuid=wbfvnsIbgQ==&lang=zh_CN&scan=1520085527";'
+2018-03-03 21:58:49,062 WeChat[7144] DEBUG user: {'Uin': 2037322676, 'UserName': '@a89823ce1917a6f212e82f84b0a1fcfe37892a41eaad641eaa0a420ebb2dc899', 'NickName': '朱文坚', 'HeadImgUrl': '/cgi-bin/mmwebwx-bin/webwxgeticon?seq=542391949&username=@a89823ce1917a6f212e82f84b0a1fcfe37892a41eaad641eaa0a420ebb2dc899&skey=@crypt_bb4d37a3_ac649aaa2bf729bf35339eb188a5554b', 'RemarkName': '', 'PYInitial': '', 'PYQuanPin': '', 'RemarkPYInitial': '', 'RemarkPYQuanPin': '', 'HideInputBarFlag': 0, 'StarFriend': 0, 'Sex': 1, 'Signature': '', 'AppAccountFlag': 0, 'VerifyFlag': 0, 'ContactFlag': 0, 'WebWxPluginSwitch': 0, 'HeadImgFlag': 1, 'SnsFlag': 1}
+2018-03-03 21:58:50,442 WeChat[7144] INFO [*] all of 158 contacts，get 158 
+2018-03-03 21:58:50,442 WeChat[7144] INFO [*] all of 13 group | 119 contact | 1 special_user ｜ 25 public_user
+2018-03-03 21:58:50,442 WeChat[7144] INFO pull a member named: 文件传输助手 
+2018-03-03 21:58:50,442 WeChat[7144] INFO pull a member named: 魔方乐队 
+2018-03-03 21:58:50,442 WeChat[7144] INFO pull a member named: Youth 
+2018-03-03 21:58:50,442 WeChat[7144] INFO pull a member named: 易战军 
+2018-03-03 21:58:50,442 WeChat[7144] INFO pull a member named: 柳明 
+2018-03-03 21:58:50,442 WeChat[7144] INFO pull a member named: 黄凯的妈妈 
+2018-03-03 21:58:50,452 WeChat[7144] INFO pull a member named: Zzx 
+2018-03-03 21:58:50,462 WeChat[7144] INFO pull a member named: 晴天 
+2018-03-03 21:58:50,462 WeChat[7144] INFO pull a member named: 北大荒纯粮酒，西凤白酒经销 
+2018-03-03 21:58:50,462 WeChat[7144] INFO pull a member named: 对你爱不完 
+2018-03-03 21:58:50,462 WeChat[7144] INFO pull a member named: 墨 
+2018-03-03 21:58:50,462 WeChat[7144] INFO pull a member named: 、尓蕞紾貴 
+2018-03-03 21:58:50,462 WeChat[7144] INFO pull a member named: Silver age 
+2018-03-03 21:58:50,462 WeChat[7144] INFO pull a member named: 【不奢望】 
+2018-03-03 21:58:50,462 WeChat[7144] INFO pull a member named: 江西瑞金~朱海凤 
+2018-03-03 21:58:50,462 WeChat[7144] INFO pull a member named: MNM 
+2018-03-03 21:58:50,462 WeChat[7144] INFO pull a member named: 钟超 
+2018-03-03 21:58:50,462 WeChat[7144] INFO pull a member named: 一生健康 
+2018-03-03 21:58:50,462 WeChat[7144] INFO pull a member named: 梦昼初 
+2018-03-03 21:58:50,472 WeChat[7144] INFO pull a member named: Amaranth 
+2018-03-03 21:58:50,472 WeChat[7144] INFO pull a member named: 启航致远王少浪 
+2018-03-03 21:58:50,472 WeChat[7144] INFO pull a member named: 李 
+2018-03-03 21:58:50,472 WeChat[7144] INFO pull a member named: 爱夏 
+2018-03-03 21:58:50,472 WeChat[7144] INFO pull a member named: 偏分少年 
+2018-03-03 21:58:50,472 WeChat[7144] INFO pull a member named: 张渠江 
+2018-03-03 21:58:50,472 WeChat[7144] INFO pull a member named: 燕凯涛 
+2018-03-03 21:58:50,472 WeChat[7144] INFO pull a member named: wind 
+2018-03-03 21:58:50,472 WeChat[7144] INFO pull a member named: 　　　　　　　　 
+2018-03-03 21:58:50,482 WeChat[7144] INFO pull a member named: 肖菁 
+2018-03-03 21:58:50,482 WeChat[7144] INFO pull a member named: A百度熊勤13699500434 
+2018-03-03 21:58:50,482 WeChat[7144] INFO pull a member named: 难以忘记 
+2018-03-03 21:58:50,482 WeChat[7144] INFO pull a member named: 相濡以沫 
+2018-03-03 21:58:50,492 WeChat[7144] INFO pull a member named: 韵冰 
+2018-03-03 21:58:50,492 WeChat[7144] INFO pull a member named: 茴香 
+2018-03-03 21:58:50,492 WeChat[7144] INFO pull a member named: 肖云 
+2018-03-03 21:58:50,492 WeChat[7144] INFO pull a member named: Samuel 
+2018-03-03 21:58:50,492 WeChat[7144] INFO pull a member named: 耶子 
+2018-03-03 21:58:50,492 WeChat[7144] INFO pull a member named: 喜羊羊 
+2018-03-03 21:58:50,492 WeChat[7144] INFO pull a member named: 郭昊 
+2018-03-03 21:58:50,492 WeChat[7144] INFO pull a member named: 森林vp 
+2018-03-03 21:58:50,492 WeChat[7144] INFO pull a member named: 陈菱 
+2018-03-03 21:58:50,503 WeChat[7144] INFO pull a member named: Zjliii… 
+2018-03-03 21:58:50,503 WeChat[7144] INFO pull a member named: 可可西里 
+2018-03-03 21:58:50,503 WeChat[7144] INFO pull a member named: 上海八维冯老师1870192518 
+2018-03-03 21:58:50,503 WeChat[7144] INFO pull a member named: 油爆枇杷拌面 
+2018-03-03 21:58:50,503 WeChat[7144] INFO pull a member named: 夕阳下的歌 
+2018-03-03 21:58:50,503 WeChat[7144] INFO pull a member named: 冷姐 
+2018-03-03 21:58:50,503 WeChat[7144] INFO pull a member named: 你最珍贵 
+2018-03-03 21:58:50,503 WeChat[7144] INFO pull a member named: 皮卡秋 
+2018-03-03 21:58:50,503 WeChat[7144] INFO pull a member named: Coupe 
+2018-03-03 21:58:50,512 WeChat[7144] INFO pull a member named: 辉宏网络服务 
+2018-03-03 21:58:50,512 WeChat[7144] INFO pull a member named: 刘玉洁 
+2018-03-03 21:58:50,512 WeChat[7144] INFO pull a member named: 罗罗 
+2018-03-03 21:58:50,512 WeChat[7144] INFO pull a member named: 甘世云 
+2018-03-03 21:58:50,512 WeChat[7144] INFO pull a member named: Jan 
+2018-03-03 21:58:50,522 WeChat[7144] INFO pull a member named: 周明元 
+2018-03-03 21:58:50,522 WeChat[7144] INFO pull a member named: 七年 
+2018-03-03 21:58:50,522 WeChat[7144] INFO pull a member named: 项目 耿义鹤 Caesar 
+2018-03-03 21:58:50,522 WeChat[7144] INFO pull a member named: freedom 
+2018-03-03 21:58:50,522 WeChat[7144] INFO pull a member named: 王伟康 
+2018-03-03 21:58:50,522 WeChat[7144] INFO pull a member named: 买个太阳不下山 
+2018-03-03 21:58:50,522 WeChat[7144] INFO pull a member named: 石玉泉 
+2018-03-03 21:58:50,522 WeChat[7144] INFO pull a member named: 刘屹成 
+2018-03-03 21:58:50,522 WeChat[7144] INFO pull a member named: 阿杜 
+2018-03-03 21:58:50,522 WeChat[7144] INFO pull a member named: 。。。。。 
+2018-03-03 21:58:50,522 WeChat[7144] INFO pull a member named: 浅 
+2018-03-03 21:58:50,522 WeChat[7144] INFO pull a member named: A逆光飞翔 
+2018-03-03 21:58:50,522 WeChat[7144] INFO pull a member named: Joy 
+2018-03-03 21:58:50,522 WeChat[7144] INFO pull a member named: June 
+2018-03-03 21:58:50,522 WeChat[7144] INFO pull a member named: 朱志平zhuzhiping 
+2018-03-03 21:58:50,532 WeChat[7144] INFO pull a member named: 不忘初心 
+2018-03-03 21:58:50,532 WeChat[7144] INFO pull a member named: ltp丶 
+2018-03-03 21:58:50,532 WeChat[7144] INFO pull a member named: 小布点… 
+2018-03-03 21:58:50,532 WeChat[7144] INFO pull a member named: 健康如意 
+2018-03-03 21:58:50,532 WeChat[7144] INFO pull a member named: 鹭岛的陆 
+2018-03-03 21:58:50,532 WeChat[7144] INFO pull a member named: 朱发平陶瓷艺术 
+2018-03-03 21:58:50,542 WeChat[7144] INFO pull a member named: 年轻在于拼 
+2018-03-03 21:58:50,542 WeChat[7144] INFO pull a member named: 不精独乐 
+2018-03-03 21:58:50,542 WeChat[7144] INFO pull a member named: Young Niu 
+2018-03-03 21:58:50,542 WeChat[7144] INFO pull a member named: One Peace 
+2018-03-03 21:58:50,542 WeChat[7144] INFO pull a member named: 张刚 
+2018-03-03 21:58:50,542 WeChat[7144] INFO pull a member named: 梁慧敏 
+2018-03-03 21:58:50,542 WeChat[7144] INFO pull a member named: 许夜 
+2018-03-03 21:58:50,542 WeChat[7144] INFO pull a member named: 加鑫 
+2018-03-03 21:58:50,542 WeChat[7144] INFO pull a member named: 涛哥哥 
+2018-03-03 21:58:50,542 WeChat[7144] INFO pull a member named: Falo丶 
+2018-03-03 21:58:50,542 WeChat[7144] INFO pull a member named: 魏良智 
+2018-03-03 21:58:50,542 WeChat[7144] INFO pull a member named: 琦 
+2018-03-03 21:58:50,553 WeChat[7144] INFO pull a member named: 张毓 
+2018-03-03 21:58:50,553 WeChat[7144] INFO pull a member named: 染于苍则苍 
+2018-03-03 21:58:50,553 WeChat[7144] INFO pull a member named: 喻鑫 
+2018-03-03 21:58:50,562 WeChat[7144] INFO pull a member named: zyss123 
+2018-03-03 21:58:50,562 WeChat[7144] INFO pull a member named: 谢叔冬 
+2018-03-03 21:58:50,562 WeChat[7144] INFO pull a member named: 影子中的舞者 
+2018-03-03 21:58:50,562 WeChat[7144] INFO pull a member named: YSL 
+2018-03-03 21:58:50,562 WeChat[7144] INFO pull a member named: zy 
+2018-03-03 21:58:50,562 WeChat[7144] INFO pull a member named: 明月清 
+2018-03-03 21:58:50,562 WeChat[7144] INFO pull a member named: A ～（袁铭祥） 
+2018-03-03 21:58:50,562 WeChat[7144] INFO pull a member named: Superhero 
+2018-03-03 21:58:50,562 WeChat[7144] INFO pull a member named: 稀饭 
+2018-03-03 21:58:50,572 WeChat[7144] INFO pull a member named: synchronized 
+2018-03-03 21:58:50,572 WeChat[7144] INFO pull a member named: Ronnie.Shi 
+2018-03-03 21:58:50,572 WeChat[7144] INFO pull a member named: 晓晓@铺码新零售 
+2018-03-03 21:58:50,572 WeChat[7144] INFO pull a member named: 陈平 
+2018-03-03 21:58:50,572 WeChat[7144] INFO pull a member named: 追光者 
+2018-03-03 21:58:50,572 WeChat[7144] INFO pull a member named: 亮晶晶钢琴工作室 
+2018-03-03 21:58:50,572 WeChat[7144] INFO pull a member named: 朱 
+2018-03-03 21:58:50,572 WeChat[7144] INFO pull a member named: 七月生 
+2018-03-03 21:58:50,572 WeChat[7144] INFO pull a member named: 婉 
+2018-03-03 21:58:50,572 WeChat[7144] INFO pull a member named: WALL E(Cheryl) 
+2018-03-03 21:58:50,572 WeChat[7144] INFO pull a member named: 宜春移动 
+2018-03-03 21:58:50,572 WeChat[7144] INFO pull a member named: 宜春学院学生会 
+2018-03-03 21:58:50,572 WeChat[7144] INFO pull a member named: 宜春学院数学与计算机科学学院 
+2018-03-03 21:58:50,572 WeChat[7144] INFO pull a member named:  
+2018-03-03 21:58:50,582 WeChat[7144] INFO pull a member named: 电子发烧友网 
+2018-03-03 21:58:50,582 WeChat[7144] INFO pull a member named: java那些事 
+2018-03-03 21:58:50,582 WeChat[7144] INFO pull a member named: 程序员内参 
+2018-03-03 21:58:50,582 WeChat[7144] INFO pull a member named: 宜春学院 
+2018-03-03 21:58:50,582 WeChat[7144] INFO pull a member named: 良品铺子 
+2018-03-03 21:58:50,582 WeChat[7144] INFO pull a member named: Python技术博文 
+2018-03-03 21:58:50,582 WeChat[7144] INFO pull a member named: Fribble 
+2018-03-03 21:58:50,592 WeChat[7144] INFO pull a member named: Java小栈 
+2018-03-03 21:58:50,592 WeChat[7144] INFO pull a member named: 微信开发者 
+2018-03-03 21:58:50,592 WeChat[7144] INFO pull a member named: 阿里技术 
+2018-03-03 21:58:50,592 WeChat[7144] INFO pull a member named: 学涨 
+2018-03-03 21:58:50,592 WeChat[7144] INFO pull a member named: 微信团队 
+2018-03-03 21:58:50,592 WeChat[7144] INFO pull a member named: R语言中文社区 
+2018-03-03 21:58:50,592 WeChat[7144] INFO pull a member named: WPS会员 
+2018-03-03 21:58:50,592 WeChat[7144] INFO pull a member named: 微信游戏 
+2018-03-03 21:58:50,592 WeChat[7144] INFO pull a member named: 回收货郎 
+2018-03-03 21:58:50,592 WeChat[7144] INFO pull a member named: 公众平台安全助手 
+2018-03-03 21:58:50,592 WeChat[7144] INFO pull a member named: 微信支付 
+2018-03-03 21:58:50,592 WeChat[7144] INFO pull a member named: 京东支付 
+2018-03-03 21:58:50,592 WeChat[7144] INFO pull a member named: 58速运 
+2018-03-03 21:58:50,592 WeChat[7144] INFO pull a member named: 江西移动10086 
+2018-03-03 21:58:50,602 WeChat[7144] DEBUG group_ids: {'@@0a88b57a01f7afaa8920d1ca7da9152e4b245663a74ceadfae168ce86f52223d', '@@a5e9904eb79441f64cc7fc1bf8f44f1271987d6c2d825f662cee0a5746bf8415', '@@312bbe1d9730e2645f4233cfb4e88d3ddaed619fdd5b5931a26ce3633d05c579', '@@42a869205b8b1ace186e1b373f5c00e632998e357c3e2e0986e4a5e3a3fd78c2', '@@16179a5adf741616708b9f17a0bf830dc23bcd225bd5a9f53effcb71a62555d7', '@@96b5732ec1e6a633f2768a67b74ac69d7113b5438721ff6684345ce045adb6bf', '@@1ddb6b0eb4e6de589072911a4ab5b7699efed7cea4089d317129b3439804f63c', '@@3d73a7b2892abd06023eaecf6b4012879594797e70ca13d9d7b71fb4b9f80d05', '@@93f6969f612a47b2f6f231bd93c35f76ce7f264d63057631922e7fbf0881a6b5', '@@ebc04ba242fb318d38918c92307367a58b8b25edb910734f31e025add65e74b5', '@@4b2b070b683a76e8c171a33502fac7a6cac50597efbebd31f0d60a007eae97c7', '@@58a32bd71634ed28c75c96ab40d826772bc814415d90f6819cfc8e453851906c', '@@0bdcb3b650afb2d010bb3d5102b8ba072790f717bc5fec8b8887ddef7b89711d'}
+2018-03-03 21:58:50,602 WeChat[7144] DEBUG readying for pull group's information...
+2018-03-03 21:58:51,283 WeChat[7144] INFO try to pull the group named: 14计科Android实训
+2018-03-03 21:58:51,923 WeChat[7144] INFO pull a member named: 燕凯涛 
+2018-03-03 21:58:51,923 WeChat[7144] INFO pull a member named: 乐宝<span class="emoji emoji1f605"></span> 
+2018-03-03 21:58:51,923 WeChat[7144] INFO pull a member named: 张渠江 
+2018-03-03 21:58:51,933 WeChat[7144] INFO pull a member named: 张毓 
+2018-03-03 21:58:51,933 WeChat[7144] INFO pull a member named: 饶龙 
+2018-03-03 21:58:51,933 WeChat[7144] INFO pull a member named: 邂逅华尔兹 
+2018-03-03 21:58:51,933 WeChat[7144] INFO pull a member named: 夜影流年 
+2018-03-03 21:58:51,943 WeChat[7144] INFO pull a member named: 乱曲 
+2018-03-03 21:58:51,943 WeChat[7144] INFO pull a member named: 云无心以出岫 
+2018-03-03 21:58:51,943 WeChat[7144] INFO pull a member named: YSL 
+2018-03-03 21:58:51,943 WeChat[7144] INFO pull a member named: Boolean 
+2018-03-03 21:58:51,943 WeChat[7144] INFO pull a member named: 帅气的向阳 
+2018-03-03 21:58:51,943 WeChat[7144] INFO pull a member named: 初夏 
+2018-03-03 21:58:51,943 WeChat[7144] INFO pull a member named: 错了而已 
+2018-03-03 21:58:51,943 WeChat[7144] INFO pull a member named: 上丶善若水 
+2018-03-03 21:58:51,963 WeChat[7144] INFO pull a member named: 好名都被wuli取了 
+2018-03-03 21:58:51,963 WeChat[7144] INFO pull a member named: 封宇杰 
+2018-03-03 21:58:51,963 WeChat[7144] INFO pull a member named: 李宽 
+2018-03-03 21:58:51,963 WeChat[7144] INFO pull a member named: Ds 
+2018-03-03 21:58:51,973 WeChat[7144] INFO pull a member named: SonyUR 
+2018-03-03 21:58:51,973 WeChat[7144] INFO pull a member named: 木剌 
+2018-03-03 21:58:51,973 WeChat[7144] INFO pull a member named: NewSky 
+2018-03-03 21:58:51,973 WeChat[7144] INFO pull a member named: 酉&amp;星 
+2018-03-03 21:58:52,003 WeChat[7144] INFO pull a member named: 无聊 
+2018-03-03 21:58:52,003 WeChat[7144] INFO pull a member named: 七年 
+2018-03-03 21:58:52,003 WeChat[7144] INFO pull a member named: 树<span class="emoji emoji1f343"></span> 
+2018-03-03 21:58:52,003 WeChat[7144] INFO pull a member named: 微笑 
+2018-03-03 21:58:52,003 WeChat[7144] INFO pull a member named: 梦影 
+2018-03-03 21:58:52,003 WeChat[7144] INFO pull a member named: 梦昼初 
+2018-03-03 21:58:52,013 WeChat[7144] INFO pull a member named: 朱文坚 
+2018-03-03 21:58:52,013 WeChat[7144] INFO pull a member named: 小猪 
+2018-03-03 21:58:52,013 WeChat[7144] INFO pull a member named: 李 
+2018-03-03 21:58:52,013 WeChat[7144] INFO pull a member named: 冷月 
+2018-03-03 21:58:52,013 WeChat[7144] INFO pull a member named: 追逐梦 
+2018-03-03 21:58:52,013 WeChat[7144] INFO pull a member named: ltp丶 
+2018-03-03 21:58:52,023 WeChat[7144] INFO pull a member named: 寒冰雪 
+2018-03-03 21:58:52,023 WeChat[7144] INFO pull a member named: Rookie 
+2018-03-03 21:58:52,023 WeChat[7144] INFO pull a member named: 小浩先森 
+2018-03-03 21:58:52,023 WeChat[7144] INFO pull a member named: 告别老年机 
+2018-03-03 21:58:52,023 WeChat[7144] INFO pull a member named: 辉宏网络服务 
+2018-03-03 21:58:52,043 WeChat[7144] INFO pull a member named: 影子中的舞者 
+2018-03-03 21:58:52,043 WeChat[7144] INFO pull a member named: 10 
+2018-03-03 21:58:52,043 WeChat[7144] INFO pull a member named: 胡成长 
+2018-03-03 21:58:52,053 WeChat[7144] INFO pull a member named: 苘一夏（薛棣文） 
+2018-03-03 21:58:52,053 WeChat[7144] INFO pull a member named: spectre 
+2018-03-03 21:58:52,053 WeChat[7144] INFO pull a member named: k2278次4车85号 
+2018-03-03 21:58:52,053 WeChat[7144] INFO pull a member named: 咯哈 
+2018-03-03 21:58:52,053 WeChat[7144] INFO pull a member named: 阳光正好 
+2018-03-03 21:58:52,053 WeChat[7144] INFO try to pull the group named: 云谏周末足球群
+2018-03-03 21:58:52,553 WeChat[7144] INFO pull a member named: 啊泉 
+2018-03-03 21:58:52,563 WeChat[7144] INFO pull a member named: JoieFu 
+2018-03-03 21:58:52,583 WeChat[7144] INFO pull a member named: LQ 
+2018-03-03 21:58:52,583 WeChat[7144] INFO pull a member named: glory 
+2018-03-03 21:58:52,593 WeChat[7144] INFO pull a member named: 森林vp 
+2018-03-03 21:58:52,593 WeChat[7144] INFO pull a member named: 陈菱 
+2018-03-03 21:58:52,593 WeChat[7144] INFO pull a member named: 朱文坚 
+2018-03-03 21:58:52,593 WeChat[7144] INFO pull a member named: 郭昊 
+2018-03-03 21:58:52,603 WeChat[7144] INFO pull a member named: Joy 
+2018-03-03 21:58:52,603 WeChat[7144] INFO pull a member named: June 
+2018-03-03 21:58:52,603 WeChat[7144] INFO pull a member named: zyss123 
+2018-03-03 21:58:52,603 WeChat[7144] INFO pull a member named: 石玉泉 
+2018-03-03 21:58:52,603 WeChat[7144] INFO pull a member named: 刘玉洁 
+2018-03-03 21:58:52,633 WeChat[7144] INFO pull a member named: 王伟康 
+2018-03-03 21:58:52,633 WeChat[7144] INFO pull a member named: 加鑫 
+2018-03-03 21:58:52,633 WeChat[7144] INFO pull a member named: 阿杜 
+2018-03-03 21:58:52,643 WeChat[7144] INFO try to pull the group named: 14计科班群
+2018-03-03 21:58:53,290 WeChat[7144] INFO pull a member named: 10 
+2018-03-03 21:58:53,290 WeChat[7144] INFO pull a member named: Boolean 
+2018-03-03 21:58:53,290 WeChat[7144] INFO pull a member named: 乐宝<span class="emoji emoji1f605"></span> 
+2018-03-03 21:58:53,290 WeChat[7144] INFO pull a member named: 初夏 
+2018-03-03 21:58:53,290 WeChat[7144] INFO pull a member named: <span class="emoji emoji2757"></span> 
+2018-03-03 21:58:53,290 WeChat[7144] INFO pull a member named: 涂聪 
+2018-03-03 21:58:53,290 WeChat[7144] INFO pull a member named: ltp丶 
+2018-03-03 21:58:53,290 WeChat[7144] INFO pull a member named: 追逐梦 
+2018-03-03 21:58:53,290 WeChat[7144] INFO pull a member named: 无聊 
+2018-03-03 21:58:53,290 WeChat[7144] INFO pull a member named: 亮晶晶<span class="emoji emoji1f31f"></span> 
+2018-03-03 21:58:53,290 WeChat[7144] INFO pull a member named: 冷月 
+2018-03-03 21:58:53,290 WeChat[7144] INFO pull a member named: 好名都被wuli取了 
+2018-03-03 21:58:53,290 WeChat[7144] INFO pull a member named: 辉宏网络服务 
+2018-03-03 21:58:53,320 WeChat[7144] INFO pull a member named: 陈平 
+2018-03-03 21:58:53,320 WeChat[7144] INFO pull a member named: 点亮黑暗 
+2018-03-03 21:58:53,320 WeChat[7144] INFO pull a member named: 封宇杰 
+2018-03-03 21:58:53,320 WeChat[7144] INFO pull a member named: 错了而已 
+2018-03-03 21:58:53,330 WeChat[7144] INFO pull a member named: 王思 
+2018-03-03 21:58:53,330 WeChat[7144] INFO pull a member named: freedom 
+2018-03-03 21:58:53,330 WeChat[7144] INFO pull a member named: 微笑 
+2018-03-03 21:58:53,330 WeChat[7144] INFO pull a member named: 酉&amp;星 
+2018-03-03 21:58:53,330 WeChat[7144] INFO pull a member named: YSL 
+2018-03-03 21:58:53,340 WeChat[7144] INFO pull a member named: 买个太阳不下山 
+2018-03-03 21:58:53,340 WeChat[7144] INFO pull a member named: 梦影 
+2018-03-03 21:58:53,340 WeChat[7144] INFO pull a member named: 张渠江 
+2018-03-03 21:58:53,340 WeChat[7144] INFO pull a member named: 云无心以出岫 
+2018-03-03 21:58:53,340 WeChat[7144] INFO pull a member named: 苏打水 
+2018-03-03 21:58:53,360 WeChat[7144] INFO pull a member named: 苘一夏（薛棣文） 
+2018-03-03 21:58:53,360 WeChat[7144] INFO pull a member named: 影子中的舞者 
+2018-03-03 21:58:53,360 WeChat[7144] INFO pull a member named: 小猪 
+2018-03-03 21:58:53,360 WeChat[7144] INFO pull a member named: k2278次4车85号 
+2018-03-03 21:58:53,370 WeChat[7144] INFO pull a member named: 咯哈 
+2018-03-03 21:58:53,370 WeChat[7144] INFO pull a member named: 永 
+2018-03-03 21:58:53,370 WeChat[7144] INFO pull a member named: 梦昼初 
+2018-03-03 21:58:53,370 WeChat[7144] INFO pull a member named: <span class="emoji emoji1f199"></span> 
+2018-03-03 21:58:53,370 WeChat[7144] INFO pull a member named: 饶龙 
+2018-03-03 21:58:53,370 WeChat[7144] INFO pull a member named: 胡成长 
+2018-03-03 21:58:53,370 WeChat[7144] INFO pull a member named: 小浩先森 
+2018-03-03 21:58:53,370 WeChat[7144] INFO pull a member named: 邂逅华尔兹 
+2018-03-03 21:58:53,370 WeChat[7144] INFO pull a member named: 李 
+2018-03-03 21:58:53,380 WeChat[7144] INFO pull a member named: 淡如墨雪 
+2018-03-03 21:58:53,380 WeChat[7144] INFO pull a member named: 凤尾鱼 
+2018-03-03 21:58:53,380 WeChat[7144] INFO pull a member named: 小刚 
+2018-03-03 21:58:53,380 WeChat[7144] INFO pull a member named: 淡然如水水 
+2018-03-03 21:58:53,380 WeChat[7144] INFO pull a member named: Ds 
+2018-03-03 21:58:53,380 WeChat[7144] INFO pull a member named: 帅气的向阳 
+2018-03-03 21:58:53,380 WeChat[7144] INFO pull a member named: Rookie 
+2018-03-03 21:58:53,380 WeChat[7144] INFO pull a member named: T丶ab 
+2018-03-03 21:58:53,390 WeChat[7144] INFO try to pull the group named: 新氪群喵社群事业部
+2018-03-03 21:58:53,660 WeChat[7144] INFO pull a member named: 从波 
+2018-03-03 21:58:53,660 WeChat[7144] INFO pull a member named: 许夜 
+2018-03-03 21:58:53,660 WeChat[7144] INFO pull a member named: Ronnie.Shi 
+2018-03-03 21:58:53,660 WeChat[7144] INFO pull a member named: 张刚 
+2018-03-03 21:58:53,693 WeChat[7144] INFO pull a member named: 朱文坚 
+2018-03-03 21:58:53,693 WeChat[7144] INFO pull a member named: synchronized 
+2018-03-03 21:58:53,693 WeChat[7144] INFO pull a member named: 心语星空 
+2018-03-03 21:58:53,693 WeChat[7144] INFO pull a member named: 新氪HR 
+2018-03-03 21:58:53,703 WeChat[7144] INFO try to pull the group named: 新氪技术开发团队
+2018-03-03 21:58:54,023 WeChat[7144] INFO pull a member named: 许夜 
+2018-03-03 21:58:54,033 WeChat[7144] INFO pull a member named: 氤氲之息 
+2018-03-03 21:58:54,033 WeChat[7144] INFO pull a member named: 张刚 
+2018-03-03 21:58:54,033 WeChat[7144] INFO pull a member named: Young Niu 
+2018-03-03 21:58:54,033 WeChat[7144] INFO pull a member named: synchronized 
+2018-03-03 21:58:54,033 WeChat[7144] INFO pull a member named: 不精独乐 
+2018-03-03 21:58:54,043 WeChat[7144] INFO pull a member named: 朱文坚 
+2018-03-03 21:58:54,043 WeChat[7144] INFO pull a member named: 心语星空 
+2018-03-03 21:58:54,043 WeChat[7144] INFO pull a member named: 新氪HR 
+2018-03-03 21:58:54,043 WeChat[7144] INFO try to pull the group named: 相识的缘分
+2018-03-03 21:58:54,333 WeChat[7144] INFO pull a member named: zyss123 
+2018-03-03 21:58:54,333 WeChat[7144] INFO pull a member named: 石玉泉 
+2018-03-03 21:58:54,343 WeChat[7144] INFO pull a member named: 朱文坚 
+2018-03-03 21:58:54,363 WeChat[7144] INFO pull a member named: 加鑫 
+2018-03-03 21:58:54,363 WeChat[7144] INFO pull a member named: 。。。。。 
+2018-03-03 21:58:54,373 WeChat[7144] INFO pull a member named: 质壁分离 
+2018-03-03 21:58:54,373 WeChat[7144] INFO try to pull the group named: 鑫唐佳苑6.5层的群居生活
+2018-03-03 21:58:54,563 WeChat[7144] INFO pull a member named: 朱文坚 
+2018-03-03 21:58:54,603 WeChat[7144] INFO pull a member named: 加鑫 
+2018-03-03 21:58:54,653 WeChat[7144] INFO pull a member named: WALL E(Cheryl) 
+2018-03-03 21:58:54,683 WeChat[7144] INFO try to pull the group named: 8307
+2018-03-03 21:58:54,963 WeChat[7144] INFO pull a member named: Zzx 
+2018-03-03 21:58:55,003 WeChat[7144] INFO pull a member named: 朱文坚 
+2018-03-03 21:58:55,033 WeChat[7144] INFO pull a member named: 张毓 
+2018-03-03 21:58:55,063 WeChat[7144] INFO pull a member named: 失落的心 
+2018-03-03 21:58:55,093 WeChat[7144] INFO pull a member named: 余祎鸣  
+2018-03-03 21:58:55,123 WeChat[7144] INFO pull a member named: MNM 
+2018-03-03 21:58:55,143 WeChat[7144] INFO pull a member named: 夜影流年 
+2018-03-03 21:58:55,183 WeChat[7144] INFO try to pull the group named: 一家人
+2018-03-03 21:58:55,663 WeChat[7144] INFO pull a member named: 菊华 
+2018-03-03 21:58:55,713 WeChat[7144] INFO pull a member named: 、尓蕞紾貴 
+2018-03-03 21:58:55,783 WeChat[7144] INFO pull a member named: 朱发平陶瓷艺术 
+2018-03-03 21:58:55,833 WeChat[7144] INFO pull a member named: 朱志平zhuzhiping 
+2018-03-03 21:58:55,933 WeChat[7144] INFO pull a member named: 朱文坚 
+2018-03-03 21:58:55,983 WeChat[7144] INFO pull a member named: 冷姐 
+2018-03-03 21:58:56,043 WeChat[7144] INFO pull a member named: 相濡以沫 
+2018-03-03 21:58:56,103 WeChat[7144] INFO pull a member named: 罗罗 
+2018-03-03 21:58:56,123 WeChat[7144] INFO pull a member named: 小布点… 
+2018-03-03 21:58:56,123 WeChat[7144] INFO pull a member named: 运棚 
+2018-03-03 21:58:56,123 WeChat[7144] INFO pull a member named: 风雨无阻 
+2018-03-03 21:58:56,123 WeChat[7144] INFO pull a member named: 健康如意 
+2018-03-03 21:58:56,133 WeChat[7144] INFO pull a member named: 浅 
+2018-03-03 21:58:56,133 WeChat[7144] INFO pull a member named: 年轻在于拼 
+2018-03-03 21:58:56,133 WeChat[7144] INFO try to pull the group named: 羽球.动起来
+2018-03-03 21:58:56,453 WeChat[7144] INFO pull a member named: 鹭岛的陆 
+2018-03-03 21:58:56,463 WeChat[7144] INFO pull a member named: 森林vp 
+2018-03-03 21:58:56,463 WeChat[7144] INFO pull a member named: 郑海亮 
+2018-03-03 21:58:56,463 WeChat[7144] INFO pull a member named: 郭昊 
+2018-03-03 21:58:56,463 WeChat[7144] INFO pull a member named: 陈菱 
+2018-03-03 21:58:56,473 WeChat[7144] INFO pull a member named: 朱文坚 
+2018-03-03 21:58:56,483 WeChat[7144] INFO try to pull the group named: 温馨的家
+2018-03-03 21:58:56,653 WeChat[7144] INFO pull a member named: 健康如意 
+2018-03-03 21:58:56,653 WeChat[7144] INFO pull a member named: 朱文坚 
+2018-03-03 21:58:56,663 WeChat[7144] INFO pull a member named: 朱志平zhuzhiping 
+2018-03-03 21:58:56,666 WeChat[7144] INFO try to pull the group named: 新氪网络大团队
+2018-03-03 21:58:57,151 WeChat[7144] INFO pull a member named: 许夜 
+2018-03-03 21:58:57,151 WeChat[7144] INFO pull a member named: Ronnie.Shi 
+2018-03-03 21:58:57,181 WeChat[7144] INFO pull a member named: 张刚 
+2018-03-03 21:58:57,181 WeChat[7144] INFO pull a member named: 何勉 
+2018-03-03 21:58:57,191 WeChat[7144] INFO pull a member named: 氤氲之息 
+2018-03-03 21:58:57,191 WeChat[7144] INFO pull a member named: Young Niu 
+2018-03-03 21:58:57,191 WeChat[7144] INFO pull a member named: 老崔 
+2018-03-03 21:58:57,191 WeChat[7144] INFO pull a member named: 聂斌 
+2018-03-03 21:58:57,191 WeChat[7144] INFO pull a member named: 吕大杏 
+2018-03-03 21:58:57,191 WeChat[7144] INFO pull a member named: 王" 嘚瑟~ 
+2018-03-03 21:58:57,191 WeChat[7144] INFO pull a member named: 韩强强 
+2018-03-03 21:58:57,191 WeChat[7144] INFO pull a member named: 刘杨 
+2018-03-03 21:58:57,191 WeChat[7144] INFO pull a member named: synchronized 
+2018-03-03 21:58:57,191 WeChat[7144] INFO pull a member named: 小张 
+2018-03-03 21:58:57,191 WeChat[7144] INFO pull a member named: 不精独乐 
+2018-03-03 21:58:57,191 WeChat[7144] INFO pull a member named: 朱文坚 
+2018-03-03 21:58:57,191 WeChat[7144] INFO pull a member named: 心语星空 
+2018-03-03 21:58:57,201 WeChat[7144] INFO pull a member named: 新氪HR 
+2018-03-03 21:58:57,201 WeChat[7144] INFO try to pull the group named: 藏葎閣
+2018-03-03 21:58:57,561 WeChat[7144] INFO pull a member named: 辉宏网络服务 
+2018-03-03 21:58:57,561 WeChat[7144] INFO pull a member named: 皮卡秋 
+2018-03-03 21:58:57,571 WeChat[7144] INFO pull a member named: ltp丶 
+2018-03-03 21:58:57,571 WeChat[7144] INFO pull a member named: 燕凯涛 
+2018-03-03 21:58:57,571 WeChat[7144] INFO pull a member named: 买个太阳不下山 
+2018-03-03 21:58:57,581 WeChat[7144] INFO pull a member named: 朱文坚 
+2018-03-03 21:58:57,581 WeChat[7144] INFO pull a member named: 陈平 
+2018-03-03 21:58:57,581 WeChat[7144] INFO pull a member named: YSL 
+2018-03-03 21:58:57,581 WeChat[7144] INFO pull a member named: freedom 
+2018-03-03 21:58:57,651 WeChat[7144] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"7"}':
+2018-03-03 21:58:57,651 WeChat[7144] INFO retcode: 0, selector: 7
+2018-03-03 21:59:00,854 WeChat[7144] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"2"}':
+2018-03-03 21:59:00,854 WeChat[7144] INFO retcode: 0, selector: 2
+2018-03-03 21:59:08,244 WeChat[7144] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"2"}':
+2018-03-03 21:59:08,254 WeChat[7144] INFO retcode: 0, selector: 2
+2018-03-03 21:59:10,846 WeChat[7144] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"2"}':
+2018-03-03 21:59:10,846 WeChat[7144] INFO retcode: 0, selector: 2
+2018-03-03 21:59:26,011 WeChat[7144] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"2"}':
+2018-03-03 21:59:26,021 WeChat[7144] INFO retcode: 0, selector: 2
+2018-03-03 22:06:47,917 WeChat[8360] INFO waiting for WeChat to scan two dimensional code login...
+2018-03-03 22:06:51,628 WeChat[8360] DEBUG b'window.code=201;'
+2018-03-03 22:06:51,658 WeChat[8360] INFO waiting for WeChat to scan two dimensional code login...
+2018-03-03 22:06:52,938 WeChat[8360] DEBUG b'window.code=200;\nwindow.redirect_uri="https://wx.qq.com/cgi-bin/mmwebwx-bin/webwxnewloginpage?ticket=AdUmVkWj6bwqhVM1owBg7Se0@qrticket_0&uuid=AYjGRjulNg==&lang=zh_CN&scan=1520086011";'
+2018-03-03 22:06:53,556 WeChat[8360] DEBUG user: {'Uin': 2037322676, 'UserName': '@4dc9b4d00cc19824dd8b2ad8ad4efc9ab552afff80c35aa893e946bd7e925d89', 'NickName': '朱文坚', 'HeadImgUrl': '/cgi-bin/mmwebwx-bin/webwxgeticon?seq=1683520596&username=@4dc9b4d00cc19824dd8b2ad8ad4efc9ab552afff80c35aa893e946bd7e925d89&skey=@crypt_bb4d37a3_637c015ae7fa48964f0f43ed8676cad3', 'RemarkName': '', 'PYInitial': '', 'PYQuanPin': '', 'RemarkPYInitial': '', 'RemarkPYQuanPin': '', 'HideInputBarFlag': 0, 'StarFriend': 0, 'Sex': 1, 'Signature': '', 'AppAccountFlag': 0, 'VerifyFlag': 0, 'ContactFlag': 0, 'WebWxPluginSwitch': 0, 'HeadImgFlag': 1, 'SnsFlag': 1}
+2018-03-03 22:06:55,089 WeChat[8360] INFO [*] all of 158 contacts，get 158 
+2018-03-03 22:06:55,089 WeChat[8360] INFO [*] all of 13 group | 119 contact | 1 special_user ｜ 25 public_user
+2018-03-03 22:06:55,089 WeChat[8360] INFO pull a member named: 文件传输助手 
+2018-03-03 22:06:55,089 WeChat[8360] INFO pull a member named: 魔方乐队 
+2018-03-03 22:06:55,099 WeChat[8360] INFO pull a member named: Youth 
+2018-03-03 22:06:55,099 WeChat[8360] INFO pull a member named: 易战军 
+2018-03-03 22:06:55,099 WeChat[8360] INFO pull a member named: 柳明 
+2018-03-03 22:06:55,099 WeChat[8360] INFO pull a member named: 黄凯的妈妈 
+2018-03-03 22:06:55,099 WeChat[8360] INFO pull a member named: Zzx 
+2018-03-03 22:06:55,099 WeChat[8360] INFO pull a member named: 晴天 
+2018-03-03 22:06:55,099 WeChat[8360] INFO pull a member named: 北大荒纯粮酒，西凤白酒经销 
+2018-03-03 22:06:55,099 WeChat[8360] INFO pull a member named: 对你爱不完 
+2018-03-03 22:06:55,099 WeChat[8360] INFO pull a member named: 墨 
+2018-03-03 22:06:55,099 WeChat[8360] INFO pull a member named: 、尓蕞紾貴 
+2018-03-03 22:06:55,099 WeChat[8360] INFO pull a member named: Silver age 
+2018-03-03 22:06:55,099 WeChat[8360] INFO pull a member named: 【不奢望】 
+2018-03-03 22:06:55,099 WeChat[8360] INFO pull a member named: 江西瑞金~朱海凤 
+2018-03-03 22:06:55,099 WeChat[8360] INFO pull a member named: MNM 
+2018-03-03 22:06:55,119 WeChat[8360] INFO pull a member named: 钟超 
+2018-03-03 22:06:55,119 WeChat[8360] INFO pull a member named: 一生健康 
+2018-03-03 22:06:55,119 WeChat[8360] INFO pull a member named: 梦昼初 
+2018-03-03 22:06:55,119 WeChat[8360] INFO pull a member named: Amaranth 
+2018-03-03 22:06:55,119 WeChat[8360] INFO pull a member named: 启航致远王少浪 
+2018-03-03 22:06:55,119 WeChat[8360] INFO pull a member named: 李 
+2018-03-03 22:06:55,119 WeChat[8360] INFO pull a member named: 爱夏 
+2018-03-03 22:06:55,119 WeChat[8360] INFO pull a member named: 偏分少年 
+2018-03-03 22:06:55,129 WeChat[8360] INFO pull a member named: 张渠江 
+2018-03-03 22:06:55,129 WeChat[8360] INFO pull a member named: 燕凯涛 
+2018-03-03 22:06:55,129 WeChat[8360] INFO pull a member named: wind 
+2018-03-03 22:06:55,129 WeChat[8360] INFO pull a member named: 　　　　　　　　 
+2018-03-03 22:06:55,129 WeChat[8360] INFO pull a member named: 肖菁 
+2018-03-03 22:06:55,129 WeChat[8360] INFO pull a member named: A百度熊勤13699500434 
+2018-03-03 22:06:55,129 WeChat[8360] INFO pull a member named: 难以忘记 
+2018-03-03 22:06:55,129 WeChat[8360] INFO pull a member named: 相濡以沫 
+2018-03-03 22:06:55,139 WeChat[8360] INFO pull a member named: 韵冰 
+2018-03-03 22:06:55,139 WeChat[8360] INFO pull a member named: 茴香 
+2018-03-03 22:06:55,139 WeChat[8360] INFO pull a member named: 肖云 
+2018-03-03 22:06:55,139 WeChat[8360] INFO pull a member named: Samuel 
+2018-03-03 22:06:55,139 WeChat[8360] INFO pull a member named: 耶子 
+2018-03-03 22:06:55,149 WeChat[8360] INFO pull a member named: 喜羊羊 
+2018-03-03 22:06:55,149 WeChat[8360] INFO pull a member named: 郭昊 
+2018-03-03 22:06:55,149 WeChat[8360] INFO pull a member named: 森林vp 
+2018-03-03 22:06:55,149 WeChat[8360] INFO pull a member named: 陈菱 
+2018-03-03 22:06:55,149 WeChat[8360] INFO pull a member named: Zjliii… 
+2018-03-03 22:06:55,149 WeChat[8360] INFO pull a member named: 可可西里 
+2018-03-03 22:06:55,149 WeChat[8360] INFO pull a member named: 上海八维冯老师1870192518 
+2018-03-03 22:06:55,149 WeChat[8360] INFO pull a member named: 油爆枇杷拌面 
+2018-03-03 22:06:55,149 WeChat[8360] INFO pull a member named: 夕阳下的歌 
+2018-03-03 22:06:55,159 WeChat[8360] INFO pull a member named: 冷姐 
+2018-03-03 22:06:55,159 WeChat[8360] INFO pull a member named: 你最珍贵 
+2018-03-03 22:06:55,159 WeChat[8360] INFO pull a member named: 皮卡秋 
+2018-03-03 22:06:55,159 WeChat[8360] INFO pull a member named: Coupe 
+2018-03-03 22:06:55,159 WeChat[8360] INFO pull a member named: 辉宏网络服务 
+2018-03-03 22:06:55,159 WeChat[8360] INFO pull a member named: 刘玉洁 
+2018-03-03 22:06:55,159 WeChat[8360] INFO pull a member named: 罗罗 
+2018-03-03 22:06:55,169 WeChat[8360] INFO pull a member named: 甘世云 
+2018-03-03 22:06:55,169 WeChat[8360] INFO pull a member named: Jan 
+2018-03-03 22:06:55,169 WeChat[8360] INFO pull a member named: 周明元 
+2018-03-03 22:06:55,169 WeChat[8360] INFO pull a member named: 七年 
+2018-03-03 22:06:55,179 WeChat[8360] INFO pull a member named: 项目 耿义鹤 Caesar 
+2018-03-03 22:06:55,179 WeChat[8360] INFO pull a member named: freedom 
+2018-03-03 22:06:55,179 WeChat[8360] INFO pull a member named: 王伟康 
+2018-03-03 22:06:55,179 WeChat[8360] INFO pull a member named: 买个太阳不下山 
+2018-03-03 22:06:55,179 WeChat[8360] INFO pull a member named: 石玉泉 
+2018-03-03 22:06:55,179 WeChat[8360] INFO pull a member named: 刘屹成 
+2018-03-03 22:06:55,179 WeChat[8360] INFO pull a member named: 阿杜 
+2018-03-03 22:06:55,179 WeChat[8360] INFO pull a member named: 。。。。。 
+2018-03-03 22:06:55,179 WeChat[8360] INFO pull a member named: 浅 
+2018-03-03 22:06:55,179 WeChat[8360] INFO pull a member named: A逆光飞翔 
+2018-03-03 22:06:55,179 WeChat[8360] INFO pull a member named: Joy 
+2018-03-03 22:06:55,179 WeChat[8360] INFO pull a member named: June 
+2018-03-03 22:06:55,179 WeChat[8360] INFO pull a member named: 朱志平zhuzhiping 
+2018-03-03 22:06:55,179 WeChat[8360] INFO pull a member named: 不忘初心 
+2018-03-03 22:06:55,189 WeChat[8360] INFO pull a member named: ltp丶 
+2018-03-03 22:06:55,189 WeChat[8360] INFO pull a member named: 小布点… 
+2018-03-03 22:06:55,189 WeChat[8360] INFO pull a member named: 健康如意 
+2018-03-03 22:06:55,189 WeChat[8360] INFO pull a member named: 鹭岛的陆 
+2018-03-03 22:06:55,189 WeChat[8360] INFO pull a member named: 朱发平陶瓷艺术 
+2018-03-03 22:06:55,199 WeChat[8360] INFO pull a member named: 年轻在于拼 
+2018-03-03 22:06:55,199 WeChat[8360] INFO pull a member named: 不精独乐 
+2018-03-03 22:06:55,199 WeChat[8360] INFO pull a member named: Young Niu 
+2018-03-03 22:06:55,199 WeChat[8360] INFO pull a member named: One Peace 
+2018-03-03 22:06:55,199 WeChat[8360] INFO pull a member named: 张刚 
+2018-03-03 22:06:55,199 WeChat[8360] INFO pull a member named: 梁慧敏 
+2018-03-03 22:06:55,199 WeChat[8360] INFO pull a member named: 许夜 
+2018-03-03 22:06:55,199 WeChat[8360] INFO pull a member named: 加鑫 
+2018-03-03 22:06:55,199 WeChat[8360] INFO pull a member named: 涛哥哥 
+2018-03-03 22:06:55,199 WeChat[8360] INFO pull a member named: Falo丶 
+2018-03-03 22:06:55,199 WeChat[8360] INFO pull a member named: 魏良智 
+2018-03-03 22:06:55,199 WeChat[8360] INFO pull a member named: 琦 
+2018-03-03 22:06:55,209 WeChat[8360] INFO pull a member named: 张毓 
+2018-03-03 22:06:55,209 WeChat[8360] INFO pull a member named: 染于苍则苍 
+2018-03-03 22:06:55,209 WeChat[8360] INFO pull a member named: 喻鑫 
+2018-03-03 22:06:55,209 WeChat[8360] INFO pull a member named: zyss123 
+2018-03-03 22:06:55,219 WeChat[8360] INFO pull a member named: 谢叔冬 
+2018-03-03 22:06:55,219 WeChat[8360] INFO pull a member named: 影子中的舞者 
+2018-03-03 22:06:55,219 WeChat[8360] INFO pull a member named: YSL 
+2018-03-03 22:06:55,219 WeChat[8360] INFO pull a member named: zy 
+2018-03-03 22:06:55,219 WeChat[8360] INFO pull a member named: 明月清 
+2018-03-03 22:06:55,219 WeChat[8360] INFO pull a member named: A ～（袁铭祥） 
+2018-03-03 22:06:55,219 WeChat[8360] INFO pull a member named: Superhero 
+2018-03-03 22:06:55,219 WeChat[8360] INFO pull a member named: 稀饭 
+2018-03-03 22:06:55,219 WeChat[8360] INFO pull a member named: synchronized 
+2018-03-03 22:06:55,219 WeChat[8360] INFO pull a member named: Ronnie.Shi 
+2018-03-03 22:06:55,219 WeChat[8360] INFO pull a member named: 晓晓@铺码新零售 
+2018-03-03 22:06:55,219 WeChat[8360] INFO pull a member named: 陈平 
+2018-03-03 22:06:55,219 WeChat[8360] INFO pull a member named: 追光者 
+2018-03-03 22:06:55,229 WeChat[8360] INFO pull a member named: 亮晶晶钢琴工作室 
+2018-03-03 22:06:55,229 WeChat[8360] INFO pull a member named: 朱 
+2018-03-03 22:06:55,229 WeChat[8360] INFO pull a member named: 七月生 
+2018-03-03 22:06:55,229 WeChat[8360] INFO pull a member named: 婉 
+2018-03-03 22:06:55,229 WeChat[8360] INFO pull a member named: WALL E(Cheryl) 
+2018-03-03 22:06:55,229 WeChat[8360] INFO pull a member named: 宜春移动 
+2018-03-03 22:06:55,229 WeChat[8360] INFO pull a member named: 宜春学院学生会 
+2018-03-03 22:06:55,229 WeChat[8360] INFO pull a member named: 宜春学院数学与计算机科学学院 
+2018-03-03 22:06:55,229 WeChat[8360] INFO pull a member named:  
+2018-03-03 22:06:55,229 WeChat[8360] INFO pull a member named: 电子发烧友网 
+2018-03-03 22:06:55,229 WeChat[8360] INFO pull a member named: java那些事 
+2018-03-03 22:06:55,229 WeChat[8360] INFO pull a member named: 程序员内参 
+2018-03-03 22:06:55,229 WeChat[8360] INFO pull a member named: 宜春学院 
+2018-03-03 22:06:55,229 WeChat[8360] INFO pull a member named: 良品铺子 
+2018-03-03 22:06:55,239 WeChat[8360] INFO pull a member named: Python技术博文 
+2018-03-03 22:06:55,239 WeChat[8360] INFO pull a member named: Fribble 
+2018-03-03 22:06:55,249 WeChat[8360] INFO pull a member named: Java小栈 
+2018-03-03 22:06:55,249 WeChat[8360] INFO pull a member named: 微信开发者 
+2018-03-03 22:06:55,249 WeChat[8360] INFO pull a member named: 阿里技术 
+2018-03-03 22:06:55,249 WeChat[8360] INFO pull a member named: 学涨 
+2018-03-03 22:06:55,249 WeChat[8360] INFO pull a member named: 微信团队 
+2018-03-03 22:06:55,249 WeChat[8360] INFO pull a member named: R语言中文社区 
+2018-03-03 22:06:55,249 WeChat[8360] INFO pull a member named: WPS会员 
+2018-03-03 22:06:55,249 WeChat[8360] INFO pull a member named: 微信游戏 
+2018-03-03 22:06:55,249 WeChat[8360] INFO pull a member named: 回收货郎 
+2018-03-03 22:06:55,249 WeChat[8360] INFO pull a member named: 公众平台安全助手 
+2018-03-03 22:06:55,249 WeChat[8360] INFO pull a member named: 微信支付 
+2018-03-03 22:06:55,249 WeChat[8360] INFO pull a member named: 京东支付 
+2018-03-03 22:06:55,249 WeChat[8360] INFO pull a member named: 58速运 
+2018-03-03 22:06:55,259 WeChat[8360] INFO pull a member named: 江西移动10086 
+2018-03-03 22:06:55,259 WeChat[8360] DEBUG group_ids: {'@@4e54e0da8dc250515d0390dc897331e18e9e0d7645692d8b47fac157accfa5af', '@@7022d41476ffebf99d2fa89d02d53b13d09b3a649f9b890e57e62a87345e5a47', '@@29deb43fdcb9549145e2da68f22e3f966a712c60b758d30ecaed8c4470211719', '@@7bab6acbd837f237c9be80c665a43c1cc2dfe0be0b7958c9e1e50c9c1d4d396e', '@@ca53cb6696cb24fb05c91be205b80905b6190c1adc414aff0676b283d45c5f4c', '@@4f6a8b790d80199b9d4cc11c4d23819e7ae99f90ef9352d877ca3c9e2517055a', '@@3d01de151baf691ad11434185b600e0d218c4a2056072cffe6c225c9ff611035', '@@9d84bb2eeb43031db5f104746e5b5c38795b30fccb74ee326d17bb372a048d38', '@@7b5fe158aa401a1cd1aec3506d9371c1303decb685be47907f48e2e2c821e739', '@@930fc3860fde616bbe12a995ab8d000187fe446354dc83d4ced750821eb801fc', '@@1309a57138e1595cb28d845a31a0aecc1c69bcb38244e019ac66aa541b96b3bb', '@@539832a122139e703bbbb1cec4685438e9cb15e15c7e90b2bb44e47b518ed7f4', '@@1878b340853cfb9f131be81aad3a3d4a1fdb20068215c64fba6e04c31ffe683d'}
+2018-03-03 22:06:55,259 WeChat[8360] DEBUG readying for pull group's information...
+2018-03-03 22:06:55,949 WeChat[8360] INFO try to pull the group named: 相识的缘分
+2018-03-03 22:06:56,249 WeChat[8360] INFO pull a member named: zyss123 
+2018-03-03 22:06:56,249 WeChat[8360] INFO pull a member named: 石玉泉 
+2018-03-03 22:06:56,259 WeChat[8360] INFO pull a member named: 朱文坚 
+2018-03-03 22:06:56,259 WeChat[8360] INFO pull a member named: 加鑫 
+2018-03-03 22:06:56,259 WeChat[8360] INFO pull a member named: 。。。。。 
+2018-03-03 22:06:56,259 WeChat[8360] INFO pull a member named: 质壁分离 
+2018-03-03 22:06:56,259 WeChat[8360] INFO try to pull the group named: 藏葎閣
+2018-03-03 22:06:56,599 WeChat[8360] INFO pull a member named: 辉宏网络服务 
+2018-03-03 22:06:56,599 WeChat[8360] INFO pull a member named: 皮卡秋 
+2018-03-03 22:06:56,599 WeChat[8360] INFO pull a member named: ltp丶 
+2018-03-03 22:06:56,633 WeChat[8360] INFO pull a member named: 燕凯涛 
+2018-03-03 22:06:56,636 WeChat[8360] INFO pull a member named: 买个太阳不下山 
+2018-03-03 22:06:56,639 WeChat[8360] INFO pull a member named: 朱文坚 
+2018-03-03 22:06:56,639 WeChat[8360] INFO pull a member named: 陈平 
+2018-03-03 22:06:56,639 WeChat[8360] INFO pull a member named: YSL 
+2018-03-03 22:06:56,639 WeChat[8360] INFO pull a member named: freedom 
+2018-03-03 22:06:56,649 WeChat[8360] INFO try to pull the group named: 云谏周末足球群
+2018-03-03 22:06:57,149 WeChat[8360] INFO pull a member named: 啊泉 
+2018-03-03 22:06:57,149 WeChat[8360] INFO pull a member named: JoieFu 
+2018-03-03 22:06:57,149 WeChat[8360] INFO pull a member named: LQ 
+2018-03-03 22:06:57,149 WeChat[8360] INFO pull a member named: glory 
+2018-03-03 22:06:57,159 WeChat[8360] INFO pull a member named: 森林vp 
+2018-03-03 22:06:57,159 WeChat[8360] INFO pull a member named: 陈菱 
+2018-03-03 22:06:57,159 WeChat[8360] INFO pull a member named: 朱文坚 
+2018-03-03 22:06:57,159 WeChat[8360] INFO pull a member named: 郭昊 
+2018-03-03 22:06:57,189 WeChat[8360] INFO pull a member named: Joy 
+2018-03-03 22:06:57,189 WeChat[8360] INFO pull a member named: June 
+2018-03-03 22:06:57,199 WeChat[8360] INFO pull a member named: zyss123 
+2018-03-03 22:06:57,199 WeChat[8360] INFO pull a member named: 石玉泉 
+2018-03-03 22:06:57,199 WeChat[8360] INFO pull a member named: 刘玉洁 
+2018-03-03 22:06:57,199 WeChat[8360] INFO pull a member named: 王伟康 
+2018-03-03 22:06:57,199 WeChat[8360] INFO pull a member named: 加鑫 
+2018-03-03 22:06:57,199 WeChat[8360] INFO pull a member named: 阿杜 
+2018-03-03 22:06:57,199 WeChat[8360] INFO try to pull the group named: 温馨的家
+2018-03-03 22:06:57,389 WeChat[8360] INFO pull a member named: 健康如意 
+2018-03-03 22:06:57,399 WeChat[8360] INFO pull a member named: 朱文坚 
+2018-03-03 22:06:57,409 WeChat[8360] INFO pull a member named: 朱志平zhuzhiping 
+2018-03-03 22:06:57,409 WeChat[8360] INFO try to pull the group named: 新氪群喵社群事业部
+2018-03-03 22:06:57,699 WeChat[8360] INFO pull a member named: 从波 
+2018-03-03 22:06:57,699 WeChat[8360] INFO pull a member named: 许夜 
+2018-03-03 22:06:57,729 WeChat[8360] INFO pull a member named: Ronnie.Shi 
+2018-03-03 22:06:57,729 WeChat[8360] INFO pull a member named: 张刚 
+2018-03-03 22:06:57,729 WeChat[8360] INFO pull a member named: 朱文坚 
+2018-03-03 22:06:57,739 WeChat[8360] INFO pull a member named: synchronized 
+2018-03-03 22:06:57,739 WeChat[8360] INFO pull a member named: 心语星空 
+2018-03-03 22:06:57,739 WeChat[8360] INFO pull a member named: 新氪HR 
+2018-03-03 22:06:57,739 WeChat[8360] INFO try to pull the group named: 新氪网络大团队
+2018-03-03 22:06:58,249 WeChat[8360] INFO pull a member named: 许夜 
+2018-03-03 22:06:58,249 WeChat[8360] INFO pull a member named: Ronnie.Shi 
+2018-03-03 22:06:58,249 WeChat[8360] INFO pull a member named: 张刚 
+2018-03-03 22:06:58,249 WeChat[8360] INFO pull a member named: 何勉 
+2018-03-03 22:06:58,249 WeChat[8360] INFO pull a member named: 氤氲之息 
+2018-03-03 22:06:58,249 WeChat[8360] INFO pull a member named: Young Niu 
+2018-03-03 22:06:58,249 WeChat[8360] INFO pull a member named: 老崔 
+2018-03-03 22:06:58,249 WeChat[8360] INFO pull a member named: 聂斌 
+2018-03-03 22:06:58,249 WeChat[8360] INFO pull a member named: 吕大杏 
+2018-03-03 22:06:58,259 WeChat[8360] INFO pull a member named: 王" 嘚瑟~ 
+2018-03-03 22:06:58,259 WeChat[8360] INFO pull a member named: 韩强强 
+2018-03-03 22:06:58,259 WeChat[8360] INFO pull a member named: 刘杨 
+2018-03-03 22:06:58,259 WeChat[8360] INFO pull a member named: synchronized 
+2018-03-03 22:06:58,259 WeChat[8360] INFO pull a member named: 小张 
+2018-03-03 22:06:58,259 WeChat[8360] INFO pull a member named: 不精独乐 
+2018-03-03 22:06:58,259 WeChat[8360] INFO pull a member named: 朱文坚 
+2018-03-03 22:06:58,259 WeChat[8360] INFO pull a member named: 心语星空 
+2018-03-03 22:06:58,259 WeChat[8360] INFO pull a member named: 新氪HR 
+2018-03-03 22:06:58,259 WeChat[8360] INFO try to pull the group named: 鑫唐佳苑6.5层的群居生活
+2018-03-03 22:06:58,499 WeChat[8360] INFO pull a member named: 朱文坚 
+2018-03-03 22:06:58,509 WeChat[8360] INFO pull a member named: 加鑫 
+2018-03-03 22:06:58,509 WeChat[8360] INFO pull a member named: WALL E(Cheryl) 
+2018-03-03 22:06:58,509 WeChat[8360] INFO try to pull the group named: 羽球.动起来
+2018-03-03 22:06:58,940 WeChat[8360] INFO pull a member named: 鹭岛的陆 
+2018-03-03 22:06:58,970 WeChat[8360] INFO pull a member named: 森林vp 
+2018-03-03 22:06:59,020 WeChat[8360] INFO pull a member named: 郑海亮 
+2018-03-03 22:06:59,060 WeChat[8360] INFO pull a member named: 郭昊 
+2018-03-03 22:06:59,100 WeChat[8360] INFO pull a member named: 陈菱 
+2018-03-03 22:06:59,130 WeChat[8360] INFO pull a member named: 朱文坚 
+2018-03-03 22:06:59,170 WeChat[8360] INFO try to pull the group named: 一家人
+2018-03-03 22:06:59,660 WeChat[8360] INFO pull a member named: 菊华 
+2018-03-03 22:06:59,690 WeChat[8360] INFO pull a member named: 、尓蕞紾貴 
+2018-03-03 22:06:59,720 WeChat[8360] INFO pull a member named: 朱发平陶瓷艺术 
+2018-03-03 22:06:59,750 WeChat[8360] INFO pull a member named: 朱志平zhuzhiping 
+2018-03-03 22:06:59,810 WeChat[8360] INFO pull a member named: 朱文坚 
+2018-03-03 22:06:59,870 WeChat[8360] INFO pull a member named: 冷姐 
+2018-03-03 22:06:59,920 WeChat[8360] INFO pull a member named: 相濡以沫 
+2018-03-03 22:06:59,970 WeChat[8360] INFO pull a member named: 罗罗 
+2018-03-03 22:07:00,020 WeChat[8360] INFO pull a member named: 小布点… 
+2018-03-03 22:07:00,050 WeChat[8360] INFO pull a member named: 运棚 
+2018-03-03 22:07:00,050 WeChat[8360] INFO pull a member named: 风雨无阻 
+2018-03-03 22:07:00,050 WeChat[8360] INFO pull a member named: 健康如意 
+2018-03-03 22:07:00,060 WeChat[8360] INFO pull a member named: 浅 
+2018-03-03 22:07:00,060 WeChat[8360] INFO pull a member named: 年轻在于拼 
+2018-03-03 22:07:00,060 WeChat[8360] INFO try to pull the group named: 新氪技术开发团队
+2018-03-03 22:07:00,360 WeChat[8360] INFO pull a member named: 许夜 
+2018-03-03 22:07:00,370 WeChat[8360] INFO pull a member named: 氤氲之息 
+2018-03-03 22:07:00,370 WeChat[8360] INFO pull a member named: 张刚 
+2018-03-03 22:07:00,370 WeChat[8360] INFO pull a member named: Young Niu 
+2018-03-03 22:07:00,370 WeChat[8360] INFO pull a member named: synchronized 
+2018-03-03 22:07:00,380 WeChat[8360] INFO pull a member named: 不精独乐 
+2018-03-03 22:07:00,400 WeChat[8360] INFO pull a member named: 朱文坚 
+2018-03-03 22:07:00,400 WeChat[8360] INFO pull a member named: 心语星空 
+2018-03-03 22:07:00,410 WeChat[8360] INFO pull a member named: 新氪HR 
+2018-03-03 22:07:00,410 WeChat[8360] INFO try to pull the group named: 8307
+2018-03-03 22:07:00,690 WeChat[8360] INFO pull a member named: Zzx 
+2018-03-03 22:07:00,690 WeChat[8360] INFO pull a member named: 朱文坚 
+2018-03-03 22:07:00,720 WeChat[8360] INFO pull a member named: 张毓 
+2018-03-03 22:07:00,720 WeChat[8360] INFO pull a member named: 失落的心 
+2018-03-03 22:07:00,720 WeChat[8360] INFO pull a member named: 余祎鸣  
+2018-03-03 22:07:00,730 WeChat[8360] INFO pull a member named: MNM 
+2018-03-03 22:07:00,730 WeChat[8360] INFO pull a member named: 夜影流年 
+2018-03-03 22:07:00,730 WeChat[8360] INFO try to pull the group named: 14计科Android实训
+2018-03-03 22:07:01,370 WeChat[8360] INFO pull a member named: 燕凯涛 
+2018-03-03 22:07:01,380 WeChat[8360] INFO pull a member named: 乐宝<span class="emoji emoji1f605"></span> 
+2018-03-03 22:07:01,380 WeChat[8360] INFO pull a member named: 张渠江 
+2018-03-03 22:07:01,380 WeChat[8360] INFO pull a member named: 张毓 
+2018-03-03 22:07:01,380 WeChat[8360] INFO pull a member named: 饶龙 
+2018-03-03 22:07:01,390 WeChat[8360] INFO pull a member named: 邂逅华尔兹 
+2018-03-03 22:07:01,410 WeChat[8360] INFO pull a member named: 夜影流年 
+2018-03-03 22:07:01,410 WeChat[8360] INFO pull a member named: 乱曲 
+2018-03-03 22:07:01,410 WeChat[8360] INFO pull a member named: 云无心以出岫 
+2018-03-03 22:07:01,410 WeChat[8360] INFO pull a member named: YSL 
+2018-03-03 22:07:01,410 WeChat[8360] INFO pull a member named: Boolean 
+2018-03-03 22:07:01,410 WeChat[8360] INFO pull a member named: 帅气的向阳 
+2018-03-03 22:07:01,410 WeChat[8360] INFO pull a member named: 初夏 
+2018-03-03 22:07:01,410 WeChat[8360] INFO pull a member named: 错了而已 
+2018-03-03 22:07:01,420 WeChat[8360] INFO pull a member named: 上丶善若水 
+2018-03-03 22:07:01,420 WeChat[8360] INFO pull a member named: 好名都被wuli取了 
+2018-03-03 22:07:01,430 WeChat[8360] INFO pull a member named: 封宇杰 
+2018-03-03 22:07:01,430 WeChat[8360] INFO pull a member named: 李宽 
+2018-03-03 22:07:01,430 WeChat[8360] INFO pull a member named: Ds 
+2018-03-03 22:07:01,430 WeChat[8360] INFO pull a member named: SonyUR 
+2018-03-03 22:07:01,430 WeChat[8360] INFO pull a member named: 木剌 
+2018-03-03 22:07:01,440 WeChat[8360] INFO pull a member named: NewSky 
+2018-03-03 22:07:01,450 WeChat[8360] INFO pull a member named: 酉&amp;星 
+2018-03-03 22:07:01,450 WeChat[8360] INFO pull a member named: 无聊 
+2018-03-03 22:07:01,450 WeChat[8360] INFO pull a member named: 七年 
+2018-03-03 22:07:01,450 WeChat[8360] INFO pull a member named: 树<span class="emoji emoji1f343"></span> 
+2018-03-03 22:07:01,450 WeChat[8360] INFO pull a member named: 微笑 
+2018-03-03 22:07:01,460 WeChat[8360] INFO pull a member named: 梦影 
+2018-03-03 22:07:01,460 WeChat[8360] INFO pull a member named: 梦昼初 
+2018-03-03 22:07:01,460 WeChat[8360] INFO pull a member named: 朱文坚 
+2018-03-03 22:07:01,460 WeChat[8360] INFO pull a member named: 小猪 
+2018-03-03 22:07:01,460 WeChat[8360] INFO pull a member named: 李 
+2018-03-03 22:07:01,460 WeChat[8360] INFO pull a member named: 冷月 
+2018-03-03 22:07:01,460 WeChat[8360] INFO pull a member named: 追逐梦 
+2018-03-03 22:07:01,480 WeChat[8360] INFO pull a member named: ltp丶 
+2018-03-03 22:07:01,480 WeChat[8360] INFO pull a member named: 寒冰雪 
+2018-03-03 22:07:01,480 WeChat[8360] INFO pull a member named: Rookie 
+2018-03-03 22:07:01,480 WeChat[8360] INFO pull a member named: 小浩先森 
+2018-03-03 22:07:01,490 WeChat[8360] INFO pull a member named: 告别老年机 
+2018-03-03 22:07:01,490 WeChat[8360] INFO pull a member named: 辉宏网络服务 
+2018-03-03 22:07:01,490 WeChat[8360] INFO pull a member named: 影子中的舞者 
+2018-03-03 22:07:01,490 WeChat[8360] INFO pull a member named: 10 
+2018-03-03 22:07:01,490 WeChat[8360] INFO pull a member named: 胡成长 
+2018-03-03 22:07:01,490 WeChat[8360] INFO pull a member named: 苘一夏（薛棣文） 
+2018-03-03 22:07:01,490 WeChat[8360] INFO pull a member named: spectre 
+2018-03-03 22:07:01,490 WeChat[8360] INFO pull a member named: k2278次4车85号 
+2018-03-03 22:07:01,490 WeChat[8360] INFO pull a member named: 咯哈 
+2018-03-03 22:07:01,490 WeChat[8360] INFO pull a member named: 阳光正好 
+2018-03-03 22:07:01,490 WeChat[8360] INFO try to pull the group named: 14计科班群
+2018-03-03 22:07:02,150 WeChat[8360] INFO pull a member named: 10 
+2018-03-03 22:07:02,150 WeChat[8360] INFO pull a member named: Boolean 
+2018-03-03 22:07:02,160 WeChat[8360] INFO pull a member named: 乐宝<span class="emoji emoji1f605"></span> 
+2018-03-03 22:07:02,160 WeChat[8360] INFO pull a member named: 初夏 
+2018-03-03 22:07:02,160 WeChat[8360] INFO pull a member named: <span class="emoji emoji2757"></span> 
+2018-03-03 22:07:02,160 WeChat[8360] INFO pull a member named: 涂聪 
+2018-03-03 22:07:02,170 WeChat[8360] INFO pull a member named: ltp丶 
+2018-03-03 22:07:02,180 WeChat[8360] INFO pull a member named: 追逐梦 
+2018-03-03 22:07:02,180 WeChat[8360] INFO pull a member named: 无聊 
+2018-03-03 22:07:02,190 WeChat[8360] INFO pull a member named: 亮晶晶<span class="emoji emoji1f31f"></span> 
+2018-03-03 22:07:02,190 WeChat[8360] INFO pull a member named: 冷月 
+2018-03-03 22:07:02,190 WeChat[8360] INFO pull a member named: 好名都被wuli取了 
+2018-03-03 22:07:02,190 WeChat[8360] INFO pull a member named: 辉宏网络服务 
+2018-03-03 22:07:02,190 WeChat[8360] INFO pull a member named: 陈平 
+2018-03-03 22:07:02,190 WeChat[8360] INFO pull a member named: 点亮黑暗 
+2018-03-03 22:07:02,190 WeChat[8360] INFO pull a member named: 封宇杰 
+2018-03-03 22:07:02,190 WeChat[8360] INFO pull a member named: 错了而已 
+2018-03-03 22:07:02,190 WeChat[8360] INFO pull a member named: 王思 
+2018-03-03 22:07:02,190 WeChat[8360] INFO pull a member named: freedom 
+2018-03-03 22:07:02,200 WeChat[8360] INFO pull a member named: 微笑 
+2018-03-03 22:07:02,200 WeChat[8360] INFO pull a member named: 酉&amp;星 
+2018-03-03 22:07:02,200 WeChat[8360] INFO pull a member named: YSL 
+2018-03-03 22:07:02,200 WeChat[8360] INFO pull a member named: 买个太阳不下山 
+2018-03-03 22:07:02,200 WeChat[8360] INFO pull a member named: 梦影 
+2018-03-03 22:07:02,200 WeChat[8360] INFO pull a member named: 张渠江 
+2018-03-03 22:07:02,200 WeChat[8360] INFO pull a member named: 云无心以出岫 
+2018-03-03 22:07:02,200 WeChat[8360] INFO pull a member named: 苏打水 
+2018-03-03 22:07:02,200 WeChat[8360] INFO pull a member named: 苘一夏（薛棣文） 
+2018-03-03 22:07:02,200 WeChat[8360] INFO pull a member named: 影子中的舞者 
+2018-03-03 22:07:02,210 WeChat[8360] INFO pull a member named: 小猪 
+2018-03-03 22:07:02,210 WeChat[8360] INFO pull a member named: k2278次4车85号 
+2018-03-03 22:07:02,210 WeChat[8360] INFO pull a member named: 咯哈 
+2018-03-03 22:07:02,210 WeChat[8360] INFO pull a member named: 永 
+2018-03-03 22:07:02,210 WeChat[8360] INFO pull a member named: 梦昼初 
+2018-03-03 22:07:02,220 WeChat[8360] INFO pull a member named: <span class="emoji emoji1f199"></span> 
+2018-03-03 22:07:02,220 WeChat[8360] INFO pull a member named: 饶龙 
+2018-03-03 22:07:02,220 WeChat[8360] INFO pull a member named: 胡成长 
+2018-03-03 22:07:02,220 WeChat[8360] INFO pull a member named: 小浩先森 
+2018-03-03 22:07:02,220 WeChat[8360] INFO pull a member named: 邂逅华尔兹 
+2018-03-03 22:07:02,220 WeChat[8360] INFO pull a member named: 李 
+2018-03-03 22:07:02,220 WeChat[8360] INFO pull a member named: 淡如墨雪 
+2018-03-03 22:07:02,220 WeChat[8360] INFO pull a member named: 凤尾鱼 
+2018-03-03 22:07:02,220 WeChat[8360] INFO pull a member named: 小刚 
+2018-03-03 22:07:02,220 WeChat[8360] INFO pull a member named: 淡然如水水 
+2018-03-03 22:07:02,230 WeChat[8360] INFO pull a member named: Ds 
+2018-03-03 22:07:02,230 WeChat[8360] INFO pull a member named: 帅气的向阳 
+2018-03-03 22:07:02,230 WeChat[8360] INFO pull a member named: Rookie 
+2018-03-03 22:07:02,230 WeChat[8360] INFO pull a member named: T丶ab 
+2018-03-03 22:07:02,290 WeChat[8360] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"7"}':
+2018-03-03 22:07:02,290 WeChat[8360] INFO retcode: 0, selector: 7
+2018-03-03 22:07:34,293 WeChat[824] INFO waiting for WeChat to scan two dimensional code login...
+2018-03-03 22:07:39,094 WeChat[824] DEBUG b'window.code=201;'
+2018-03-03 22:07:39,104 WeChat[824] INFO waiting for WeChat to scan two dimensional code login...
+2018-03-03 22:07:40,324 WeChat[824] DEBUG b'window.code=200;\nwindow.redirect_uri="https://wx.qq.com/cgi-bin/mmwebwx-bin/webwxnewloginpage?ticket=AXT8yMMzlzsLOsOAiJZYnI2x@qrticket_0&uuid=ofAzzQ0d3A==&lang=zh_CN&scan=1520086059";'
+2018-03-03 22:07:40,864 WeChat[824] DEBUG user: {'Uin': 2037322676, 'UserName': '@f9333e01352e65bfcd753b3be780fccd3d4b1acda42d37ba374dceae5b94da1b', 'NickName': '朱文坚', 'HeadImgUrl': '/cgi-bin/mmwebwx-bin/webwxgeticon?seq=206877074&username=@f9333e01352e65bfcd753b3be780fccd3d4b1acda42d37ba374dceae5b94da1b&skey=@crypt_bb4d37a3_393a4c53fd24e6e5242098714c3c2723', 'RemarkName': '', 'PYInitial': '', 'PYQuanPin': '', 'RemarkPYInitial': '', 'RemarkPYQuanPin': '', 'HideInputBarFlag': 0, 'StarFriend': 0, 'Sex': 1, 'Signature': '', 'AppAccountFlag': 0, 'VerifyFlag': 0, 'ContactFlag': 0, 'WebWxPluginSwitch': 0, 'HeadImgFlag': 1, 'SnsFlag': 1}
+2018-03-03 22:07:42,204 WeChat[824] INFO [*] all of 158 contacts，get 158 
+2018-03-03 22:07:42,204 WeChat[824] INFO [*] all of 13 group | 119 contact | 1 special_user ｜ 25 public_user
+2018-03-03 22:07:42,204 WeChat[824] INFO pull a member named: 文件传输助手 
+2018-03-03 22:07:42,204 WeChat[824] INFO pull a member named: 魔方乐队 
+2018-03-03 22:07:42,214 WeChat[824] INFO pull a member named: Youth 
+2018-03-03 22:07:42,214 WeChat[824] INFO pull a member named: 易战军 
+2018-03-03 22:07:42,214 WeChat[824] INFO pull a member named: 柳明 
+2018-03-03 22:07:42,214 WeChat[824] INFO pull a member named: 黄凯的妈妈 
+2018-03-03 22:07:42,214 WeChat[824] INFO pull a member named: Zzx 
+2018-03-03 22:07:42,214 WeChat[824] INFO pull a member named: 晴天 
+2018-03-03 22:07:42,214 WeChat[824] INFO pull a member named: 北大荒纯粮酒，西凤白酒经销 
+2018-03-03 22:07:42,224 WeChat[824] INFO pull a member named: 对你爱不完 
+2018-03-03 22:07:42,224 WeChat[824] INFO pull a member named: 墨 
+2018-03-03 22:07:42,224 WeChat[824] INFO pull a member named: 、尓蕞紾貴 
+2018-03-03 22:07:42,224 WeChat[824] INFO pull a member named: Silver age 
+2018-03-03 22:07:42,224 WeChat[824] INFO pull a member named: 【不奢望】 
+2018-03-03 22:07:42,224 WeChat[824] INFO pull a member named: 江西瑞金~朱海凤 
+2018-03-03 22:07:42,224 WeChat[824] INFO pull a member named: MNM 
+2018-03-03 22:07:42,224 WeChat[824] INFO pull a member named: 钟超 
+2018-03-03 22:07:42,224 WeChat[824] INFO pull a member named: 一生健康 
+2018-03-03 22:07:42,224 WeChat[824] INFO pull a member named: 梦昼初 
+2018-03-03 22:07:42,235 WeChat[824] INFO pull a member named: Amaranth 
+2018-03-03 22:07:42,235 WeChat[824] INFO pull a member named: 启航致远王少浪 
+2018-03-03 22:07:42,235 WeChat[824] INFO pull a member named: 李 
+2018-03-03 22:07:42,244 WeChat[824] INFO pull a member named: 爱夏 
+2018-03-03 22:07:42,244 WeChat[824] INFO pull a member named: 偏分少年 
+2018-03-03 22:07:42,244 WeChat[824] INFO pull a member named: 张渠江 
+2018-03-03 22:07:42,244 WeChat[824] INFO pull a member named: 燕凯涛 
+2018-03-03 22:07:42,244 WeChat[824] INFO pull a member named: wind 
+2018-03-03 22:07:42,244 WeChat[824] INFO pull a member named: 　　　　　　　　 
+2018-03-03 22:07:42,244 WeChat[824] INFO pull a member named: 肖菁 
+2018-03-03 22:07:42,254 WeChat[824] INFO pull a member named: A百度熊勤13699500434 
+2018-03-03 22:07:42,254 WeChat[824] INFO pull a member named: 难以忘记 
+2018-03-03 22:07:42,254 WeChat[824] INFO pull a member named: 相濡以沫 
+2018-03-03 22:07:42,254 WeChat[824] INFO pull a member named: 韵冰 
+2018-03-03 22:07:42,254 WeChat[824] INFO pull a member named: 茴香 
+2018-03-03 22:07:42,254 WeChat[824] INFO pull a member named: 肖云 
+2018-03-03 22:07:42,254 WeChat[824] INFO pull a member named: Samuel 
+2018-03-03 22:07:42,254 WeChat[824] INFO pull a member named: 耶子 
+2018-03-03 22:07:42,254 WeChat[824] INFO pull a member named: 喜羊羊 
+2018-03-03 22:07:42,274 WeChat[824] INFO pull a member named: 郭昊 
+2018-03-03 22:07:42,274 WeChat[824] INFO pull a member named: 森林vp 
+2018-03-03 22:07:42,274 WeChat[824] INFO pull a member named: 陈菱 
+2018-03-03 22:07:42,274 WeChat[824] INFO pull a member named: Zjliii… 
+2018-03-03 22:07:42,274 WeChat[824] INFO pull a member named: 可可西里 
+2018-03-03 22:07:42,274 WeChat[824] INFO pull a member named: 上海八维冯老师1870192518 
+2018-03-03 22:07:42,284 WeChat[824] INFO pull a member named: 油爆枇杷拌面 
+2018-03-03 22:07:42,284 WeChat[824] INFO pull a member named: 夕阳下的歌 
+2018-03-03 22:07:42,284 WeChat[824] INFO pull a member named: 冷姐 
+2018-03-03 22:07:42,284 WeChat[824] INFO pull a member named: 你最珍贵 
+2018-03-03 22:07:42,284 WeChat[824] INFO pull a member named: 皮卡秋 
+2018-03-03 22:07:42,284 WeChat[824] INFO pull a member named: Coupe 
+2018-03-03 22:07:42,284 WeChat[824] INFO pull a member named: 辉宏网络服务 
+2018-03-03 22:07:42,294 WeChat[824] INFO pull a member named: 刘玉洁 
+2018-03-03 22:07:42,294 WeChat[824] INFO pull a member named: 罗罗 
+2018-03-03 22:07:42,294 WeChat[824] INFO pull a member named: 甘世云 
+2018-03-03 22:07:42,294 WeChat[824] INFO pull a member named: Jan 
+2018-03-03 22:07:42,294 WeChat[824] INFO pull a member named: 周明元 
+2018-03-03 22:07:42,304 WeChat[824] INFO pull a member named: 七年 
+2018-03-03 22:07:42,304 WeChat[824] INFO pull a member named: 项目 耿义鹤 Caesar 
+2018-03-03 22:07:42,304 WeChat[824] INFO pull a member named: freedom 
+2018-03-03 22:07:42,304 WeChat[824] INFO pull a member named: 王伟康 
+2018-03-03 22:07:42,304 WeChat[824] INFO pull a member named: 买个太阳不下山 
+2018-03-03 22:07:42,304 WeChat[824] INFO pull a member named: 石玉泉 
+2018-03-03 22:07:42,304 WeChat[824] INFO pull a member named: 刘屹成 
+2018-03-03 22:07:42,304 WeChat[824] INFO pull a member named: 阿杜 
+2018-03-03 22:07:42,304 WeChat[824] INFO pull a member named: 。。。。。 
+2018-03-03 22:07:42,304 WeChat[824] INFO pull a member named: 浅 
+2018-03-03 22:07:42,304 WeChat[824] INFO pull a member named: A逆光飞翔 
+2018-03-03 22:07:42,304 WeChat[824] INFO pull a member named: Joy 
+2018-03-03 22:07:42,304 WeChat[824] INFO pull a member named: June 
+2018-03-03 22:07:42,314 WeChat[824] INFO pull a member named: 朱志平zhuzhiping 
+2018-03-03 22:07:42,314 WeChat[824] INFO pull a member named: 不忘初心 
+2018-03-03 22:07:42,314 WeChat[824] INFO pull a member named: ltp丶 
+2018-03-03 22:07:42,314 WeChat[824] INFO pull a member named: 小布点… 
+2018-03-03 22:07:42,314 WeChat[824] INFO pull a member named: 健康如意 
+2018-03-03 22:07:42,314 WeChat[824] INFO pull a member named: 鹭岛的陆 
+2018-03-03 22:07:42,314 WeChat[824] INFO pull a member named: 朱发平陶瓷艺术 
+2018-03-03 22:07:42,324 WeChat[824] INFO pull a member named: 年轻在于拼 
+2018-03-03 22:07:42,324 WeChat[824] INFO pull a member named: 不精独乐 
+2018-03-03 22:07:42,324 WeChat[824] INFO pull a member named: Young Niu 
+2018-03-03 22:07:42,324 WeChat[824] INFO pull a member named: One Peace 
+2018-03-03 22:07:42,324 WeChat[824] INFO pull a member named: 张刚 
+2018-03-03 22:07:42,324 WeChat[824] INFO pull a member named: 梁慧敏 
+2018-03-03 22:07:42,324 WeChat[824] INFO pull a member named: 许夜 
+2018-03-03 22:07:42,324 WeChat[824] INFO pull a member named: 加鑫 
+2018-03-03 22:07:42,324 WeChat[824] INFO pull a member named: 涛哥哥 
+2018-03-03 22:07:42,324 WeChat[824] INFO pull a member named: Falo丶 
+2018-03-03 22:07:42,324 WeChat[824] INFO pull a member named: 魏良智 
+2018-03-03 22:07:42,334 WeChat[824] INFO pull a member named: 琦 
+2018-03-03 22:07:42,334 WeChat[824] INFO pull a member named: 张毓 
+2018-03-03 22:07:42,334 WeChat[824] INFO pull a member named: 染于苍则苍 
+2018-03-03 22:07:42,334 WeChat[824] INFO pull a member named: 喻鑫 
+2018-03-03 22:07:42,334 WeChat[824] INFO pull a member named: zyss123 
+2018-03-03 22:07:42,344 WeChat[824] INFO pull a member named: 谢叔冬 
+2018-03-03 22:07:42,344 WeChat[824] INFO pull a member named: 影子中的舞者 
+2018-03-03 22:07:42,344 WeChat[824] INFO pull a member named: YSL 
+2018-03-03 22:07:42,344 WeChat[824] INFO pull a member named: zy 
+2018-03-03 22:07:42,344 WeChat[824] INFO pull a member named: 明月清 
+2018-03-03 22:07:42,344 WeChat[824] INFO pull a member named: A ～（袁铭祥） 
+2018-03-03 22:07:42,344 WeChat[824] INFO pull a member named: Superhero 
+2018-03-03 22:07:42,344 WeChat[824] INFO pull a member named: 稀饭 
+2018-03-03 22:07:42,344 WeChat[824] INFO pull a member named: synchronized 
+2018-03-03 22:07:42,344 WeChat[824] INFO pull a member named: Ronnie.Shi 
+2018-03-03 22:07:42,344 WeChat[824] INFO pull a member named: 晓晓@铺码新零售 
+2018-03-03 22:07:42,354 WeChat[824] INFO pull a member named: 陈平 
+2018-03-03 22:07:42,354 WeChat[824] INFO pull a member named: 追光者 
+2018-03-03 22:07:42,354 WeChat[824] INFO pull a member named: 亮晶晶钢琴工作室 
+2018-03-03 22:07:42,354 WeChat[824] INFO pull a member named: 朱 
+2018-03-03 22:07:42,354 WeChat[824] INFO pull a member named: 七月生 
+2018-03-03 22:07:42,354 WeChat[824] INFO pull a member named: 婉 
+2018-03-03 22:07:42,354 WeChat[824] INFO pull a member named: WALL E(Cheryl) 
+2018-03-03 22:07:42,354 WeChat[824] INFO pull a member named: 宜春移动 
+2018-03-03 22:07:42,354 WeChat[824] INFO pull a member named: 宜春学院学生会 
+2018-03-03 22:07:42,354 WeChat[824] INFO pull a member named: 宜春学院数学与计算机科学学院 
+2018-03-03 22:07:42,354 WeChat[824] INFO pull a member named:  
+2018-03-03 22:07:42,354 WeChat[824] INFO pull a member named: 电子发烧友网 
+2018-03-03 22:07:42,354 WeChat[824] INFO pull a member named: java那些事 
+2018-03-03 22:07:42,354 WeChat[824] INFO pull a member named: 程序员内参 
+2018-03-03 22:07:42,364 WeChat[824] INFO pull a member named: 宜春学院 
+2018-03-03 22:07:42,364 WeChat[824] INFO pull a member named: 良品铺子 
+2018-03-03 22:07:42,364 WeChat[824] INFO pull a member named: Python技术博文 
+2018-03-03 22:07:42,374 WeChat[824] INFO pull a member named: Fribble 
+2018-03-03 22:07:42,374 WeChat[824] INFO pull a member named: Java小栈 
+2018-03-03 22:07:42,374 WeChat[824] INFO pull a member named: 微信开发者 
+2018-03-03 22:07:42,374 WeChat[824] INFO pull a member named: 阿里技术 
+2018-03-03 22:07:42,374 WeChat[824] INFO pull a member named: 学涨 
+2018-03-03 22:07:42,374 WeChat[824] INFO pull a member named: 微信团队 
+2018-03-03 22:07:42,374 WeChat[824] INFO pull a member named: R语言中文社区 
+2018-03-03 22:07:42,374 WeChat[824] INFO pull a member named: WPS会员 
+2018-03-03 22:07:42,374 WeChat[824] INFO pull a member named: 微信游戏 
+2018-03-03 22:07:42,374 WeChat[824] INFO pull a member named: 回收货郎 
+2018-03-03 22:07:42,374 WeChat[824] INFO pull a member named: 公众平台安全助手 
+2018-03-03 22:07:42,384 WeChat[824] INFO pull a member named: 微信支付 
+2018-03-03 22:07:42,384 WeChat[824] INFO pull a member named: 京东支付 
+2018-03-03 22:07:42,384 WeChat[824] INFO pull a member named: 58速运 
+2018-03-03 22:07:42,384 WeChat[824] INFO pull a member named: 江西移动10086 
+2018-03-03 22:07:42,384 WeChat[824] DEBUG group_ids: {'@@1656b1e4138c19cf758d322147f6ee3c6bce26c8c8d28baf6f4a39980d91a19a', '@@02019addedabd2919d4c2edf760935c5d4fcc0fef536ea5da8af2401cba11c60', '@@11f9b57237b6a776805e41e40a35c4436e8cf49c9d7b55491c08b28066ff2ee8', '@@d774bc1093daa0bfd4fd477b263bad2f50462374625209335cea847994ae6521', '@@d5919a5fe5c49f292386e5f16d4cc31d059c09d5dd4daf6a294efb1fca5f8b4e', '@@ca63ba268889e34d7dedf3e42cf84c923681504a504aeaf4a3034498943729fa', '@@46b72ab2d3f585c1eecfc449269682545d3d11832e91a08d75375c5f6ad66d40', '@@3d4a6020dfb38cc47fc0ceb61c3b0faf389e1d599dc1cbc8eb74ddcf91e688f4', '@@16077d414315bca27b5c747fff1fd11a68b55e22649881ae56053410fc350f23', '@@64558d28549d546481bdf1e8ec2bffd5c6ad0f22192fc27060e12d86672ad24b', '@@c947d03b8fc858abc77814965368ffaf5f4fb5dcf30de7f99e408efc5215a2c7', '@@437dccc345f71832b5807c47f0e25c6303ce59f2faaadcff6622805d799db4f4', '@@3577483bda142c471d39c9b4a5b7bc378d04eb0d0765e68859ce77f95b8b552f'}
+2018-03-03 22:07:42,384 WeChat[824] DEBUG readying for pull group's information...
+2018-03-03 22:07:43,045 WeChat[824] INFO try to pull the group named: 14计科班群
+2018-03-03 22:07:43,695 WeChat[824] INFO pull a member named: 10 
+2018-03-03 22:07:43,695 WeChat[824] INFO pull a member named: Boolean 
+2018-03-03 22:07:43,695 WeChat[824] INFO pull a member named: 乐宝<span class="emoji emoji1f605"></span> 
+2018-03-03 22:07:43,695 WeChat[824] INFO pull a member named: 初夏 
+2018-03-03 22:07:43,725 WeChat[824] INFO pull a member named: <span class="emoji emoji2757"></span> 
+2018-03-03 22:07:43,725 WeChat[824] INFO pull a member named: 涂聪 
+2018-03-03 22:07:43,725 WeChat[824] INFO pull a member named: ltp丶 
+2018-03-03 22:07:43,735 WeChat[824] INFO pull a member named: 追逐梦 
+2018-03-03 22:07:43,735 WeChat[824] INFO pull a member named: 无聊 
+2018-03-03 22:07:43,735 WeChat[824] INFO pull a member named: 亮晶晶<span class="emoji emoji1f31f"></span> 
+2018-03-03 22:07:43,745 WeChat[824] INFO pull a member named: 冷月 
+2018-03-03 22:07:43,745 WeChat[824] INFO pull a member named: 好名都被wuli取了 
+2018-03-03 22:07:43,745 WeChat[824] INFO pull a member named: 辉宏网络服务 
+2018-03-03 22:07:43,745 WeChat[824] INFO pull a member named: 陈平 
+2018-03-03 22:07:43,745 WeChat[824] INFO pull a member named: 点亮黑暗 
+2018-03-03 22:07:43,755 WeChat[824] INFO pull a member named: 封宇杰 
+2018-03-03 22:07:43,755 WeChat[824] INFO pull a member named: 错了而已 
+2018-03-03 22:07:43,765 WeChat[824] INFO pull a member named: 王思 
+2018-03-03 22:07:43,765 WeChat[824] INFO pull a member named: freedom 
+2018-03-03 22:07:43,765 WeChat[824] INFO pull a member named: 微笑 
+2018-03-03 22:07:43,765 WeChat[824] INFO pull a member named: 酉&amp;星 
+2018-03-03 22:07:43,765 WeChat[824] INFO pull a member named: YSL 
+2018-03-03 22:07:43,765 WeChat[824] INFO pull a member named: 买个太阳不下山 
+2018-03-03 22:07:43,765 WeChat[824] INFO pull a member named: 梦影 
+2018-03-03 22:07:43,765 WeChat[824] INFO pull a member named: 张渠江 
+2018-03-03 22:07:43,775 WeChat[824] INFO pull a member named: 云无心以出岫 
+2018-03-03 22:07:43,775 WeChat[824] INFO pull a member named: 苏打水 
+2018-03-03 22:07:43,775 WeChat[824] INFO pull a member named: 苘一夏（薛棣文） 
+2018-03-03 22:07:43,775 WeChat[824] INFO pull a member named: 影子中的舞者 
+2018-03-03 22:07:43,775 WeChat[824] INFO pull a member named: 小猪 
+2018-03-03 22:07:43,775 WeChat[824] INFO pull a member named: k2278次4车85号 
+2018-03-03 22:07:43,775 WeChat[824] INFO pull a member named: 咯哈 
+2018-03-03 22:07:43,775 WeChat[824] INFO pull a member named: 永 
+2018-03-03 22:07:43,775 WeChat[824] INFO pull a member named: 梦昼初 
+2018-03-03 22:07:43,785 WeChat[824] INFO pull a member named: <span class="emoji emoji1f199"></span> 
+2018-03-03 22:07:43,785 WeChat[824] INFO pull a member named: 饶龙 
+2018-03-03 22:07:43,785 WeChat[824] INFO pull a member named: 胡成长 
+2018-03-03 22:07:43,785 WeChat[824] INFO pull a member named: 小浩先森 
+2018-03-03 22:07:43,785 WeChat[824] INFO pull a member named: 邂逅华尔兹 
+2018-03-03 22:07:43,795 WeChat[824] INFO pull a member named: 李 
+2018-03-03 22:07:43,795 WeChat[824] INFO pull a member named: 淡如墨雪 
+2018-03-03 22:07:43,795 WeChat[824] INFO pull a member named: 凤尾鱼 
+2018-03-03 22:07:43,795 WeChat[824] INFO pull a member named: 小刚 
+2018-03-03 22:07:43,795 WeChat[824] INFO pull a member named: 淡然如水水 
+2018-03-03 22:07:43,795 WeChat[824] INFO pull a member named: Ds 
+2018-03-03 22:07:43,795 WeChat[824] INFO pull a member named: 帅气的向阳 
+2018-03-03 22:07:43,795 WeChat[824] INFO pull a member named: Rookie 
+2018-03-03 22:07:43,805 WeChat[824] INFO pull a member named: T丶ab 
+2018-03-03 22:07:43,805 WeChat[824] INFO try to pull the group named: 温馨的家
+2018-03-03 22:07:43,955 WeChat[824] INFO pull a member named: 健康如意 
+2018-03-03 22:07:43,966 WeChat[824] INFO pull a member named: 朱文坚 
+2018-03-03 22:07:43,966 WeChat[824] INFO pull a member named: 朱志平zhuzhiping 
+2018-03-03 22:07:43,966 WeChat[824] INFO try to pull the group named: 新氪技术开发团队
+2018-03-03 22:07:44,286 WeChat[824] INFO pull a member named: 许夜 
+2018-03-03 22:07:44,286 WeChat[824] INFO pull a member named: 氤氲之息 
+2018-03-03 22:07:44,286 WeChat[824] INFO pull a member named: 张刚 
+2018-03-03 22:07:44,286 WeChat[824] INFO pull a member named: Young Niu 
+2018-03-03 22:07:44,296 WeChat[824] INFO pull a member named: synchronized 
+2018-03-03 22:07:44,296 WeChat[824] INFO pull a member named: 不精独乐 
+2018-03-03 22:07:44,296 WeChat[824] INFO pull a member named: 朱文坚 
+2018-03-03 22:07:44,296 WeChat[824] INFO pull a member named: 心语星空 
+2018-03-03 22:07:44,296 WeChat[824] INFO pull a member named: 新氪HR 
+2018-03-03 22:07:44,306 WeChat[824] INFO try to pull the group named: 8307
+2018-03-03 22:07:44,566 WeChat[824] INFO pull a member named: Zzx 
+2018-03-03 22:07:44,576 WeChat[824] INFO pull a member named: 朱文坚 
+2018-03-03 22:07:44,576 WeChat[824] INFO pull a member named: 张毓 
+2018-03-03 22:07:44,576 WeChat[824] INFO pull a member named: 失落的心 
+2018-03-03 22:07:44,576 WeChat[824] INFO pull a member named: 余祎鸣  
+2018-03-03 22:07:44,586 WeChat[824] INFO pull a member named: MNM 
+2018-03-03 22:07:44,586 WeChat[824] INFO pull a member named: 夜影流年 
+2018-03-03 22:07:44,586 WeChat[824] INFO try to pull the group named: 新氪群喵社群事业部
+2018-03-03 22:07:44,866 WeChat[824] INFO pull a member named: 从波 
+2018-03-03 22:07:44,866 WeChat[824] INFO pull a member named: 许夜 
+2018-03-03 22:07:44,896 WeChat[824] INFO pull a member named: Ronnie.Shi 
+2018-03-03 22:07:44,896 WeChat[824] INFO pull a member named: 张刚 
+2018-03-03 22:07:44,896 WeChat[824] INFO pull a member named: 朱文坚 
+2018-03-03 22:07:44,906 WeChat[824] INFO pull a member named: synchronized 
+2018-03-03 22:07:44,906 WeChat[824] INFO pull a member named: 心语星空 
+2018-03-03 22:07:44,906 WeChat[824] INFO pull a member named: 新氪HR 
+2018-03-03 22:07:44,916 WeChat[824] INFO try to pull the group named: 14计科Android实训
+2018-03-03 22:07:45,546 WeChat[824] INFO pull a member named: 燕凯涛 
+2018-03-03 22:07:45,546 WeChat[824] INFO pull a member named: 乐宝<span class="emoji emoji1f605"></span> 
+2018-03-03 22:07:45,556 WeChat[824] INFO pull a member named: 张渠江 
+2018-03-03 22:07:45,556 WeChat[824] INFO pull a member named: 张毓 
+2018-03-03 22:07:45,556 WeChat[824] INFO pull a member named: 饶龙 
+2018-03-03 22:07:45,556 WeChat[824] INFO pull a member named: 邂逅华尔兹 
+2018-03-03 22:07:45,556 WeChat[824] INFO pull a member named: 夜影流年 
+2018-03-03 22:07:45,556 WeChat[824] INFO pull a member named: 乱曲 
+2018-03-03 22:07:45,556 WeChat[824] INFO pull a member named: 云无心以出岫 
+2018-03-03 22:07:45,556 WeChat[824] INFO pull a member named: YSL 
+2018-03-03 22:07:45,556 WeChat[824] INFO pull a member named: Boolean 
+2018-03-03 22:07:45,566 WeChat[824] INFO pull a member named: 帅气的向阳 
+2018-03-03 22:07:45,576 WeChat[824] INFO pull a member named: 初夏 
+2018-03-03 22:07:45,576 WeChat[824] INFO pull a member named: 错了而已 
+2018-03-03 22:07:45,576 WeChat[824] INFO pull a member named: 上丶善若水 
+2018-03-03 22:07:45,576 WeChat[824] INFO pull a member named: 好名都被wuli取了 
+2018-03-03 22:07:45,586 WeChat[824] INFO pull a member named: 封宇杰 
+2018-03-03 22:07:45,586 WeChat[824] INFO pull a member named: 李宽 
+2018-03-03 22:07:45,586 WeChat[824] INFO pull a member named: Ds 
+2018-03-03 22:07:45,586 WeChat[824] INFO pull a member named: SonyUR 
+2018-03-03 22:07:45,586 WeChat[824] INFO pull a member named: 木剌 
+2018-03-03 22:07:45,586 WeChat[824] INFO pull a member named: NewSky 
+2018-03-03 22:07:45,586 WeChat[824] INFO pull a member named: 酉&amp;星 
+2018-03-03 22:07:45,586 WeChat[824] INFO pull a member named: 无聊 
+2018-03-03 22:07:45,596 WeChat[824] INFO pull a member named: 七年 
+2018-03-03 22:07:45,596 WeChat[824] INFO pull a member named: 树<span class="emoji emoji1f343"></span> 
+2018-03-03 22:07:45,606 WeChat[824] INFO pull a member named: 微笑 
+2018-03-03 22:07:45,606 WeChat[824] INFO pull a member named: 梦影 
+2018-03-03 22:07:45,606 WeChat[824] INFO pull a member named: 梦昼初 
+2018-03-03 22:07:45,606 WeChat[824] INFO pull a member named: 朱文坚 
+2018-03-03 22:07:45,606 WeChat[824] INFO pull a member named: 小猪 
+2018-03-03 22:07:45,616 WeChat[824] INFO pull a member named: 李 
+2018-03-03 22:07:45,616 WeChat[824] INFO pull a member named: 冷月 
+2018-03-03 22:07:45,616 WeChat[824] INFO pull a member named: 追逐梦 
+2018-03-03 22:07:45,616 WeChat[824] INFO pull a member named: ltp丶 
+2018-03-03 22:07:45,616 WeChat[824] INFO pull a member named: 寒冰雪 
+2018-03-03 22:07:45,616 WeChat[824] INFO pull a member named: Rookie 
+2018-03-03 22:07:45,616 WeChat[824] INFO pull a member named: 小浩先森 
+2018-03-03 22:07:45,616 WeChat[824] INFO pull a member named: 告别老年机 
+2018-03-03 22:07:45,616 WeChat[824] INFO pull a member named: 辉宏网络服务 
+2018-03-03 22:07:45,616 WeChat[824] INFO pull a member named: 影子中的舞者 
+2018-03-03 22:07:45,616 WeChat[824] INFO pull a member named: 10 
+2018-03-03 22:07:45,616 WeChat[824] INFO pull a member named: 胡成长 
+2018-03-03 22:07:45,626 WeChat[824] INFO pull a member named: 苘一夏（薛棣文） 
+2018-03-03 22:07:45,626 WeChat[824] INFO pull a member named: spectre 
+2018-03-03 22:07:45,626 WeChat[824] INFO pull a member named: k2278次4车85号 
+2018-03-03 22:07:45,626 WeChat[824] INFO pull a member named: 咯哈 
+2018-03-03 22:07:45,626 WeChat[824] INFO pull a member named: 阳光正好 
+2018-03-03 22:07:45,636 WeChat[824] INFO try to pull the group named: 藏葎閣
+2018-03-03 22:07:45,966 WeChat[824] INFO pull a member named: 辉宏网络服务 
+2018-03-03 22:07:45,966 WeChat[824] INFO pull a member named: 皮卡秋 
+2018-03-03 22:07:45,966 WeChat[824] INFO pull a member named: ltp丶 
+2018-03-03 22:07:45,966 WeChat[824] INFO pull a member named: 燕凯涛 
+2018-03-03 22:07:45,966 WeChat[824] INFO pull a member named: 买个太阳不下山 
+2018-03-03 22:07:45,966 WeChat[824] INFO pull a member named: 朱文坚 
+2018-03-03 22:07:45,976 WeChat[824] INFO pull a member named: 陈平 
+2018-03-03 22:07:45,976 WeChat[824] INFO pull a member named: YSL 
+2018-03-03 22:07:45,976 WeChat[824] INFO pull a member named: freedom 
+2018-03-03 22:07:45,976 WeChat[824] INFO try to pull the group named: 相识的缘分
+2018-03-03 22:07:46,246 WeChat[824] INFO pull a member named: zyss123 
+2018-03-03 22:07:46,246 WeChat[824] INFO pull a member named: 石玉泉 
+2018-03-03 22:07:46,246 WeChat[824] INFO pull a member named: 朱文坚 
+2018-03-03 22:07:46,246 WeChat[824] INFO pull a member named: 加鑫 
+2018-03-03 22:07:46,246 WeChat[824] INFO pull a member named: 。。。。。 
+2018-03-03 22:07:46,246 WeChat[824] INFO pull a member named: 质壁分离 
+2018-03-03 22:07:46,246 WeChat[824] INFO try to pull the group named: 羽球.动起来
+2018-03-03 22:07:46,476 WeChat[824] INFO pull a member named: 鹭岛的陆 
+2018-03-03 22:07:46,476 WeChat[824] INFO pull a member named: 森林vp 
+2018-03-03 22:07:46,486 WeChat[824] INFO pull a member named: 郑海亮 
+2018-03-03 22:07:46,486 WeChat[824] INFO pull a member named: 郭昊 
+2018-03-03 22:07:46,486 WeChat[824] INFO pull a member named: 陈菱 
+2018-03-03 22:07:46,486 WeChat[824] INFO pull a member named: 朱文坚 
+2018-03-03 22:07:46,486 WeChat[824] INFO try to pull the group named: 新氪网络大团队
+2018-03-03 22:07:46,986 WeChat[824] INFO pull a member named: 许夜 
+2018-03-03 22:07:46,986 WeChat[824] INFO pull a member named: Ronnie.Shi 
+2018-03-03 22:07:46,986 WeChat[824] INFO pull a member named: 张刚 
+2018-03-03 22:07:46,986 WeChat[824] INFO pull a member named: 何勉 
+2018-03-03 22:07:46,996 WeChat[824] INFO pull a member named: 氤氲之息 
+2018-03-03 22:07:46,996 WeChat[824] INFO pull a member named: Young Niu 
+2018-03-03 22:07:46,996 WeChat[824] INFO pull a member named: 老崔 
+2018-03-03 22:07:46,996 WeChat[824] INFO pull a member named: 聂斌 
+2018-03-03 22:07:46,996 WeChat[824] INFO pull a member named: 吕大杏 
+2018-03-03 22:07:47,016 WeChat[824] INFO pull a member named: 王" 嘚瑟~ 
+2018-03-03 22:07:47,016 WeChat[824] INFO pull a member named: 韩强强 
+2018-03-03 22:07:47,026 WeChat[824] INFO pull a member named: 刘杨 
+2018-03-03 22:07:47,026 WeChat[824] INFO pull a member named: synchronized 
+2018-03-03 22:07:47,036 WeChat[824] INFO pull a member named: 小张 
+2018-03-03 22:07:47,036 WeChat[824] INFO pull a member named: 不精独乐 
+2018-03-03 22:07:47,036 WeChat[824] INFO pull a member named: 朱文坚 
+2018-03-03 22:07:47,036 WeChat[824] INFO pull a member named: 心语星空 
+2018-03-03 22:07:47,046 WeChat[824] INFO pull a member named: 新氪HR 
+2018-03-03 22:07:47,066 WeChat[824] INFO try to pull the group named: 鑫唐佳苑6.5层的群居生活
+2018-03-03 22:07:47,251 WeChat[824] INFO pull a member named: 朱文坚 
+2018-03-03 22:07:47,251 WeChat[824] INFO pull a member named: 加鑫 
+2018-03-03 22:07:47,261 WeChat[824] INFO pull a member named: WALL E(Cheryl) 
+2018-03-03 22:07:47,261 WeChat[824] INFO try to pull the group named: 一家人
+2018-03-03 22:07:47,681 WeChat[824] INFO pull a member named: 菊华 
+2018-03-03 22:07:47,691 WeChat[824] INFO pull a member named: 、尓蕞紾貴 
+2018-03-03 22:07:47,711 WeChat[824] INFO pull a member named: 朱发平陶瓷艺术 
+2018-03-03 22:07:47,711 WeChat[824] INFO pull a member named: 朱志平zhuzhiping 
+2018-03-03 22:07:47,721 WeChat[824] INFO pull a member named: 朱文坚 
+2018-03-03 22:07:47,721 WeChat[824] INFO pull a member named: 冷姐 
+2018-03-03 22:07:47,721 WeChat[824] INFO pull a member named: 相濡以沫 
+2018-03-03 22:07:47,721 WeChat[824] INFO pull a member named: 罗罗 
+2018-03-03 22:07:47,721 WeChat[824] INFO pull a member named: 小布点… 
+2018-03-03 22:07:47,731 WeChat[824] INFO pull a member named: 运棚 
+2018-03-03 22:07:47,731 WeChat[824] INFO pull a member named: 风雨无阻 
+2018-03-03 22:07:47,731 WeChat[824] INFO pull a member named: 健康如意 
+2018-03-03 22:07:47,741 WeChat[824] INFO pull a member named: 浅 
+2018-03-03 22:07:47,751 WeChat[824] INFO pull a member named: 年轻在于拼 
+2018-03-03 22:07:47,751 WeChat[824] INFO try to pull the group named: 云谏周末足球群
+2018-03-03 22:07:48,251 WeChat[824] INFO pull a member named: 啊泉 
+2018-03-03 22:07:48,251 WeChat[824] INFO pull a member named: JoieFu 
+2018-03-03 22:07:48,251 WeChat[824] INFO pull a member named: LQ 
+2018-03-03 22:07:48,251 WeChat[824] INFO pull a member named: glory 
+2018-03-03 22:07:48,261 WeChat[824] INFO pull a member named: 森林vp 
+2018-03-03 22:07:48,261 WeChat[824] INFO pull a member named: 陈菱 
+2018-03-03 22:07:48,261 WeChat[824] INFO pull a member named: 朱文坚 
+2018-03-03 22:07:48,261 WeChat[824] INFO pull a member named: 郭昊 
+2018-03-03 22:07:48,261 WeChat[824] INFO pull a member named: Joy 
+2018-03-03 22:07:48,261 WeChat[824] INFO pull a member named: June 
+2018-03-03 22:07:48,261 WeChat[824] INFO pull a member named: zyss123 
+2018-03-03 22:07:48,261 WeChat[824] INFO pull a member named: 石玉泉 
+2018-03-03 22:07:48,261 WeChat[824] INFO pull a member named: 刘玉洁 
+2018-03-03 22:07:48,261 WeChat[824] INFO pull a member named: 王伟康 
+2018-03-03 22:07:48,261 WeChat[824] INFO pull a member named: 加鑫 
+2018-03-03 22:07:48,261 WeChat[824] INFO pull a member named: 阿杜 
+2018-03-03 22:07:48,321 WeChat[824] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"7"}':
+2018-03-03 22:07:48,321 WeChat[824] INFO retcode: 0, selector: 7
+2018-03-03 22:08:03,667 WeChat[824] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"2"}':
+2018-03-03 22:08:03,677 WeChat[824] INFO retcode: 0, selector: 2
+2018-03-03 22:08:10,050 WeChat[824] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"2"}':
+2018-03-03 22:08:10,060 WeChat[824] INFO retcode: 0, selector: 2
+2018-03-03 22:17:21,290 WeChat[11768] INFO waiting for WeChat to scan two dimensional code login...
+2018-03-03 22:17:25,961 WeChat[11768] DEBUG b'window.code=201;'
+2018-03-03 22:17:25,961 WeChat[11768] INFO waiting for WeChat to scan two dimensional code login...
+2018-03-03 22:17:27,241 WeChat[11768] DEBUG b'window.code=200;\nwindow.redirect_uri="https://wx.qq.com/cgi-bin/mmwebwx-bin/webwxnewloginpage?ticket=AU7QxDHOtTkmmWR_QBLaGIjv@qrticket_0&uuid=QdjYnflYUg==&lang=zh_CN&scan=1520086646";'
+2018-03-03 22:17:27,771 WeChat[11768] DEBUG user: {'Uin': 2037322676, 'UserName': '@6f60019bc15fed2ee2cab3517d71b505b9693fe07d2a56f2b9d364bf12a99bb3', 'NickName': '朱文坚', 'HeadImgUrl': '/cgi-bin/mmwebwx-bin/webwxgeticon?seq=1761217252&username=@6f60019bc15fed2ee2cab3517d71b505b9693fe07d2a56f2b9d364bf12a99bb3&skey=@crypt_bb4d37a3_321e877c64a43c38f0af6508023b3d24', 'RemarkName': '', 'PYInitial': '', 'PYQuanPin': '', 'RemarkPYInitial': '', 'RemarkPYQuanPin': '', 'HideInputBarFlag': 0, 'StarFriend': 0, 'Sex': 1, 'Signature': '', 'AppAccountFlag': 0, 'VerifyFlag': 0, 'ContactFlag': 0, 'WebWxPluginSwitch': 0, 'HeadImgFlag': 1, 'SnsFlag': 1}
+2018-03-03 22:17:29,351 WeChat[11768] INFO [*] all of 158 contacts，get 158 
+2018-03-03 22:17:29,351 WeChat[11768] INFO [*] all of 13 group | 119 contact | 1 special_user ｜ 25 public_user
+2018-03-03 22:17:29,351 WeChat[11768] INFO pull a member named: 文件传输助手 
+2018-03-03 22:17:29,351 WeChat[11768] INFO pull a member named: 魔方乐队 
+2018-03-03 22:17:29,351 WeChat[11768] INFO pull a member named: Youth 
+2018-03-03 22:17:29,361 WeChat[11768] INFO pull a member named: 易战军 
+2018-03-03 22:17:29,361 WeChat[11768] INFO pull a member named: 柳明 
+2018-03-03 22:17:29,361 WeChat[11768] INFO pull a member named: 黄凯的妈妈 
+2018-03-03 22:17:29,361 WeChat[11768] INFO pull a member named: Zzx 
+2018-03-03 22:17:29,361 WeChat[11768] INFO pull a member named: 晴天 
+2018-03-03 22:17:29,361 WeChat[11768] INFO pull a member named: 北大荒纯粮酒，西凤白酒经销 
+2018-03-03 22:17:29,361 WeChat[11768] INFO pull a member named: 对你爱不完 
+2018-03-03 22:17:29,361 WeChat[11768] INFO pull a member named: 墨 
+2018-03-03 22:17:29,361 WeChat[11768] INFO pull a member named: 、尓蕞紾貴 
+2018-03-03 22:17:29,361 WeChat[11768] INFO pull a member named: Silver age 
+2018-03-03 22:17:29,361 WeChat[11768] INFO pull a member named: 【不奢望】 
+2018-03-03 22:17:29,371 WeChat[11768] INFO pull a member named: 江西瑞金~朱海凤 
+2018-03-03 22:17:29,371 WeChat[11768] INFO pull a member named: MNM 
+2018-03-03 22:17:29,371 WeChat[11768] INFO pull a member named: 钟超 
+2018-03-03 22:17:29,371 WeChat[11768] INFO pull a member named: 一生健康 
+2018-03-03 22:17:29,371 WeChat[11768] INFO pull a member named: 梦昼初 
+2018-03-03 22:17:29,371 WeChat[11768] INFO pull a member named: Amaranth 
+2018-03-03 22:17:29,371 WeChat[11768] INFO pull a member named: 启航致远王少浪 
+2018-03-03 22:17:29,371 WeChat[11768] INFO pull a member named: 李 
+2018-03-03 22:17:29,371 WeChat[11768] INFO pull a member named: 爱夏 
+2018-03-03 22:17:29,371 WeChat[11768] INFO pull a member named: 偏分少年 
+2018-03-03 22:17:29,371 WeChat[11768] INFO pull a member named: 张渠江 
+2018-03-03 22:17:29,391 WeChat[11768] INFO pull a member named: 燕凯涛 
+2018-03-03 22:17:29,391 WeChat[11768] INFO pull a member named: wind 
+2018-03-03 22:17:29,391 WeChat[11768] INFO pull a member named: 　　　　　　　　 
+2018-03-03 22:17:29,391 WeChat[11768] INFO pull a member named: 肖菁 
+2018-03-03 22:17:29,401 WeChat[11768] INFO pull a member named: A百度熊勤13699500434 
+2018-03-03 22:17:29,401 WeChat[11768] INFO pull a member named: 难以忘记 
+2018-03-03 22:17:29,401 WeChat[11768] INFO pull a member named: 相濡以沫 
+2018-03-03 22:17:29,401 WeChat[11768] INFO pull a member named: 韵冰 
+2018-03-03 22:17:29,401 WeChat[11768] INFO pull a member named: 茴香 
+2018-03-03 22:17:29,401 WeChat[11768] INFO pull a member named: 肖云 
+2018-03-03 22:17:29,401 WeChat[11768] INFO pull a member named: Samuel 
+2018-03-03 22:17:29,401 WeChat[11768] INFO pull a member named: 耶子 
+2018-03-03 22:17:29,401 WeChat[11768] INFO pull a member named: 喜羊羊 
+2018-03-03 22:17:29,411 WeChat[11768] INFO pull a member named: 郭昊 
+2018-03-03 22:17:29,411 WeChat[11768] INFO pull a member named: 森林vp 
+2018-03-03 22:17:29,421 WeChat[11768] INFO pull a member named: 陈菱 
+2018-03-03 22:17:29,421 WeChat[11768] INFO pull a member named: Zjliii… 
+2018-03-03 22:17:29,421 WeChat[11768] INFO pull a member named: 可可西里 
+2018-03-03 22:17:29,421 WeChat[11768] INFO pull a member named: 上海八维冯老师1870192518 
+2018-03-03 22:17:29,421 WeChat[11768] INFO pull a member named: 油爆枇杷拌面 
+2018-03-03 22:17:29,421 WeChat[11768] INFO pull a member named: 夕阳下的歌 
+2018-03-03 22:17:29,421 WeChat[11768] INFO pull a member named: 冷姐 
+2018-03-03 22:17:29,421 WeChat[11768] INFO pull a member named: 你最珍贵 
+2018-03-03 22:17:29,421 WeChat[11768] INFO pull a member named: 皮卡秋 
+2018-03-03 22:17:29,421 WeChat[11768] INFO pull a member named: Coupe 
+2018-03-03 22:17:29,431 WeChat[11768] INFO pull a member named: 辉宏网络服务 
+2018-03-03 22:17:29,431 WeChat[11768] INFO pull a member named: 刘玉洁 
+2018-03-03 22:17:29,431 WeChat[11768] INFO pull a member named: 罗罗 
+2018-03-03 22:17:29,431 WeChat[11768] INFO pull a member named: 甘世云 
+2018-03-03 22:17:29,431 WeChat[11768] INFO pull a member named: Jan 
+2018-03-03 22:17:29,431 WeChat[11768] INFO pull a member named: 周明元 
+2018-03-03 22:17:29,431 WeChat[11768] INFO pull a member named: 七年 
+2018-03-03 22:17:29,431 WeChat[11768] INFO pull a member named: 项目 耿义鹤 Caesar 
+2018-03-03 22:17:29,431 WeChat[11768] INFO pull a member named: freedom 
+2018-03-03 22:17:29,441 WeChat[11768] INFO pull a member named: 王伟康 
+2018-03-03 22:17:29,441 WeChat[11768] INFO pull a member named: 买个太阳不下山 
+2018-03-03 22:17:29,441 WeChat[11768] INFO pull a member named: 石玉泉 
+2018-03-03 22:17:29,441 WeChat[11768] INFO pull a member named: 刘屹成 
+2018-03-03 22:17:29,451 WeChat[11768] INFO pull a member named: 阿杜 
+2018-03-03 22:17:29,451 WeChat[11768] INFO pull a member named: 。。。。。 
+2018-03-03 22:17:29,451 WeChat[11768] INFO pull a member named: 浅 
+2018-03-03 22:17:29,451 WeChat[11768] INFO pull a member named: A逆光飞翔 
+2018-03-03 22:17:29,451 WeChat[11768] INFO pull a member named: Joy 
+2018-03-03 22:17:29,451 WeChat[11768] INFO pull a member named: June 
+2018-03-03 22:17:29,451 WeChat[11768] INFO pull a member named: 朱志平zhuzhiping 
+2018-03-03 22:17:29,451 WeChat[11768] INFO pull a member named: 不忘初心 
+2018-03-03 22:17:29,451 WeChat[11768] INFO pull a member named: ltp丶 
+2018-03-03 22:17:29,451 WeChat[11768] INFO pull a member named: 小布点… 
+2018-03-03 22:17:29,451 WeChat[11768] INFO pull a member named: 健康如意 
+2018-03-03 22:17:29,461 WeChat[11768] INFO pull a member named: 鹭岛的陆 
+2018-03-03 22:17:29,461 WeChat[11768] INFO pull a member named: 朱发平陶瓷艺术 
+2018-03-03 22:17:29,461 WeChat[11768] INFO pull a member named: 年轻在于拼 
+2018-03-03 22:17:29,461 WeChat[11768] INFO pull a member named: 不精独乐 
+2018-03-03 22:17:29,461 WeChat[11768] INFO pull a member named: Young Niu 
+2018-03-03 22:17:29,461 WeChat[11768] INFO pull a member named: One Peace 
+2018-03-03 22:17:29,461 WeChat[11768] INFO pull a member named: 张刚 
+2018-03-03 22:17:29,471 WeChat[11768] INFO pull a member named: 梁慧敏 
+2018-03-03 22:17:29,471 WeChat[11768] INFO pull a member named: 许夜 
+2018-03-03 22:17:29,471 WeChat[11768] INFO pull a member named: 加鑫 
+2018-03-03 22:17:29,471 WeChat[11768] INFO pull a member named: 涛哥哥 
+2018-03-03 22:17:29,471 WeChat[11768] INFO pull a member named: Falo丶 
+2018-03-03 22:17:29,471 WeChat[11768] INFO pull a member named: 魏良智 
+2018-03-03 22:17:29,481 WeChat[11768] INFO pull a member named: 琦 
+2018-03-03 22:17:29,481 WeChat[11768] INFO pull a member named: 张毓 
+2018-03-03 22:17:29,481 WeChat[11768] INFO pull a member named: 染于苍则苍 
+2018-03-03 22:17:29,481 WeChat[11768] INFO pull a member named: 喻鑫 
+2018-03-03 22:17:29,481 WeChat[11768] INFO pull a member named: zyss123 
+2018-03-03 22:17:29,481 WeChat[11768] INFO pull a member named: 谢叔冬 
+2018-03-03 22:17:29,481 WeChat[11768] INFO pull a member named: 影子中的舞者 
+2018-03-03 22:17:29,481 WeChat[11768] INFO pull a member named: YSL 
+2018-03-03 22:17:29,481 WeChat[11768] INFO pull a member named: zy 
+2018-03-03 22:17:29,491 WeChat[11768] INFO pull a member named: 明月清 
+2018-03-03 22:17:29,491 WeChat[11768] INFO pull a member named: A ～（袁铭祥） 
+2018-03-03 22:17:29,491 WeChat[11768] INFO pull a member named: Superhero 
+2018-03-03 22:17:29,491 WeChat[11768] INFO pull a member named: 稀饭 
+2018-03-03 22:17:29,491 WeChat[11768] INFO pull a member named: synchronized 
+2018-03-03 22:17:29,491 WeChat[11768] INFO pull a member named: Ronnie.Shi 
+2018-03-03 22:17:29,491 WeChat[11768] INFO pull a member named: 晓晓@铺码新零售 
+2018-03-03 22:17:29,491 WeChat[11768] INFO pull a member named: 陈平 
+2018-03-03 22:17:29,491 WeChat[11768] INFO pull a member named: 追光者 
+2018-03-03 22:17:29,491 WeChat[11768] INFO pull a member named: 亮晶晶钢琴工作室 
+2018-03-03 22:17:29,491 WeChat[11768] INFO pull a member named: 朱 
+2018-03-03 22:17:29,491 WeChat[11768] INFO pull a member named: 七月生 
+2018-03-03 22:17:29,491 WeChat[11768] INFO pull a member named: 婉 
+2018-03-03 22:17:29,501 WeChat[11768] INFO pull a member named: WALL E(Cheryl) 
+2018-03-03 22:17:29,501 WeChat[11768] INFO pull a member named: 宜春移动 
+2018-03-03 22:17:29,501 WeChat[11768] INFO pull a member named: 宜春学院学生会 
+2018-03-03 22:17:29,501 WeChat[11768] INFO pull a member named: 宜春学院数学与计算机科学学院 
+2018-03-03 22:17:29,501 WeChat[11768] INFO pull a member named:  
+2018-03-03 22:17:29,501 WeChat[11768] INFO pull a member named: 电子发烧友网 
+2018-03-03 22:17:29,511 WeChat[11768] INFO pull a member named: java那些事 
+2018-03-03 22:17:29,511 WeChat[11768] INFO pull a member named: 程序员内参 
+2018-03-03 22:17:29,511 WeChat[11768] INFO pull a member named: 宜春学院 
+2018-03-03 22:17:29,511 WeChat[11768] INFO pull a member named: 良品铺子 
+2018-03-03 22:17:29,511 WeChat[11768] INFO pull a member named: Python技术博文 
+2018-03-03 22:17:29,511 WeChat[11768] INFO pull a member named: Fribble 
+2018-03-03 22:17:29,511 WeChat[11768] INFO pull a member named: Java小栈 
+2018-03-03 22:17:29,511 WeChat[11768] INFO pull a member named: 微信开发者 
+2018-03-03 22:17:29,511 WeChat[11768] INFO pull a member named: 阿里技术 
+2018-03-03 22:17:29,511 WeChat[11768] INFO pull a member named: 学涨 
+2018-03-03 22:17:29,511 WeChat[11768] INFO pull a member named: 微信团队 
+2018-03-03 22:17:29,511 WeChat[11768] INFO pull a member named: R语言中文社区 
+2018-03-03 22:17:29,511 WeChat[11768] INFO pull a member named: WPS会员 
+2018-03-03 22:17:29,521 WeChat[11768] INFO pull a member named: 微信游戏 
+2018-03-03 22:17:29,521 WeChat[11768] INFO pull a member named: 回收货郎 
+2018-03-03 22:17:29,521 WeChat[11768] INFO pull a member named: 公众平台安全助手 
+2018-03-03 22:17:29,521 WeChat[11768] INFO pull a member named: 微信支付 
+2018-03-03 22:17:29,521 WeChat[11768] INFO pull a member named: 京东支付 
+2018-03-03 22:17:29,521 WeChat[11768] INFO pull a member named: 58速运 
+2018-03-03 22:17:29,521 WeChat[11768] INFO pull a member named: 江西移动10086 
+2018-03-03 22:17:29,521 WeChat[11768] DEBUG group_ids: {'@@d3d6263444f0654dc89251c228ead4fb0e72a589afa79ec93c8c7c76ca93a5bf', '@@7913b8eaaaf2e9a00b0134742b49fad5cf72aeaa24e6eb07dd811d9eb09330fd', '@@4d57058f049416025f49d6a3b02e7127794778d53084ea574a917e41758ab12e', '@@766f8c4c6b2c53640ef109d82a7ac0ca44d084a52bac3ae6d548f5d3bc182c56', '@@8cdb6b287d075dfc5435ae064af2b3bb1be7d3dc212999f36c03aa03b176f53e', '@@77565e306bc419cd7b92607358f5c89d34fa69e25f190943dad16998d1a2baf0', '@@a81c3916fe981c72aa82813b9804fca6c46bd4ff7bd6bebb28ba5606a01c9409', '@@e53109a5f0e1f2e8a99b0903819e6ca402bcaad601677f78568feb385dcb646f', '@@e54ce868248f8fc867153579c78841b24763252e4437560056f583387c99c797', '@@fa9b884d17bc0dbc2454bd20e5ee9caea60c707eb8482a507d14b769679a9c3a', '@@c1f419ab78706ea68a3fdb15dddf712a358a6f12f44795db8600a43b4ab37e6b', '@@456d672ac4d8bb8580f49d281787e6ed100b0567217572d402aeb44180e6b451', '@@3e6d84d6981bf38877bb3436520ae012ea5db0615900f7e6dec973f6a9f1931f'}
+2018-03-03 22:17:29,521 WeChat[11768] DEBUG readying for pull group's information...
+2018-03-03 22:17:30,361 WeChat[11768] INFO try to pull the group named: 14计科Android实训
+2018-03-03 22:17:31,002 WeChat[11768] INFO pull a member named: 燕凯涛 
+2018-03-03 22:17:31,002 WeChat[11768] INFO pull a member named: 乐宝<span class="emoji emoji1f605"></span> 
+2018-03-03 22:17:31,012 WeChat[11768] INFO pull a member named: 张渠江 
+2018-03-03 22:17:31,012 WeChat[11768] INFO pull a member named: 张毓 
+2018-03-03 22:17:31,012 WeChat[11768] INFO pull a member named: 饶龙 
+2018-03-03 22:17:31,012 WeChat[11768] INFO pull a member named: 邂逅华尔兹 
+2018-03-03 22:17:31,022 WeChat[11768] INFO pull a member named: 夜影流年 
+2018-03-03 22:17:31,022 WeChat[11768] INFO pull a member named: 乱曲 
+2018-03-03 22:17:31,022 WeChat[11768] INFO pull a member named: 云无心以出岫 
+2018-03-03 22:17:31,032 WeChat[11768] INFO pull a member named: YSL 
+2018-03-03 22:17:31,032 WeChat[11768] INFO pull a member named: Boolean 
+2018-03-03 22:17:31,042 WeChat[11768] INFO pull a member named: 帅气的向阳 
+2018-03-03 22:17:31,042 WeChat[11768] INFO pull a member named: 初夏 
+2018-03-03 22:17:31,042 WeChat[11768] INFO pull a member named: 错了而已 
+2018-03-03 22:17:31,042 WeChat[11768] INFO pull a member named: 上丶善若水 
+2018-03-03 22:17:31,042 WeChat[11768] INFO pull a member named: 好名都被wuli取了 
+2018-03-03 22:17:31,052 WeChat[11768] INFO pull a member named: 封宇杰 
+2018-03-03 22:17:31,052 WeChat[11768] INFO pull a member named: 李宽 
+2018-03-03 22:17:31,052 WeChat[11768] INFO pull a member named: Ds 
+2018-03-03 22:17:31,052 WeChat[11768] INFO pull a member named: SonyUR 
+2018-03-03 22:17:31,052 WeChat[11768] INFO pull a member named: 木剌 
+2018-03-03 22:17:31,052 WeChat[11768] INFO pull a member named: NewSky 
+2018-03-03 22:17:31,052 WeChat[11768] INFO pull a member named: 酉&amp;星 
+2018-03-03 22:17:31,062 WeChat[11768] INFO pull a member named: 无聊 
+2018-03-03 22:17:31,072 WeChat[11768] INFO pull a member named: 七年 
+2018-03-03 22:17:31,072 WeChat[11768] INFO pull a member named: 树<span class="emoji emoji1f343"></span> 
+2018-03-03 22:17:31,072 WeChat[11768] INFO pull a member named: 微笑 
+2018-03-03 22:17:31,072 WeChat[11768] INFO pull a member named: 梦影 
+2018-03-03 22:17:31,072 WeChat[11768] INFO pull a member named: 梦昼初 
+2018-03-03 22:17:31,072 WeChat[11768] INFO pull a member named: 朱文坚 
+2018-03-03 22:17:31,072 WeChat[11768] INFO pull a member named: 小猪 
+2018-03-03 22:17:31,082 WeChat[11768] INFO pull a member named: 李 
+2018-03-03 22:17:31,082 WeChat[11768] INFO pull a member named: 冷月 
+2018-03-03 22:17:31,082 WeChat[11768] INFO pull a member named: 追逐梦 
+2018-03-03 22:17:31,082 WeChat[11768] INFO pull a member named: ltp丶 
+2018-03-03 22:17:31,082 WeChat[11768] INFO pull a member named: 寒冰雪 
+2018-03-03 22:17:31,082 WeChat[11768] INFO pull a member named: Rookie 
+2018-03-03 22:17:31,082 WeChat[11768] INFO pull a member named: 小浩先森 
+2018-03-03 22:17:31,102 WeChat[11768] INFO pull a member named: 告别老年机 
+2018-03-03 22:17:31,102 WeChat[11768] INFO pull a member named: 辉宏网络服务 
+2018-03-03 22:17:31,102 WeChat[11768] INFO pull a member named: 影子中的舞者 
+2018-03-03 22:17:31,102 WeChat[11768] INFO pull a member named: 10 
+2018-03-03 22:17:31,102 WeChat[11768] INFO pull a member named: 胡成长 
+2018-03-03 22:17:31,102 WeChat[11768] INFO pull a member named: 苘一夏（薛棣文） 
+2018-03-03 22:17:31,102 WeChat[11768] INFO pull a member named: spectre 
+2018-03-03 22:17:31,112 WeChat[11768] INFO pull a member named: k2278次4车85号 
+2018-03-03 22:17:31,112 WeChat[11768] INFO pull a member named: 咯哈 
+2018-03-03 22:17:31,112 WeChat[11768] INFO pull a member named: 阳光正好 
+2018-03-03 22:17:31,112 WeChat[11768] INFO try to pull the group named: 温馨的家
+2018-03-03 22:17:31,352 WeChat[11768] INFO pull a member named: 健康如意 
+2018-03-03 22:17:31,362 WeChat[11768] INFO pull a member named: 朱文坚 
+2018-03-03 22:17:31,362 WeChat[11768] INFO pull a member named: 朱志平zhuzhiping 
+2018-03-03 22:17:31,362 WeChat[11768] INFO try to pull the group named: 鑫唐佳苑6.5层的群居生活
+2018-03-03 22:17:31,532 WeChat[11768] INFO pull a member named: 朱文坚 
+2018-03-03 22:17:31,532 WeChat[11768] INFO pull a member named: 加鑫 
+2018-03-03 22:17:31,542 WeChat[11768] INFO pull a member named: WALL E(Cheryl) 
+2018-03-03 22:17:31,542 WeChat[11768] INFO try to pull the group named: 8307
+2018-03-03 22:17:31,812 WeChat[11768] INFO pull a member named: Zzx 
+2018-03-03 22:17:31,812 WeChat[11768] INFO pull a member named: 朱文坚 
+2018-03-03 22:17:31,822 WeChat[11768] INFO pull a member named: 张毓 
+2018-03-03 22:17:31,822 WeChat[11768] INFO pull a member named: 失落的心 
+2018-03-03 22:17:31,822 WeChat[11768] INFO pull a member named: 余祎鸣  
+2018-03-03 22:17:31,822 WeChat[11768] INFO pull a member named: MNM 
+2018-03-03 22:17:31,822 WeChat[11768] INFO pull a member named: 夜影流年 
+2018-03-03 22:17:31,832 WeChat[11768] INFO try to pull the group named: 新氪技术开发团队
+2018-03-03 22:17:32,134 WeChat[11768] INFO pull a member named: 许夜 
+2018-03-03 22:17:32,137 WeChat[11768] INFO pull a member named: 氤氲之息 
+2018-03-03 22:17:32,140 WeChat[11768] INFO pull a member named: 张刚 
+2018-03-03 22:17:32,143 WeChat[11768] INFO pull a member named: Young Niu 
+2018-03-03 22:17:32,144 WeChat[11768] INFO pull a member named: synchronized 
+2018-03-03 22:17:32,144 WeChat[11768] INFO pull a member named: 不精独乐 
+2018-03-03 22:17:32,144 WeChat[11768] INFO pull a member named: 朱文坚 
+2018-03-03 22:17:32,144 WeChat[11768] INFO pull a member named: 心语星空 
+2018-03-03 22:17:32,165 WeChat[11768] INFO pull a member named: 新氪HR 
+2018-03-03 22:17:32,165 WeChat[11768] INFO try to pull the group named: 相识的缘分
+2018-03-03 22:17:32,455 WeChat[11768] INFO pull a member named: zyss123 
+2018-03-03 22:17:32,465 WeChat[11768] INFO pull a member named: 石玉泉 
+2018-03-03 22:17:32,465 WeChat[11768] INFO pull a member named: 朱文坚 
+2018-03-03 22:17:32,465 WeChat[11768] INFO pull a member named: 加鑫 
+2018-03-03 22:17:32,465 WeChat[11768] INFO pull a member named: 。。。。。 
+2018-03-03 22:17:32,475 WeChat[11768] INFO pull a member named: 质壁分离 
+2018-03-03 22:17:32,495 WeChat[11768] INFO try to pull the group named: 一家人
+2018-03-03 22:17:32,975 WeChat[11768] INFO pull a member named: 菊华 
+2018-03-03 22:17:32,975 WeChat[11768] INFO pull a member named: 、尓蕞紾貴 
+2018-03-03 22:17:32,985 WeChat[11768] INFO pull a member named: 朱发平陶瓷艺术 
+2018-03-03 22:17:33,005 WeChat[11768] INFO pull a member named: 朱志平zhuzhiping 
+2018-03-03 22:17:33,005 WeChat[11768] INFO pull a member named: 朱文坚 
+2018-03-03 22:17:33,015 WeChat[11768] INFO pull a member named: 冷姐 
+2018-03-03 22:17:33,015 WeChat[11768] INFO pull a member named: 相濡以沫 
+2018-03-03 22:17:33,015 WeChat[11768] INFO pull a member named: 罗罗 
+2018-03-03 22:17:33,015 WeChat[11768] INFO pull a member named: 小布点… 
+2018-03-03 22:17:33,025 WeChat[11768] INFO pull a member named: 运棚 
+2018-03-03 22:17:33,025 WeChat[11768] INFO pull a member named: 风雨无阻 
+2018-03-03 22:17:33,025 WeChat[11768] INFO pull a member named: 健康如意 
+2018-03-03 22:17:33,025 WeChat[11768] INFO pull a member named: 浅 
+2018-03-03 22:17:33,025 WeChat[11768] INFO pull a member named: 年轻在于拼 
+2018-03-03 22:17:33,055 WeChat[11768] INFO try to pull the group named: 羽球.动起来
+2018-03-03 22:17:33,315 WeChat[11768] INFO pull a member named: 鹭岛的陆 
+2018-03-03 22:17:33,315 WeChat[11768] INFO pull a member named: 森林vp 
+2018-03-03 22:17:33,315 WeChat[11768] INFO pull a member named: 郑海亮 
+2018-03-03 22:17:33,325 WeChat[11768] INFO pull a member named: 郭昊 
+2018-03-03 22:17:33,325 WeChat[11768] INFO pull a member named: 陈菱 
+2018-03-03 22:17:33,325 WeChat[11768] INFO pull a member named: 朱文坚 
+2018-03-03 22:17:33,325 WeChat[11768] INFO try to pull the group named: 新氪群喵社群事业部
+2018-03-03 22:17:33,605 WeChat[11768] INFO pull a member named: 从波 
+2018-03-03 22:17:33,615 WeChat[11768] INFO pull a member named: 许夜 
+2018-03-03 22:17:33,615 WeChat[11768] INFO pull a member named: Ronnie.Shi 
+2018-03-03 22:17:33,615 WeChat[11768] INFO pull a member named: 张刚 
+2018-03-03 22:17:33,615 WeChat[11768] INFO pull a member named: 朱文坚 
+2018-03-03 22:17:33,625 WeChat[11768] INFO pull a member named: synchronized 
+2018-03-03 22:17:33,645 WeChat[11768] INFO pull a member named: 心语星空 
+2018-03-03 22:17:33,645 WeChat[11768] INFO pull a member named: 新氪HR 
+2018-03-03 22:17:33,655 WeChat[11768] INFO try to pull the group named: 新氪网络大团队
+2018-03-03 22:17:34,135 WeChat[11768] INFO pull a member named: 许夜 
+2018-03-03 22:17:34,145 WeChat[11768] INFO pull a member named: Ronnie.Shi 
+2018-03-03 22:17:34,165 WeChat[11768] INFO pull a member named: 张刚 
+2018-03-03 22:17:34,175 WeChat[11768] INFO pull a member named: 何勉 
+2018-03-03 22:17:34,175 WeChat[11768] INFO pull a member named: 氤氲之息 
+2018-03-03 22:17:34,175 WeChat[11768] INFO pull a member named: Young Niu 
+2018-03-03 22:17:34,185 WeChat[11768] INFO pull a member named: 老崔 
+2018-03-03 22:17:34,185 WeChat[11768] INFO pull a member named: 聂斌 
+2018-03-03 22:17:34,185 WeChat[11768] INFO pull a member named: 吕大杏 
+2018-03-03 22:17:34,185 WeChat[11768] INFO pull a member named: 王" 嘚瑟~ 
+2018-03-03 22:17:34,185 WeChat[11768] INFO pull a member named: 韩强强 
+2018-03-03 22:17:34,185 WeChat[11768] INFO pull a member named: 刘杨 
+2018-03-03 22:17:34,185 WeChat[11768] INFO pull a member named: synchronized 
+2018-03-03 22:17:34,185 WeChat[11768] INFO pull a member named: 小张 
+2018-03-03 22:17:34,185 WeChat[11768] INFO pull a member named: 不精独乐 
+2018-03-03 22:17:34,185 WeChat[11768] INFO pull a member named: 朱文坚 
+2018-03-03 22:17:34,185 WeChat[11768] INFO pull a member named: 心语星空 
+2018-03-03 22:17:34,185 WeChat[11768] INFO pull a member named: 新氪HR 
+2018-03-03 22:17:34,195 WeChat[11768] INFO try to pull the group named: 14计科班群
+2018-03-03 22:17:34,862 WeChat[11768] INFO pull a member named: 10 
+2018-03-03 22:17:34,872 WeChat[11768] INFO pull a member named: Boolean 
+2018-03-03 22:17:34,892 WeChat[11768] INFO pull a member named: 乐宝<span class="emoji emoji1f605"></span> 
+2018-03-03 22:17:34,892 WeChat[11768] INFO pull a member named: 初夏 
+2018-03-03 22:17:34,902 WeChat[11768] INFO pull a member named: <span class="emoji emoji2757"></span> 
+2018-03-03 22:17:34,902 WeChat[11768] INFO pull a member named: 涂聪 
+2018-03-03 22:17:34,902 WeChat[11768] INFO pull a member named: ltp丶 
+2018-03-03 22:17:34,902 WeChat[11768] INFO pull a member named: 追逐梦 
+2018-03-03 22:17:34,902 WeChat[11768] INFO pull a member named: 无聊 
+2018-03-03 22:17:34,902 WeChat[11768] INFO pull a member named: 亮晶晶<span class="emoji emoji1f31f"></span> 
+2018-03-03 22:17:34,902 WeChat[11768] INFO pull a member named: 冷月 
+2018-03-03 22:17:34,912 WeChat[11768] INFO pull a member named: 好名都被wuli取了 
+2018-03-03 22:17:34,912 WeChat[11768] INFO pull a member named: 辉宏网络服务 
+2018-03-03 22:17:34,912 WeChat[11768] INFO pull a member named: 陈平 
+2018-03-03 22:17:34,912 WeChat[11768] INFO pull a member named: 点亮黑暗 
+2018-03-03 22:17:34,912 WeChat[11768] INFO pull a member named: 封宇杰 
+2018-03-03 22:17:34,912 WeChat[11768] INFO pull a member named: 错了而已 
+2018-03-03 22:17:34,912 WeChat[11768] INFO pull a member named: 王思 
+2018-03-03 22:17:34,912 WeChat[11768] INFO pull a member named: freedom 
+2018-03-03 22:17:34,922 WeChat[11768] INFO pull a member named: 微笑 
+2018-03-03 22:17:34,932 WeChat[11768] INFO pull a member named: 酉&amp;星 
+2018-03-03 22:17:34,932 WeChat[11768] INFO pull a member named: YSL 
+2018-03-03 22:17:34,932 WeChat[11768] INFO pull a member named: 买个太阳不下山 
+2018-03-03 22:17:34,932 WeChat[11768] INFO pull a member named: 梦影 
+2018-03-03 22:17:34,932 WeChat[11768] INFO pull a member named: 张渠江 
+2018-03-03 22:17:34,932 WeChat[11768] INFO pull a member named: 云无心以出岫 
+2018-03-03 22:17:34,942 WeChat[11768] INFO pull a member named: 苏打水 
+2018-03-03 22:17:34,942 WeChat[11768] INFO pull a member named: 苘一夏（薛棣文） 
+2018-03-03 22:17:34,942 WeChat[11768] INFO pull a member named: 影子中的舞者 
+2018-03-03 22:17:34,942 WeChat[11768] INFO pull a member named: 小猪 
+2018-03-03 22:17:34,942 WeChat[11768] INFO pull a member named: k2278次4车85号 
+2018-03-03 22:17:34,942 WeChat[11768] INFO pull a member named: 咯哈 
+2018-03-03 22:17:34,942 WeChat[11768] INFO pull a member named: 永 
+2018-03-03 22:17:34,942 WeChat[11768] INFO pull a member named: 梦昼初 
+2018-03-03 22:17:34,952 WeChat[11768] INFO pull a member named: <span class="emoji emoji1f199"></span> 
+2018-03-03 22:17:34,952 WeChat[11768] INFO pull a member named: 饶龙 
+2018-03-03 22:17:34,962 WeChat[11768] INFO pull a member named: 胡成长 
+2018-03-03 22:17:34,962 WeChat[11768] INFO pull a member named: 小浩先森 
+2018-03-03 22:17:34,962 WeChat[11768] INFO pull a member named: 邂逅华尔兹 
+2018-03-03 22:17:34,962 WeChat[11768] INFO pull a member named: 李 
+2018-03-03 22:17:34,962 WeChat[11768] INFO pull a member named: 淡如墨雪 
+2018-03-03 22:17:34,972 WeChat[11768] INFO pull a member named: 凤尾鱼 
+2018-03-03 22:17:34,972 WeChat[11768] INFO pull a member named: 小刚 
+2018-03-03 22:17:34,972 WeChat[11768] INFO pull a member named: 淡然如水水 
+2018-03-03 22:17:34,972 WeChat[11768] INFO pull a member named: Ds 
+2018-03-03 22:17:34,972 WeChat[11768] INFO pull a member named: 帅气的向阳 
+2018-03-03 22:17:34,972 WeChat[11768] INFO pull a member named: Rookie 
+2018-03-03 22:17:34,992 WeChat[11768] INFO pull a member named: T丶ab 
+2018-03-03 22:17:35,002 WeChat[11768] INFO try to pull the group named: 藏葎閣
+2018-03-03 22:17:35,352 WeChat[11768] INFO pull a member named: 辉宏网络服务 
+2018-03-03 22:17:35,352 WeChat[11768] INFO pull a member named: 皮卡秋 
+2018-03-03 22:17:35,382 WeChat[11768] INFO pull a member named: ltp丶 
+2018-03-03 22:17:35,382 WeChat[11768] INFO pull a member named: 燕凯涛 
+2018-03-03 22:17:35,392 WeChat[11768] INFO pull a member named: 买个太阳不下山 
+2018-03-03 22:17:35,392 WeChat[11768] INFO pull a member named: 朱文坚 
+2018-03-03 22:17:35,392 WeChat[11768] INFO pull a member named: 陈平 
+2018-03-03 22:17:35,402 WeChat[11768] INFO pull a member named: YSL 
+2018-03-03 22:17:35,402 WeChat[11768] INFO pull a member named: freedom 
+2018-03-03 22:17:35,402 WeChat[11768] INFO try to pull the group named: 云谏周末足球群
+2018-03-03 22:17:35,972 WeChat[11768] INFO pull a member named: 啊泉 
+2018-03-03 22:17:36,002 WeChat[11768] INFO pull a member named: JoieFu 
+2018-03-03 22:17:36,002 WeChat[11768] INFO pull a member named: LQ 
+2018-03-03 22:17:36,012 WeChat[11768] INFO pull a member named: glory 
+2018-03-03 22:17:36,012 WeChat[11768] INFO pull a member named: 森林vp 
+2018-03-03 22:17:36,012 WeChat[11768] INFO pull a member named: 陈菱 
+2018-03-03 22:17:36,012 WeChat[11768] INFO pull a member named: 朱文坚 
+2018-03-03 22:17:36,022 WeChat[11768] INFO pull a member named: 郭昊 
+2018-03-03 22:17:36,022 WeChat[11768] INFO pull a member named: Joy 
+2018-03-03 22:17:36,022 WeChat[11768] INFO pull a member named: June 
+2018-03-03 22:17:36,042 WeChat[11768] INFO pull a member named: zyss123 
+2018-03-03 22:17:36,052 WeChat[11768] INFO pull a member named: 石玉泉 
+2018-03-03 22:17:36,052 WeChat[11768] INFO pull a member named: 刘玉洁 
+2018-03-03 22:17:36,052 WeChat[11768] INFO pull a member named: 王伟康 
+2018-03-03 22:17:36,052 WeChat[11768] INFO pull a member named: 加鑫 
+2018-03-03 22:17:36,052 WeChat[11768] INFO pull a member named: 阿杜 
+2018-03-03 22:17:36,132 WeChat[11768] DEBUG get a data : b'window.synccheck={retcode:"0",selector:"7"}':
+2018-03-03 22:17:36,132 WeChat[11768] INFO retcode: 0, selector: 7

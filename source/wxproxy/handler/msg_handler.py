@@ -6,13 +6,13 @@ import xmltodict as xmltodict
 from wxproxy.wx_apis.send import webwxsendmsg
 from common_utils.log import init_logging
 from common_utils.emoji import emoji_formatter
+from wxproxy.wx_apis.wechat_api import batch_get_contacts
 import re
 import time
 import html
 from collections import defaultdict
 
 logger = init_logging('msg')
-
 
 
 def handle_msg(account, tai, r):
@@ -35,7 +35,8 @@ def handle_msg(account, tai, r):
             logger.info('[*] 更新联系人: %s' % contact['NickName'])
     for msg in r['AddMsgList']:
         if msg['MsgType'] != 51:
-            logger.info('msg: %s' % msg)
+            # todo
+            pass
         parse_msg(account, msg)
 
 
@@ -106,22 +107,21 @@ def parse_msg(account, msg):
         pass
     else:
         message = '[*] 不支持的消息类型，请在手机上查看'
-        logger.warning(json.dumps(msg))
+        # logger.warning(json.dumps(msg))
 
     sender_id = msg['FromUserName']
     receiver_id = msg['ToUserName']
-
+    group_id = ''
+    flag_group = False
     # 收到群消息，解析出发送者
-    """
     if msg['FromUserName'][:2] == '@@':
+        flag_group = True
         group_id = sender_id
-
         r = re.match('(@[0-9a-z]*?):<br/>(.*)$', content)
         if r:
             sender_id, content = r.groups()
         receiver_id = group_id
     content = message if message else content.replace('<br/>', '\n')
-    """
     if sender_id == 'newsapp':
         content = 'message from newsapp'
 
@@ -131,7 +131,7 @@ def parse_msg(account, msg):
             op = int(d['msg']['op']['@id'])
         except Exception as e:
             if e.__class__.__name__ == 'ExpatError':
-                logger.warning('Caught error {e.__class__}: {e.message}'.format(e=e))
+                # logger.warning('Caught error {e.__class__}: {e.message}'.format(e=e))
                 logger.warning('Assuming phone entering chat UI')
             op = 0
 
@@ -148,13 +148,20 @@ def parse_msg(account, msg):
         elif op == 9:
             content = '[*] 朋友圈刷新'
 
-        if int(op) in (1, 2, 5):
-            username = d['msg']['op']['username']
+        # if int(op) in (1, 2, 5):
+        #    username = d['msg']['op']['username']
 
-    date = time.strftime('%Y-%m-%d %H:%M:%S',
-                         time.localtime(msg['CreateTime']))
-    logger.info('%s %s -> %s: %s' % (date, sender_id, receiver_id, content))
-    webwxsendmsg(account, '别说话下班了...', sender_id)
+    if flag_group:
+        contact_ids = [sender_id, receiver_id, group_id]
+        contact_info = batch_get_contacts(account['login_info'], contact_ids)
+        logger.info('群消息--> 群名称: %s 类型:%s  来自:%s : 内容:%s' % (contact_info[2]['NickName'], message,
+                                                             contact_info[0]['NickName'], content))
+        # webwxsendmsg(account, '又是开心的一天呢', group_id)
+    else:
+        contact_ids = [sender_id, receiver_id]
+        contact_info = batch_get_contacts(account['login_info'], contact_ids)
+        logger.info('个人消息-->: 好友名称:%s 类型:%s: 内容:%s' % (contact_info[0]['NickName'], message, content))
+        # webwxsendmsg(account, '别说话下班了...', sender_id)
     return
 
 

@@ -15,7 +15,6 @@ def webwxsendmsg(account, content, to='filehelper'):
     login_info = account['login_info']
     url = login_info['base_uri'] + \
           '/webwxsendmsg?pass_ticket=%s' % (login_info['pass_ticket'])
-    logging.debug("url : %s " % url)
     msgid = get_r()
     params = {
         'BaseRequest': get_base_request(**login_info),
@@ -28,7 +27,6 @@ def webwxsendmsg(account, content, to='filehelper'):
             "ClientMsgId": msgid
         }
     }
-    logging.debug('params: %s' % params)
     # print(params)
     headers = {'content-type': 'application/json; charset=UTF-8'}
     data = json.dumps(params, ensure_ascii=False).encode('utf8')
